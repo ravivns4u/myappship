@@ -1,0 +1,1789 @@
+<svg id="Group_221142" data-name="Group 221142" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="411.346" height="272.529" viewBox="0 0 411.346 272.529">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_86271" data-name="Rectangle 86271" width="411.346" height="272.529" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_298117" data-name="Path 298117" d="M285.752,22.956c-21.656,19.005-59.1,34.509-85.782,26.1C188.25,45.363,178.707,37.984,169.281,30.9c-8.556-6.426-17.97-14.768-29.7-14.71a109.2,109.2,0,0,0-37.306,6.754C91.3,27.023,80.978,32.91,69.335,34.933,55.728,37.3,41.205,34.2,28.1,38.285A40.041,40.041,0,0,0,4.388,58.852C-.167,68.2-.949,78.866,1,88.943a60.873,60.873,0,0,0,7.634,19.789c3.9,6.475,8.979,12.283,14.123,17.988,7.836,8.691,15.935,17.3,21.865,27.169.689,1.147,1.307,2.28,1.863,3.405,4.174,8.442,4.884,16.387,6.482,25.752,1.471,8.618,4.527,16.347,3.685,25.373-.729,7.811,1.06,13.753,5.757,20.517,9.379,13.505,25.954,22.074,43.537,22.074h98.82c20.014-.671,85.906-.5,93.226,0h27.991c14.746,0,31.647,2.034,45.59-3.21a40.806,40.806,0,0,0,17.563-12.436c4.934-6.206,6.065-15.254,7.386-22.722,4.785-27.032-2.634-43.911-13.5-66.787-7.642-16.09-8.259-29.9-4.307-47.464,4.365-19.4,8.58-44.183-1.865-61.831-9.2-15.552-23.671-26.578-39.17-30.638a45.678,45.678,0,0,0-11.617-1.537c-14.726,0-27.741,7.537-40.313,18.57" transform="translate(0 -4.386)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.002" y1="1.093" x2="0.003" y2="1.093" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dae3fe"/>
+      <stop offset="1" stop-color="#e9effd"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_86048" data-name="Rectangle 86048" width="411.345" height="272.53" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_86046" data-name="Rectangle 86046" width="37.69" height="163.132" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectangle_86047" data-name="Rectangle 86047" width="78.714" height="144.121" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path id="Path_298126" data-name="Path 298126" d="M464.872,126.594c-3.013,68.643,54.608,126.926,128.7,130.179s136.6-49.757,139.614-118.4S678.581,11.447,604.487,8.194q-3.249-.143-6.463-.142c-71.23,0-130.226,51.906-133.151,118.542" transform="translate(-464.759 -8.052)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-0.13" y1="0.925" x2="-0.129" y2="0.925" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4042e2"/>
+      <stop offset="1" stop-color="#4f52ff"/>
+    </linearGradient>
+    <clipPath id="clip-path-8">
+      <rect id="Rectangle_86050" data-name="Rectangle 86050" width="210.748" height="199.089" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect id="Rectangle_86058" data-name="Rectangle 86058" width="243.562" height="243.655" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <rect id="Rectangle_86051" data-name="Rectangle 86051" width="68.734" height="242.983" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <rect id="Rectangle_86052" data-name="Rectangle 86052" width="186.521" height="243.655" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <rect id="Rectangle_86053" data-name="Rectangle 86053" width="224.109" height="1.161" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <rect id="Rectangle_86054" data-name="Rectangle 86054" width="159.168" height="1.161" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-14">
+      <rect id="Rectangle_86055" data-name="Rectangle 86055" width="243.562" height="1.16" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <rect id="Rectangle_86056" data-name="Rectangle 86056" width="224.109" height="1.16" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <rect id="Rectangle_86057" data-name="Rectangle 86057" width="159.825" height="0.858" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-17">
+      <path id="Path_298136" data-name="Path 298136" d="M993.677,42.627a11.669,11.669,0,1,0,11.669-11.669,11.669,11.669,0,0,0-11.669,11.669" transform="translate(-993.677 -30.958)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="-8.024" y1="11.428" x2="-8.016" y2="11.428" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe7062"/>
+      <stop offset="1" stop-color="#ff928e"/>
+    </linearGradient>
+    <clipPath id="clip-path-18">
+      <path id="Path_298137" data-name="Path 298137" d="M1005.255,89.555H993.585s-.929,6.477,9.486,24.217a2.549,2.549,0,0,0,4.366.008c10.413-17.742,9.466-24.225,9.466-24.225Z" transform="translate(-993.564 -89.555)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="-7.396" y1="10.044" x2="-7.389" y2="10.044" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-20">
+      <rect id="Rectangle_86062" data-name="Rectangle 86062" width="24.037" height="37.148" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-21">
+      <path id="Path_298140" data-name="Path 298140" d="M1018.8,62.039a6.362,6.362,0,1,1,6.362,6.362,6.369,6.369,0,0,1-6.362-6.362m-.753,0a7.114,7.114,0,1,0,7.114-7.114,7.122,7.122,0,0,0-7.114,7.114" transform="translate(-1018.045 -54.925)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="-9.399" y1="13.189" x2="-9.39" y2="13.189" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1473d"/>
+      <stop offset="1" stop-color="#e9605a"/>
+    </linearGradient>
+    <clipPath id="clip-path-22">
+      <path id="Path_298141" data-name="Path 298141" d="M1021.32,43.542a.113.113,0,1,0,.147.171,10.232,10.232,0,0,1,6.663-2.466.113.113,0,0,0,0-.226,10.457,10.457,0,0,0-6.81,2.521" transform="translate(-1021.28 -41.021)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-6" x1="-26.314" y1="70.777" x2="-26.288" y2="70.777" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff928e"/>
+      <stop offset="1" stop-color="#feb3b1"/>
+    </linearGradient>
+    <clipPath id="clip-path-23">
+      <path id="Path_298142" data-name="Path 298142" d="M1003.7,67.07a10.434,10.434,0,0,0-1.564,5.5.113.113,0,1,0,.226,0,10.207,10.207,0,0,1,1.53-5.385.113.113,0,1,0-.192-.119" transform="translate(-1002.137 -67.016)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-7" x1="-71.637" y1="44.241" x2="-71.565" y2="44.241" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-25">
+      <path id="Path_298148" data-name="Path 298148" d="M1372.67,191.935a11.669,11.669,0,1,0,11.669-11.669,11.669,11.669,0,0,0-11.669,11.669" transform="translate(-1372.67 -180.266)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-8" x1="-11.085" y1="10.222" x2="-11.077" y2="10.222" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-26">
+      <path id="Path_298149" data-name="Path 298149" d="M1384.248,238.862h-11.669s-.929,6.477,9.485,24.217a2.549,2.549,0,0,0,4.366.008c10.414-17.742,9.466-24.226,9.466-24.226Z" transform="translate(-1372.557 -238.862)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-9" x1="-10.232" y1="8.938" x2="-10.224" y2="8.938" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-28">
+      <rect id="Rectangle_86070" data-name="Rectangle 86070" width="24.039" height="37.148" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-29">
+      <path id="Path_298152" data-name="Path 298152" d="M1397.791,211.347a6.362,6.362,0,1,1,6.361,6.362,6.369,6.369,0,0,1-6.361-6.362m-.753,0a7.114,7.114,0,1,0,7.114-7.114,7.122,7.122,0,0,0-7.114,7.114" transform="translate(-1397.038 -204.233)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-10" x1="-13.02" y1="11.846" x2="-13.011" y2="11.846" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-31">
+      <path id="Path_298155" data-name="Path 298155" d="M1521.063,717.263a11.669,11.669,0,1,0,11.669-11.669,11.669,11.669,0,0,0-11.669,11.669" transform="translate(-1521.063 -705.594)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-11" x1="-12.283" y1="5.98" x2="-12.275" y2="5.98" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-32">
+      <path id="Path_298156" data-name="Path 298156" d="M1532.64,764.191h-11.669s-.929,6.477,9.486,24.217a2.549,2.549,0,0,0,4.365.009c10.414-17.742,9.466-24.226,9.466-24.226Z" transform="translate(-1520.95 -764.191)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-12" x1="-11.342" y1="5.049" x2="-11.334" y2="5.049" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-34">
+      <rect id="Rectangle_86076" data-name="Rectangle 86076" width="24.038" height="37.148" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-35">
+      <path id="Path_298159" data-name="Path 298159" d="M1546.184,736.676a6.362,6.362,0,1,1,6.362,6.361,6.369,6.369,0,0,1-6.362-6.361m-.753,0a7.114,7.114,0,1,0,7.114-7.114,7.122,7.122,0,0,0-7.114,7.114" transform="translate(-1545.431 -729.562)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-13" x1="-14.419" y1="6.896" x2="-14.409" y2="6.896" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-37">
+      <path id="Path_298162" data-name="Path 298162" d="M959.417,495.877a11.669,11.669,0,1,0,11.669-11.669,11.669,11.669,0,0,0-11.669,11.669" transform="translate(-959.417 -484.208)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-14" x1="-7.748" y1="7.767" x2="-7.74" y2="7.767" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-38">
+      <path id="Path_298163" data-name="Path 298163" d="M970.994,542.805H959.325s-.929,6.477,9.486,24.217a2.549,2.549,0,0,0,4.366.008c10.413-17.742,9.465-24.225,9.465-24.225Z" transform="translate(-959.304 -542.805)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-15" x1="-7.14" y1="6.688" x2="-7.133" y2="6.688" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-41">
+      <path id="Path_298166" data-name="Path 298166" d="M984.538,515.289a6.362,6.362,0,1,1,6.361,6.362,6.369,6.369,0,0,1-6.361-6.362m-.753,0a7.114,7.114,0,1,0,7.114-7.115,7.122,7.122,0,0,0-7.114,7.115" transform="translate(-983.785 -508.175)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-16" x1="-9.078" y1="8.94" x2="-9.069" y2="8.94" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-43">
+      <rect id="Rectangle_86087" data-name="Rectangle 86087" width="40.078" height="3.826" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-17" x1="-4.37" y1="4.881" x2="-4.363" y2="4.881" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#09005d"/>
+      <stop offset="1" stop-color="#1a0f91"/>
+    </linearGradient>
+    <clipPath id="clip-path-44">
+      <rect id="Rectangle_86089" data-name="Rectangle 86089" width="1.093" height="4.737" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-18" x1="-26.759" y1="38.204" x2="-26.716" y2="38.204" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-46">
+      <path id="Path_298172" data-name="Path 298172" d="M865.565,665.583l-10.394.2-.045,2.954,10.378.255c.381,0,.7-.183.7-.441v-2.5a.361.361,0,0,0-.162-.334.811.811,0,0,0-.457-.132h-.02" transform="translate(-855.126 -665.583)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-19" x1="-16.708" y1="14.074" x2="-16.689" y2="14.074" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-47">
+      <path id="Path_298173" data-name="Path 298173" d="M855.811,590.567a.516.516,0,0,0-.466.522l.141,4.765a.47.47,0,0,0,.392.45l7.227,1.169a.465.465,0,0,0,.526-.573l-1.5-5.954a.493.493,0,0,0-.452-.38Z" transform="translate(-855.345 -590.567)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-20" x1="-15.029" y1="15.06" x2="-15.011" y2="15.06" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-48">
+      <path id="Path_298174" data-name="Path 298174" d="M895.632,590.366a.466.466,0,0,0-.374.581l1.635,6.081a.466.466,0,0,0,.536.337l.516-.1-2.237-6.915Z" transform="translate(-895.242 -590.353)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-21" x1="-23.208" y1="24.42" x2="-23.182" y2="24.42" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-50">
+      <path id="Path_298176" data-name="Path 298176" d="M849.138,662.407a4.728,4.728,0,1,0,4.728-4.728,4.728,4.728,0,0,0-4.728,4.728" transform="translate(-849.138 -657.679)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-22" x1="-11.876" y1="11.306" x2="-11.862" y2="11.306" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-52">
+      <path id="Path_298179" data-name="Path 298179" d="M864.881,675.183a1.761,1.761,0,1,0,1.761-1.761,1.761,1.761,0,0,0-1.761,1.761" transform="translate(-864.881 -673.422)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-23" x1="-32.73" y1="29.513" x2="-32.692" y2="29.513" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-53">
+      <path id="Path_298180" data-name="Path 298180" d="M694.471,662.407a4.728,4.728,0,1,0,4.728-4.728,4.728,4.728,0,0,0-4.728,4.728" transform="translate(-694.471 -657.679)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-24" x1="-9.687" y1="11.306" x2="-9.672" y2="11.306" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-55">
+      <path id="Path_298183" data-name="Path 298183" d="M710.214,675.183a1.761,1.761,0,1,0,1.761-1.761,1.761,1.761,0,0,0-1.761,1.761" transform="translate(-710.214 -673.422)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-25" x1="-26.851" y1="29.513" x2="-26.813" y2="29.513" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-56">
+      <path id="Path_298184" data-name="Path 298184" d="M637.084,662.407a4.728,4.728,0,1,0,4.728-4.728,4.728,4.728,0,0,0-4.728,4.728" transform="translate(-637.084 -657.679)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-26" x1="-8.874" y1="11.306" x2="-8.86" y2="11.306" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-58">
+      <path id="Path_298187" data-name="Path 298187" d="M652.827,675.183a1.761,1.761,0,1,0,1.761-1.761,1.761,1.761,0,0,0-1.761,1.761" transform="translate(-652.827 -673.422)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-27" x1="-24.67" y1="29.514" x2="-24.632" y2="29.514" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-59">
+      <path id="Rectangle_86106" data-name="Rectangle 86106" d="M1.092,0h0A1.093,1.093,0,0,1,2.186,1.093v.547A1.093,1.093,0,0,1,1.093,2.733h0A1.093,1.093,0,0,1,0,1.64V1.092A1.092,1.092,0,0,1,1.092,0Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-28" x1="-77.708" y1="54.803" x2="-77.622" y2="54.803" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-61">
+      <rect id="Rectangle_86109" data-name="Rectangle 86109" width="0.928" height="8.569" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-29" x1="-75.232" y1="28.706" x2="-75.184" y2="28.706" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-62">
+      <path id="Path_298193" data-name="Path 298193" d="M1583.1,177.03a.519.519,0,0,0-.519.519v.075h2.53v-.075a.518.518,0,0,0-.518-.519Z" transform="translate(-1582.583 -177.03)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-30" x1="-115.865" y1="163.447" x2="-115.792" y2="163.447" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-63">
+      <rect id="Rectangle_86112" data-name="Rectangle 86112" width="1.649" height="4.38" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-31" x1="-96.551" y1="49.79" x2="-96.491" y2="49.79" xlink:href="#linear-gradient-17"/>
+    <linearGradient id="linear-gradient-32" x1="-92.665" y1="49.789" x2="-92.604" y2="49.789" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-66">
+      <path id="Path_298197" data-name="Path 298197" d="M1503.553,321.612l-30.776.43c.325,2.83,4.325,5.4,10.228,7.748a5.671,5.671,0,0,1,3.556,3.7l1.773,6.92,48.2-.264c1.153-2.915,4.919-5.029,9.005-6.993l4.478-8.489-10.955.114a.64.64,0,0,0-.551.326l-1.02,1.81-27.771-.519c-2.156-.04-4.118-.915-4.91-2.669l-.8-1.829a.483.483,0,0,0-.442-.289h-.007" transform="translate(-1472.777 -321.612)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-33" x1="-5.844" y1="3.1" x2="-5.84" y2="3.1" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-68">
+      <rect id="Rectangle_86128" data-name="Rectangle 86128" width="162.134" height="9.837" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-34" x1="-1.656" y1="0.681" x2="-1.654" y2="0.681" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-69">
+      <rect id="Rectangle_86130" data-name="Rectangle 86130" width="3.279" height="13.481" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-35" x1="-16.183" y1="4.832" x2="-16.17" y2="4.832" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-70">
+      <path id="Path_298206" data-name="Path 298206" d="M379.97,932.752c-3.957,0-6.4,2.01-6.4,4.466V993.1c0,2.456,2.446,4.507,6.4,4.507H529.021c3.957,0,7.227-2.051,7.227-4.507v-55.88c0-2.456-3.27-4.466-7.227-4.466Z" transform="translate(-373.567 -932.752)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-36" x1="-0.368" y1="1.007" x2="-0.367" y2="1.007" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-71">
+      <path id="Path_298207" data-name="Path 298207" d="M399.725,948.219c-3.732,0-6.826,1.556-6.826,3.8v51.08c0,2.247,3.094,3.959,6.826,3.959h140.61c3.732,0,6.865-1.711,6.865-3.959v-51.08c0-2.248-3.134-3.8-6.865-3.8Z" transform="translate(-392.899 -948.219)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-37" x1="-0.416" y1="1.066" x2="-0.415" y2="1.066" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-72">
+      <path id="Path_298208" data-name="Path 298208" d="M163.1,1042.947c-.6,0-1.13.1-1.314.667l-7.349,22.427-1.74,29.919h40.169v-53.013Z" transform="translate(-152.696 -1042.947)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-38" x1="-0.392" y1="1.662" x2="-0.388" y2="1.662" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-73">
+      <path id="Path_298209" data-name="Path 298209" d="M146.272,1281.381c-.4.26-.829.617-.829.99v7.41c0,.763,1.273,1.306,2.4,1.306l31.056-.755-.176-8.748-30.866-.593H147.8a2.991,2.991,0,0,0-1.528.391" transform="translate(-145.443 -1280.99)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-39" x1="-0.81" y1="2.883" x2="-0.804" y2="2.883" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-74">
+      <path id="Path_298210" data-name="Path 298210" d="M197.97,1059.38a1.413,1.413,0,0,0-1.338,1.077l-4.442,17.582a1.379,1.379,0,0,0,1.558,1.7l21.4-3.459a1.385,1.385,0,0,0,1.16-1.327l.417-14.1a1.441,1.441,0,0,0-1.38-1.474Z" transform="translate(-192.147 -1059.38)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-40" x1="-1.126" y1="2.491" x2="-1.12" y2="2.491" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-75">
+      <path id="Path_298211" data-name="Path 298211" d="M161.931,1078.709l1.529.287a1.38,1.38,0,0,0,1.587-1l4.842-18.007a1.38,1.38,0,0,0-1.107-1.72l-.227-.037Z" transform="translate(-161.931 -1058.233)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-41" x1="-1.057" y1="4.15" x2="-1.049" y2="4.15" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-76">
+      <path id="Rectangle_86138" data-name="Rectangle 86138" d="M1.366,0H6.649A1.366,1.366,0,0,1,8.016,1.366v0A1.366,1.366,0,0,1,6.649,2.733H1.366A1.366,1.366,0,0,1,0,1.366v0A1.366,1.366,0,0,1,1.366,0Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-42" x1="-8.765" y1="6.449" x2="-8.734" y2="6.449" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-77">
+      <path id="Path_298212" data-name="Path 298212" d="M285.015,958.078c-14.989,1.094-15.957,15.989-15.957,15.989H287.3V959.589c0-.465-.438-.83-.778-1.146a2.064,2.064,0,0,0-1.3-.372c-.07,0-.138,0-.2.007" transform="translate(-269.058 -958.071)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-43" x1="-2.15" y1="4.067" x2="-2.141" y2="4.067" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-78">
+      <path id="Path_298213" data-name="Path 298213" d="M192.364,1271.586a14,14,0,1,0,14-14,14,14,0,0,0-14,14" transform="translate(-192.364 -1257.586)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-44" x1="-1.295" y1="1.269" x2="-1.288" y2="1.269" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-79">
+      <path id="Path_298214" data-name="Path 298214" d="M206.321,1282.913a11.369,11.369,0,1,0,11.369-11.369,11.369,11.369,0,0,0-11.369,11.369" transform="translate(-206.321 -1271.544)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-45" x1="-1.063" y1="1.17" x2="-1.058" y2="1.17" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-81">
+      <path id="Path_298216" data-name="Path 298216" d="M238.981,1309.418a5.214,5.214,0,1,0,5.214-5.214,5.214,5.214,0,0,0-5.214,5.214" transform="translate(-238.981 -1304.204)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-46" x1="-2.998" y1="1.998" x2="-2.985" y2="1.998" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-82">
+      <path id="Path_298217" data-name="Path 298217" d="M899.015,1273.658a14,14,0,1,0,14-14,14,14,0,0,0-14,14" transform="translate(-899.015 -1259.659)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-47" x1="-4.395" y1="1.064" x2="-4.39" y2="1.064" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-83">
+      <path id="Path_298218" data-name="Path 298218" d="M912.973,1284.985a11.369,11.369,0,1,0,11.369-11.369,11.369,11.369,0,0,0-11.369,11.369" transform="translate(-912.973 -1273.616)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-48" x1="-5.207" y1="1.157" x2="-5.201" y2="1.157" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-85">
+      <path id="Path_298220" data-name="Path 298220" d="M945.632,1311.49a5.214,5.214,0,1,0,5.214-5.214,5.214,5.214,0,0,0-5.214,5.214" transform="translate(-945.632 -1306.276)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-49" x1="-12.269" y1="1.971" x2="-12.256" y2="1.971" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-86">
+      <path id="Path_298221" data-name="Path 298221" d="M480.413,1273.658a14,14,0,1,0,14-14,14,14,0,0,0-14,14" transform="translate(-480.413 -1259.659)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-50" x1="-3.234" y1="1.255" x2="-3.227" y2="1.255" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-87">
+      <path id="Path_298222" data-name="Path 298222" d="M494.37,1284.985a11.369,11.369,0,1,0,11.369-11.369,11.369,11.369,0,0,0-11.369,11.369" transform="translate(-494.37 -1273.616)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-51" x1="-2.752" y1="1.157" x2="-2.747" y2="1.157" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-89">
+      <path id="Path_298224" data-name="Path 298224" d="M527.029,1311.49a5.214,5.214,0,1,0,5.214-5.214,5.214,5.214,0,0,0-5.214,5.214" transform="translate(-527.029 -1306.276)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-52" x1="-6.777" y1="1.971" x2="-6.764" y2="1.971" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-90">
+      <path id="Path_298225" data-name="Path 298225" d="M1068.943,1273.658a14,14,0,1,0,14-14,14,14,0,0,0-14,14" transform="translate(-1068.943 -1259.659)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-53" x1="-7.195" y1="1.255" x2="-7.188" y2="1.255" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-91">
+      <path id="Path_298226" data-name="Path 298226" d="M1082.9,1284.985a11.369,11.369,0,1,0,11.369-11.369,11.369,11.369,0,0,0-11.369,11.369" transform="translate(-1082.9 -1273.616)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-54" x1="-6.203" y1="1.157" x2="-6.197" y2="1.157" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-93">
+      <path id="Path_298228" data-name="Path 298228" d="M1115.559,1311.49a5.214,5.214,0,1,0,5.214-5.214,5.214,5.214,0,0,0-5.214,5.214" transform="translate(-1115.559 -1306.276)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-55" x1="-15.834" y1="2.102" x2="-15.82" y2="2.102" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-94">
+      <path id="Rectangle_86157" data-name="Rectangle 86157" d="M3.279,0h0A3.279,3.279,0,0,1,6.558,3.279v.365A3.279,3.279,0,0,1,3.279,6.923h0A3.279,3.279,0,0,1,0,3.643V3.279A3.279,3.279,0,0,1,3.279,0Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-56" x1="-3.123" y1="4.586" x2="-3.102" y2="4.586" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-96">
+      <rect id="Rectangle_86158" data-name="Rectangle 86158" width="3.097" height="8.016" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-97">
+      <rect id="Rectangle_86159" data-name="Rectangle 86159" width="0.364" height="32.609" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-98">
+      <rect id="Rectangle_86160" data-name="Rectangle 86160" width="13.418" height="11.701" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-99">
+      <path id="Path_298232" data-name="Path 298232" d="M1036.413,999.06c-.579,1.278-3.725,1.5-4.05,4.126a3.008,3.008,0,0,1-2.517,2.644c-3.358.515-8.531,2.258-9.359,8.087-.632,4.449,1.636,6.136,4.017,6.72a3.371,3.371,0,0,1,2.556,3.894c-.339,1.693.167,3.65,3.1,5.2,6.572,3.468,13.136-8.216,13.136-8.216l1.345-20.4L1041.8,993.3s-3.271,1.09-5.391,5.764" transform="translate(-1020.379 -993.296)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-57" x1="-3.915" y1="2.23" x2="-3.911" y2="2.23" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-100">
+      <path id="Path_298233" data-name="Path 298233" d="M1151.028,1005.387s1.9,5.4,3.361,6.021c0,0,11.978-9.994,15.056-19.632l-.494-1.84s-8.187,12.95-17.923,15.451" transform="translate(-1151.028 -989.936)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-58" x1="-8.268" y1="3.671" x2="-8.261" y2="3.671" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-101">
+      <path id="Path_298234" data-name="Path 298234" d="M1015.08,1425a7.942,7.942,0,0,0-1.463,2.85.771.771,0,0,0,.648,1,13.928,13.928,0,0,0,2.92-.046.9.9,0,0,0,.79-.788l.266-2.181a.746.746,0,0,0-.74-.835Z" transform="translate(-1013.581 -1424.996)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-59" x1="-39.576" y1="1" x2="-39.537" y2="1" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-102">
+      <path id="Path_298235" data-name="Path 298235" d="M1115.9,1295.8l-1.25,2.349a4.764,4.764,0,0,0-.542,2.634l1.3,15.52-.99,1.36.12.737,6.045,3.567-2.378-3.862a4.342,4.342,0,0,1-.642-2.468c.243-5.542,1.611-19.4,1.611-19.4l-.408-2.4Z" transform="translate(-1114.093 -1293.839)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-60" x1="-23.394" y1="1.012" x2="-23.373" y2="1.012" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-103">
+      <path id="Path_298236" data-name="Path 298236" d="M1113.311,1417.823l.569,3.542h.45s-.1-2.851.7-2.8c.6.04,1.841,1.564,2.443,2.346a1.16,1.16,0,0,0,.921.452h1.929a.51.51,0,0,0,.095-1.011,2.762,2.762,0,0,0-.784-.021s-3.051-2.147-4.045-2.747a2.965,2.965,0,0,1-1.177-1.955,2.1,2.1,0,0,0-1.1,2.192" transform="translate(-1113.284 -1415.631)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-61" x1="-26.684" y1="1" x2="-26.66" y2="1" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-104">
+      <path id="Path_298237" data-name="Path 298237" d="M1028.44,1295.6c-3.341,2.556-4.209,5.33-4.976,7.888s-2.166,9.914-2.817,11.538c-.545,1.359-2.016,4.357-2.479,5.3a.857.857,0,0,0,.032.829,1.409,1.409,0,0,0,1.311.6c1.469,0,2-.411,2.028-.839a33.316,33.316,0,0,1,1.737-6.639c1.274-3.47,9.286-18.67,9.286-18.67a2.377,2.377,0,0,0-1.882-1,3.683,3.683,0,0,0-2.241,1" transform="translate(-1018.077 -1294.597)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-62" x1="-11.36" y1="1.029" x2="-11.349" y2="1.029" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-105">
+      <path id="Path_298238" data-name="Path 298238" d="M1104.985,1075.12s5.236,4.953,3.169,13.712a7.993,7.993,0,0,0,7.179.7s3.638-9.613,4.037-11.539c.682-3.287-5.062-7.486-5.062-7.486s-6.02,1.443-9.324,4.615" transform="translate(-1104.985 -1070.506)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-63" x1="-7.951" y1="2.999" x2="-7.944" y2="2.999" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-106">
+      <path id="Path_298239" data-name="Path 298239" d="M1076.572,1172.083c-.841,2.534-1.578,14.96-4.856,20.781,0,0,7.917,2.092,13.065,1.049,0,0,3.267-17.223,3.788-19.9a14.4,14.4,0,0,0-.234-5.564,7.994,7.994,0,0,1-7.18-.7s-3.742,1.8-4.583,4.336" transform="translate(-1071.716 -1167.747)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-64" x1="-6.028" y1="1.845" x2="-6.023" y2="1.845" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-107">
+      <path id="Path_298240" data-name="Path 298240" d="M1127.182,1036.7l-1.681,7.548c-.161.665.445.556,1.117.43,1.1-.208,2.52-.635,2.994-1.491a.818.818,0,0,0,.086-.285l.722-5.234a.941.941,0,0,0-.551-.988l-1.393-.618a.939.939,0,0,0-1.3.639" transform="translate(-1125.475 -1035.976)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-65" x1="-33.556" y1="8.128" x2="-33.526" y2="8.128" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-108">
+      <path id="Path_298241" data-name="Path 298241" d="M1128.785,1007.867a5.943,5.943,0,0,0,4.746,2.676c1.281.068,2.53-1.039,1.761-4.123a7.446,7.446,0,0,0-2.558-4.295,1.679,1.679,0,0,0-.911-.269c-2.163,0-4.446,4.075-3.039,6.01" transform="translate(-1128.351 -1001.857)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-66" x1="-21.396" y1="8.591" x2="-21.377" y2="8.591" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-109">
+      <path id="Path_298242" data-name="Path 298242" d="M1118.386,990.375c-1.526,2.783-2.079,4.739-.8,6.468s2.241.246,2.241.246-.587-1.5-.1-2.139,1.115.374,1.115.374l.252-.073s-.655-4.419,3.014-3.743l.742.772s1.8-2.022-.192-3.551a4.087,4.087,0,0,0-2.491-.885,4.357,4.357,0,0,0-3.78,2.531" transform="translate(-1116.875 -987.844)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-67" x1="-14.207" y1="6.081" x2="-14.194" y2="6.081" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-110">
+      <path id="Path_298243" data-name="Path 298243" d="M1239.633,968.148c-.379.336-.533,2.5-.62,3,.316,1.139,1.309.954,1.285.687a2.077,2.077,0,0,0,1.72-.572c.434-.4.915-.928,1.273-1.337a2.1,2.1,0,0,0,.531-1.47,7.283,7.283,0,0,0-.492-1.879l1.8-1.213a.736.736,0,0,0,.125-1.02,40.039,40.039,0,0,0-5.62,3.807" transform="translate(-1239.013 -964.341)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-68" x1="-24.453" y1="10.581" x2="-24.433" y2="10.581" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-111">
+      <path id="Path_298244" data-name="Path 298244" d="M1245.54,980.758l-.682,1.069.229.147.644-1.008,1.466-.784a.319.319,0,0,1,.1.2.644.644,0,0,1-.231.431,15.357,15.357,0,0,0-1.314,2.617l.252.1a14.652,14.652,0,0,1,1.259-2.532.873.873,0,0,0,.306-.636.634.634,0,0,0-.267-.454l-.07-.057Z" transform="translate(-1244.858 -979.853)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-69" x1="-86.079" y1="23.882" x2="-86.01" y2="23.882" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-112">
+      <path id="Path_298245" data-name="Path 298245" d="M1025.013,1094.334s-9.3,19.1-12.672,20.77a37.888,37.888,0,0,0-5.514.991.547.547,0,0,0,.022,1.052,8.29,8.29,0,0,0,6.087-.472s-1.189,1.782-.5,2.477c0,0,1.586-1.882,2.18-2.477.523-.523,10.05-10.91,14.055-17.174a4.14,4.14,0,0,0-.126-2.567c-.443-1.1-1.347-2.753-2.77-2.753a2.1,2.1,0,0,0-.767.153" transform="translate(-1006.441 -1094.181)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-70" x1="-7.504" y1="2.484" x2="-7.496" y2="2.484" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-114">
+      <path id="Rectangle_86180" data-name="Rectangle 86180" d="M1.749,0H30.277a1.748,1.748,0,0,1,1.748,1.748v0A1.749,1.749,0,0,1,30.277,3.5H1.749A1.749,1.749,0,0,1,0,1.749v0A1.749,1.749,0,0,1,1.749,0Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-71" x1="-20.807" y1="4.35" x2="-20.795" y2="4.35" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-115">
+      <path id="Path_298250" data-name="Path 298250" d="M1688.544,615.667c-1.494,0-1.791,1.063-1.869,2.424l-2.747,31.359a2.679,2.679,0,0,0,2.8,2.7h29.927a2.678,2.678,0,0,0,2.8-2.71l-3.052-31.242c-.085-1.357-.226-2.53-1.714-2.53Z" transform="translate(-1683.924 -615.667)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-72" x1="-6.825" y1="3.555" x2="-6.821" y2="3.555" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-116">
+      <path id="Path_298251" data-name="Path 298251" d="M1778.223,615.667v36.482h14.964a2.678,2.678,0,0,0,2.8-2.71l-3.052-31.242c-.085-1.357-.226-2.53-1.714-2.53Z" transform="translate(-1778.223 -615.667)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-73" x1="-8.113" y1="4.334" x2="-8.108" y2="4.334" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-118">
+      <path id="Path_298262" data-name="Path 298262" d="M1922.306,1019.247c-3.04,2.4-7.119,6.345-13.378,5.406a18.166,18.166,0,0,1-6.722-2.617l-2.075-1.117s-1.026,2.069,3.676,4.873a19.167,19.167,0,0,0,4.279,2.735c4.132,1.953,10.685,3.291,17.077-2.735l4.28-8.169a4.914,4.914,0,0,0-2.011-.374,8.248,8.248,0,0,0-5.126,2" transform="translate(-1900.036 -1017.248)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-74" x1="-17.515" y1="2.747" x2="-17.506" y2="2.747" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a22b25"/>
+      <stop offset="1" stop-color="#c0423c"/>
+    </linearGradient>
+    <clipPath id="clip-path-119">
+      <path id="Path_298263" data-name="Path 298263" d="M1871.307,1027.062c.954.367.89.907.89.907l-4.212,1.694a1.53,1.53,0,0,0-.9.979l-.233.774a19.276,19.276,0,0,0,7.873-.619l1.084-1.426a4.465,4.465,0,0,0-2.027-2.207c-1.908-.943-3.21-1.537-3.21-1.537a1.267,1.267,0,0,0,.73,1.435" transform="translate(-1866.857 -1025.627)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-75" x1="-44.84" y1="8.083" x2="-44.816" y2="8.083" xlink:href="#linear-gradient-74"/>
+    <clipPath id="clip-path-120">
+      <path id="Path_298264" data-name="Path 298264" d="M2014.51,1368.384l-8.455,3.886a.9.9,0,0,0-.461.486.4.4,0,0,0,.354.552c1.837.082,6.955-.112,9.348-.211a1.238,1.238,0,0,0,1.185-1.341c-.157-1.8-.478-3.612-.478-3.612Z" transform="translate(-2005.565 -1368.142)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-76" x1="-31.772" y1="2.138" x2="-31.756" y2="2.138" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cb236d"/>
+      <stop offset="1" stop-color="#4c246d"/>
+    </linearGradient>
+    <clipPath id="clip-path-121">
+      <path id="Path_298265" data-name="Path 298265" d="M2047.752,1363.124a2.693,2.693,0,0,0,2.493.087l.258-2.172-2.137-.335Z" transform="translate(-2047.752 -1360.704)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-77" x1="-140.325" y1="5.029" x2="-140.257" y2="5.029" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-122">
+      <path id="Path_298266" data-name="Path 298266" d="M2046.584,1181.964c-.048.21-.355.623-.249.8.257.44,2.151.317,3.219.354.331.011.508-.377.6-.706.847-2.989,4.907-17.966,5.437-32.273.592-15.987,0-.544,0-.544l.263-10.128-6.108-1.184c.111.588-.2,30.795-3.164,43.678" transform="translate(-2046.313 -1138.286)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-78" x1="-7.673" y1="1.663" x2="-7.669" y2="1.663" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-123">
+      <path id="Path_298267" data-name="Path 298267" d="M2096.048,1373.27a6.348,6.348,0,0,0-1.483,3.484.752.752,0,0,0,.745.84c.974.007,2.191-.093,2.981-.17a.755.755,0,0,0,.665-.9,13.048,13.048,0,0,0-1-3.352Z" transform="translate(-2094.56 -1373.167)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-79" x1="-88.18" y1="3.018" x2="-88.138" y2="3.018" xlink:href="#linear-gradient-76"/>
+    <clipPath id="clip-path-124">
+      <path id="Path_298268" data-name="Path 298268" d="M2102.338,1361.2a2.122,2.122,0,0,0,1.772-.122l.6-3.284-2.087-.128Z" transform="translate(-2102.338 -1357.672)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-80" x1="-166.864" y1="4.32" x2="-166.784" y2="4.32" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-125">
+      <path id="Path_298269" data-name="Path 298269" d="M2065.041,1143.215l3.717,3.03a1.962,1.962,0,0,1,.724,1.081c2.259,8.627,2.019,30.457,2.152,34.013a.624.624,0,0,0,.433.579,4.236,4.236,0,0,0,1.9.079.671.671,0,0,0,.531-.521c.995-4.4,3.765-28.042,1.341-43.313l-10.864-1.48Z" transform="translate(-2064.972 -1136.683)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-81" x1="-8.061" y1="1.561" x2="-8.057" y2="1.561" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-126">
+      <path id="Path_298270" data-name="Path 298270" d="M2008.339,1014.525c-1.97.033-6.532,2.089-9.4,5.308-.331,1.408,2.768,5.335,1.152,7.207,3.17-.728,5.314-3.463,6.834-5.418,0,0,3.135,11.6,4.231,16.854.127.608.025,1.244.622,1.417a31.7,31.7,0,0,0,10.23.484c.68-.11.313-.835.38-1.521a95.111,95.111,0,0,0-.613-22.655,61.052,61.052,0,0,0-12.886-1.682c-.184,0-.369,0-.553,0" transform="translate(-1998.917 -1014.52)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-82" x1="-10.507" y1="2.406" x2="-10.501" y2="2.406" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-127">
+      <path id="Path_298271" data-name="Path 298271" d="M2061.3,987.022l.658,5.088a1,1,0,0,0,.459.712,4.779,4.779,0,0,0,4.956.334.212.212,0,0,0,.1-.255l-2.033-5.879Z" transform="translate(-2061.298 -987.022)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-83" x1="-40.916" y1="9.13" x2="-40.896" y2="9.13" xlink:href="#linear-gradient-74"/>
+    <clipPath id="clip-path-128">
+      <path id="Path_298272" data-name="Path 298272" d="M2049.348,964.035c.286,1.7,3.052,1.576,5.468.2l1.688-4.538-5.211-1.559s-2.232,4.2-1.946,5.9" transform="translate(-2049.323 -958.135)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-84" x1="-44.905" y1="10.931" x2="-44.884" y2="10.931" xlink:href="#linear-gradient-74"/>
+    <clipPath id="clip-path-129">
+      <path id="Path_298273" data-name="Path 298273" d="M2061.031,948.879c-.524.316-1.769,1.494-1.094,2.117a6.944,6.944,0,0,0,2.752.9c1.423.341,1.021.6,1.021.6a4.508,4.508,0,0,1-.621,1.319.173.173,0,0,0,.076.253l.314.139a.174.174,0,0,1,.094.216l-.633,1.839a.175.175,0,0,0,.183.231c1.548-.18,3.473-1.651,3.547-3.293a5.975,5.975,0,0,0-.282-1.822,4.137,4.137,0,0,0-.471-1.194,4.382,4.382,0,0,0-1.524-1.251,4.311,4.311,0,0,0-1.052-.5,2.267,2.267,0,0,0-.591-.076,3.407,3.407,0,0,0-1.72.53" transform="translate(-2059.741 -948.349)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-85" x1="-42.777" y1="9.861" x2="-42.756" y2="9.861" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-130">
+      <path id="Path_298274" data-name="Path 298274" d="M2074.438,977.72l-.492.816c.766.342,2.314-.07,2.2-.988a.375.375,0,0,0-.411-.368,3.189,3.189,0,0,0-1.294.54" transform="translate(-2073.946 -977.18)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-86" x1="-194.422" y1="35.056" x2="-194.328" y2="35.056" xlink:href="#linear-gradient-74"/>
+    <clipPath id="clip-path-131">
+      <path id="Path_298275" data-name="Path 298275" d="M2055.468,941.03c1.551-.21,4.855,2.681,7.78,4.625,2.7-3.568-.446-7.328-3.738-7.328a4.535,4.535,0,0,0-4.042,2.7" transform="translate(-2055.468 -938.328)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-87" x1="-38.834" y1="8.091" x2="-38.815" y2="8.091" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-132">
+      <path id="Path_298276" data-name="Path 298276" d="M2040.864,951.9l-3.59.244a.118.118,0,0,0-.032.23,3.961,3.961,0,0,1,2.252,1.882.422.422,0,0,0,.357.217l5.856.181a.075.075,0,0,0,.054-.13,8.4,8.4,0,0,0-4.884-2.625h-.012" transform="translate(-2037.163 -951.896)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-88" x1="-75.765" y1="10.567" x2="-75.728" y2="10.567" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-133">
+      <path id="Path_298277" data-name="Path 298277" d="M2106.464,1023.7c-3.9,2.218-4.21,5.283-.678,9.249a2.731,2.731,0,0,1,2.8,2.538,15.83,15.83,0,0,1,5.816-1.559c-1.008-5.277-6.7-9.532-7.655-10.214a.26.26,0,0,0-.28-.014" transform="translate(-2103.326 -1023.667)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-89" x1="-23.537" y1="4.936" x2="-23.526" y2="4.936" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-134">
+      <path id="Path_298278" data-name="Path 298278" d="M2052.193,1024.013l2.036-.195-.864-10.1-2.072-.053Z" transform="translate(-2051.293 -1013.668)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-90" x1="-41.398" y1="8.521" x2="-41.377" y2="8.521" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-135">
+      <path id="Path_298279" data-name="Path 298279" d="M2102.178,1029.683l1.954-.144.723-9.494-2.1-.416Z" transform="translate(-2102.178 -1019.628)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-91" x1="-44.295" y1="8.755" x2="-44.274" y2="8.755" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-136">
+      <path id="Path_298280" data-name="Path 298280" d="M2057.678,1064.386a1.162,1.162,0,0,0-1.155,1.286l1.509,14.035c3.7,1.034,7.64,1.193,10.486-.112l-.123-14.247a1.025,1.025,0,0,0-.945-.962Z" transform="translate(-2056.516 -1064.386)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-92" x1="-19.051" y1="3.64" x2="-19.041" y2="3.64" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-137">
+      <path id="Path_298281" data-name="Path 298281" d="M2063.88,1142.445a.149.149,0,0,0-.172.156v1.6a.339.339,0,0,0,.25.328,20.044,20.044,0,0,0,11.041-.119.115.115,0,0,0,.083-.114l-.044-1.891a25.666,25.666,0,0,1-11.158.041" transform="translate(-2063.708 -1142.404)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-93" x1="-53.317" y1="5.267" x2="-53.292" y2="5.267" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-138">
+      <path id="Path_298282" data-name="Path 298282" d="M2081.435,1079.677a2.851,2.851,0,0,1-.523,2.214c-2.534,3.625-10.046-.62-10.046-.62l-.994,1.852s12.074,8.57,16.513.449a7.957,7.957,0,0,0,.865-5.453,15.835,15.835,0,0,0-5.816,1.558" transform="translate(-2069.873 -1078.118)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-94" x1="-22.027" y1="5.107" x2="-22.017" y2="5.107" xlink:href="#linear-gradient-74"/>
+    <clipPath id="clip-path-140">
+      <path id="Path_298284" data-name="Path 298284" d="M2008.431,1033.968l.294.892a.213.213,0,0,0,.174.145l2.86.382a.213.213,0,0,0,.236-.26l-.182-.778a.213.213,0,0,0-.173-.162l-2.972-.5-.036,0a.213.213,0,0,0-.2.28" transform="translate(-2008.42 -1033.688)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-95" x1="-95.803" y1="22.108" x2="-95.755" y2="22.108" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-141">
+      <path id="Path_298285" data-name="Path 298285" d="M2001.073,1038.778l.382,1.589a.294.294,0,0,0,.271.225l5.866.3a.3.3,0,0,0,.3-.35l-.245-1.275a.294.294,0,0,0-.26-.238l-6-.609-.031,0a.3.3,0,0,0-.286.364" transform="translate(-2001.065 -1038.414)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-96" x1="-53.714" y1="12.851" x2="-53.687" y2="12.851" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-142">
+      <path id="Path_298286" data-name="Path 298286" d="M2051.043,1079.123a21.772,21.772,0,0,0-3.243.865.852.852,0,0,0,1.219.735l-.7.542s.1.869,1.055.4l-.652.719a.761.761,0,0,0,1.113.256c.364-.237.629.2,1.078.643a2.16,2.16,0,0,0,1.954.682,10.426,10.426,0,0,0,.341-3.181c-.208-.753-.593-1.7-1.762-1.7a2.55,2.55,0,0,0-.4.034" transform="translate(-2047.801 -1079.089)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-97" x1="-68.466" y1="13.784" x2="-68.432" y2="13.784" xlink:href="#linear-gradient-74"/>
+    <clipPath id="clip-path-143">
+      <path id="Path_298287" data-name="Path 298287" d="M1315.165,1179.763a3.251,3.251,0,0,0-2.973,3.125l-1.123,17.449a4.132,4.132,0,0,0,4.05,4.28l33.99.646a4.056,4.056,0,0,0,4.133-4.055v-18.048a4.324,4.324,0,0,0-4.276-4.327c-1.559-.017-3.482-.03-5.66-.03-7.761,0-18.764.171-28.141.961" transform="translate(-1311.067 -1178.802)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-98" x1="-4.892" y1="1.299" x2="-4.889" y2="1.299" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-145">
+      <rect id="Rectangle_86210" data-name="Rectangle 86210" width="7.088" height="15.86" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-146">
+      <path id="Path_298291" data-name="Path 298291" d="M1498,1213.789l-.253,3.995a.164.164,0,0,0,.153.174h.01a.164.164,0,0,0,.164-.153l.253-3.995a.163.163,0,0,0-.153-.174h-.014a.16.16,0,0,0-.16.154" transform="translate(-1497.747 -1213.635)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-99" x1="-95.675" y1="11.187" x2="-95.61" y2="11.187" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-147">
+      <path id="Path_298292" data-name="Path 298292" d="M1495.112,1213.388l-.133,4.071a.164.164,0,0,0,.158.169h.005a.164.164,0,0,0,.164-.158l.133-4.071a.164.164,0,0,0-.158-.169h-.01a.155.155,0,0,0-.159.159" transform="translate(-1494.979 -1213.229)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-100" x1="-97.484" y1="11.22" x2="-97.418" y2="11.22" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-148">
+      <path id="Path_298293" data-name="Path 298293" d="M1491.461,1213.392v0h0c0,.116-.126,2.7-.191,4.064a.164.164,0,0,0,.156.171h.008a.163.163,0,0,0,.163-.156c.032-.67.191-4.012.191-4.079a.164.164,0,0,0-.328,0" transform="translate(-1491.27 -1213.23)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-101" x1="-95.691" y1="11.132" x2="-95.627" y2="11.132" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-149">
+      <path id="Path_298294" data-name="Path 298294" d="M1484.957,1212.778a.327.327,0,0,0-.239.359c.01.237-.063,2.532-.112,3.94a.327.327,0,0,0,.316.339h.012a.327.327,0,0,0,.327-.316c.138-3.945.114-4.034.1-4.092a.327.327,0,0,0-.4-.23" transform="translate(-1484.606 -1212.766)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-102" x1="-84.54" y1="10.221" x2="-84.483" y2="10.221" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-150">
+      <path id="Path_298295" data-name="Path 298295" d="M1481.71,1213.8v3.995a.164.164,0,0,0,.328,0V1213.8a.164.164,0,1,0-.328,0" transform="translate(-1481.71 -1213.636)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-103" x1="-102.216" y1="11.615" x2="-102.146" y2="11.615" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-151">
+      <path id="Path_298296" data-name="Path 298296" d="M1478.933,1213.613c-.089.059-.174.114-.265,4.137a.164.164,0,0,0,.16.168h0a.163.163,0,0,0,.164-.16c.031-1.388.1-3.655.17-3.928a.165.165,0,0,0-.006-.17.164.164,0,0,0-.227-.047" transform="translate(-1478.668 -1213.586)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-104" x1="-95.982" y1="11.267" x2="-95.916" y2="11.267" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-152">
+      <path id="Path_298297" data-name="Path 298297" d="M1501.772,1213.075l-.219,4.195a.328.328,0,0,0,.31.344h.017a.328.328,0,0,0,.327-.311l.218-4.195a.328.328,0,0,0-.31-.344h-.021a.333.333,0,0,0-.323.311" transform="translate(-1501.553 -1212.764)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-105" x1="-80.848" y1="9.729" x2="-80.794" y2="9.729" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-153">
+      <path id="Path_298298" data-name="Path 298298" d="M1355.567,1083.715a2.283,2.283,0,0,0-2.088,2.194l-.788,12.254a2.9,2.9,0,0,0,2.844,3.006l23.87.454a2.849,2.849,0,0,0,2.9-2.848V1086.1a3.037,3.037,0,0,0-3-3.038c-1.094-.012-2.443-.021-3.969-.021-5.451,0-13.181.12-19.768.675" transform="translate(-1352.689 -1083.04)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-106" x1="-7.237" y1="2.478" x2="-7.232" y2="2.478" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-155">
+      <rect id="Rectangle_86220" data-name="Rectangle 86220" width="4.979" height="11.138" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-156">
+      <path id="Path_298302" data-name="Path 298302" d="M1483.968,1107.61l-.178,2.806a.115.115,0,0,0,.108.122h.007a.115.115,0,0,0,.115-.108l.178-2.805a.115.115,0,0,0-.108-.122h-.01a.113.113,0,0,0-.112.108" transform="translate(-1483.79 -1107.502)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-107" x1="-135.128" y1="23.263" x2="-135.037" y2="23.263" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-157">
+      <path id="Path_298303" data-name="Path 298303" d="M1481.939,1107.329l-.093,2.859a.115.115,0,0,0,.111.119h0a.115.115,0,0,0,.115-.112l.093-2.859a.115.115,0,0,0-.111-.119h-.007a.109.109,0,0,0-.112.112" transform="translate(-1481.846 -1107.217)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-108" x1="-137.759" y1="23.321" x2="-137.666" y2="23.321" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-158">
+      <path id="Path_298304" data-name="Path 298304" d="M1479.375,1107.332h0c0,.079-.089,1.9-.134,2.854a.115.115,0,0,0,.109.12h.006a.115.115,0,0,0,.115-.11c.022-.47.134-2.817.134-2.865a.115.115,0,0,0-.23,0" transform="translate(-1479.241 -1107.218)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-109" x1="-135.34" y1="23.136" x2="-135.249" y2="23.136" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-159">
+      <path id="Path_298305" data-name="Path 298305" d="M1474.808,1106.9a.23.23,0,0,0-.168.253c.007.166-.044,1.778-.078,2.767a.23.23,0,0,0,.222.238h.008a.23.23,0,0,0,.23-.222c.1-2.77.08-2.833.069-2.874a.229.229,0,0,0-.282-.161" transform="translate(-1474.561 -1106.892)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-110" x1="-119.722" y1="21.204" x2="-119.641" y2="21.204" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-160">
+      <path id="Path_298306" data-name="Path 298306" d="M1472.527,1107.618v2.806a.115.115,0,0,0,.23,0v-2.806a.115.115,0,1,0-.23,0" transform="translate(-1472.527 -1107.503)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-111" x1="-144.836" y1="24.174" x2="-144.737" y2="24.174" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-161">
+      <path id="Path_298307" data-name="Path 298307" d="M1470.576,1107.487c-.063.041-.122.08-.186,2.906a.115.115,0,0,0,.112.118h0a.115.115,0,0,0,.115-.112c.022-.975.073-2.567.12-2.759a.115.115,0,0,0-.164-.152" transform="translate(-1470.39 -1107.468)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-112" x1="-136.078" y1="23.431" x2="-135.985" y2="23.431" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-162">
+      <path id="Path_298308" data-name="Path 298308" d="M1486.615,1107.109l-.154,2.946a.231.231,0,0,0,.218.242h.012a.23.23,0,0,0,.229-.218l.153-2.946a.23.23,0,0,0-.218-.242h-.014a.234.234,0,0,0-.227.219" transform="translate(-1486.461 -1106.891)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-113" x1="-114.112" y1="20.183" x2="-114.035" y2="20.183" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-163">
+      <path id="Path_298309" data-name="Path 298309" d="M1369.035,1005.55a2.007,2.007,0,0,0-1.836,1.93l-.693,10.777a2.552,2.552,0,0,0,2.5,2.644l20.993.4a2.505,2.505,0,0,0,2.553-2.5v-11.147a2.671,2.671,0,0,0-2.641-2.672c-.963-.01-2.15-.019-3.494-.019-4.793,0-11.591.105-17.384.594" transform="translate(-1366.504 -1004.956)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-114" x1="-8.363" y1="3.058" x2="-8.357" y2="3.058" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-165">
+      <rect id="Rectangle_86230" data-name="Rectangle 86230" width="4.378" height="9.796" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-166">
+      <path id="Path_298313" data-name="Path 298313" d="M1481.963,1026.565l-.157,2.467a.1.1,0,0,0,.095.108h.006a.1.1,0,0,0,.1-.095l.156-2.467a.1.1,0,0,0-.095-.107h-.008a.1.1,0,0,0-.1.1" transform="translate(-1481.806 -1026.47)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-115" x1="-153.502" y1="32.805" x2="-153.398" y2="32.805" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-167">
+      <path id="Path_298314" data-name="Path 298314" d="M1480.179,1026.317l-.082,2.515a.1.1,0,0,0,.1.1h0a.1.1,0,0,0,.1-.1l.082-2.515a.1.1,0,0,0-.1-.1h-.006a.1.1,0,0,0-.1.1" transform="translate(-1480.097 -1026.219)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-116" x1="-156.521" y1="32.883" x2="-156.415" y2="32.883" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-168">
+      <path id="Path_298315" data-name="Path 298315" d="M1477.922,1026.32h0c0,.069-.078,1.669-.118,2.51a.1.1,0,0,0,.1.106h0a.1.1,0,0,0,.1-.1c.02-.413.118-2.478.118-2.52a.1.1,0,0,0-.2,0" transform="translate(-1477.804 -1026.22)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-117" x1="-153.773" y1="32.618" x2="-153.669" y2="32.618" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-169">
+      <path id="Path_298316" data-name="Path 298316" d="M1473.906,1025.94a.2.2,0,0,0-.147.222c.006.146-.039,1.564-.069,2.433a.2.2,0,0,0,.195.209h.007a.2.2,0,0,0,.2-.2c.086-2.436.071-2.491.061-2.527a.2.2,0,0,0-.2-.15.206.206,0,0,0-.053.007" transform="translate(-1473.689 -1025.933)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-118" x1="-136.099" y1="29.881" x2="-136.007" y2="29.881" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-170">
+      <path id="Path_298317" data-name="Path 298317" d="M1471.9,1026.571v2.468a.1.1,0,0,0,.2,0v-2.468a.1.1,0,1,0-.2,0" transform="translate(-1471.9 -1026.47)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-119" x1="-164.67" y1="34.097" x2="-164.558" y2="34.097" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-171">
+      <path id="Path_298318" data-name="Path 298318" d="M1470.185,1026.457c-.055.036-.108.07-.164,2.555a.1.1,0,0,0,.1.1h0a.1.1,0,0,0,.1-.1c.02-.857.065-2.258.1-2.426a.1.1,0,0,0-.144-.134" transform="translate(-1470.021 -1026.44)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-120" x1="-154.747" y1="33.043" x2="-154.641" y2="33.043" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-172">
+      <path id="Path_298319" data-name="Path 298319" d="M1484.292,1026.124l-.135,2.591a.2.2,0,0,0,.192.213h.011a.2.2,0,0,0,.2-.192l.135-2.591a.2.2,0,0,0-.192-.213h-.013a.205.205,0,0,0-.2.192" transform="translate(-1484.157 -1025.932)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-121" x1="-129.596" y1="28.44" x2="-129.508" y2="28.44" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-173">
+      <path id="Path_298320" data-name="Path 298320" d="M1580.88,1143.252v20.561h-45.773v20.125a1.46,1.46,0,0,0,1.46,1.46h77.339a1.541,1.541,0,0,0,1.541-1.542v-40.6Z" transform="translate(-1535.107 -1143.252)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-122" x1="-4.144" y1="0.898" x2="-4.141" y2="0.898" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-174">
+      <path id="Path_298321" data-name="Path 298321" d="M1789.556,1304.956v.009a.887.887,0,0,0,.892.877h25.042a.887.887,0,0,0,.892-.877v-.009a13.413,13.413,0,1,0-26.827,0" transform="translate(-1789.556 -1291.542)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-123" x1="-11.496" y1="1.62" x2="-11.49" y2="1.62" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-175">
+      <path id="Path_298322" data-name="Path 298322" d="M1541.286,1306.6v.009a.887.887,0,0,0,.892.877h25.042a.887.887,0,0,0,.892-.877v-.009a13.413,13.413,0,1,0-26.827,0" transform="translate(-1541.286 -1293.19)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-124" x1="-9.896" y1="1.604" x2="-9.889" y2="1.604" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-176">
+      <path id="Path_298323" data-name="Path 298323" d="M1809.1,1320.011a9.726,9.726,0,1,0,9.726-9.726,9.726,9.726,0,0,0-9.726,9.726" transform="translate(-1809.103 -1310.285)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-125" x1="-12.806" y1="1.102" x2="-12.799" y2="1.102" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-178">
+      <path id="Path_298326" data-name="Path 298326" d="M1841.49,1346.294a3.622,3.622,0,1,0,3.622-3.622,3.622,3.622,0,0,0-3.622,3.622" transform="translate(-1841.49 -1342.672)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-126" x1="-34.715" y1="2.093" x2="-34.696" y2="2.093" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-179">
+      <path id="Path_298327" data-name="Path 298327" d="M1560.851,1324.641a9.726,9.726,0,1,0,9.726-9.726,9.726,9.726,0,0,0-9.726,9.726" transform="translate(-1560.851 -1314.915)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-127" x1="-10.547" y1="1.045" x2="-10.54" y2="1.045" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-181">
+      <path id="Path_298330" data-name="Path 298330" d="M1593.239,1350.923a3.622,3.622,0,1,0,3.622-3.622,3.622,3.622,0,0,0-3.622,3.622" transform="translate(-1593.239 -1347.301)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-128" x1="-30.017" y1="2.005" x2="-29.998" y2="2.005" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-182">
+      <path id="Path_298331" data-name="Path 298331" d="M1779.014,1133.842v4.05h36.665v-2.938a1.112,1.112,0,0,0-1.112-1.112Z" transform="translate(-1779.014 -1133.842)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-129" x1="-15.22" y1="2.199" x2="-15.212" y2="2.199" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-183">
+      <path id="Path_298332" data-name="Path 298332" d="M1535.107,1074.491v33.52h7.394v-32.392a1.128,1.128,0,0,0-1.128-1.128Z" transform="translate(-1535.107 -1074.491)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-130" x1="-12.704" y1="2.11" x2="-12.696" y2="2.11" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-184">
+      <rect id="Rectangle_86251" data-name="Rectangle 86251" width="1.773" height="33.065" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-131" x1="-16.652" y1="1.79" x2="-16.641" y2="1.79" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-185">
+      <path id="Path_298333" data-name="Path 298333" d="M1426.19,1314.915a1.177,1.177,0,0,0-1.177,1.177v1.521h20.749v-2.7Z" transform="translate(-1425.013 -1314.915)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-132" x1="-13.69" y1="2.454" x2="-13.681" y2="2.454" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-186">
+      <rect id="Rectangle_86254" data-name="Rectangle 86254" width="21.36" height="9.516" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-133" x1="-13.393" y1="2.756" x2="-13.385" y2="2.756" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-187">
+      <rect id="Rectangle_86255" data-name="Rectangle 86255" width="6.435" height="1.28" transform="translate(0 5.977) rotate(-68.258)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-134" x1="-29.793" y1="5.866" x2="-29.774" y2="5.866" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-188">
+      <path id="Path_298335" data-name="Path 298335" d="M1620.576,1151.251a.973.973,0,0,0,.405,1.316l4.624,2.445.254-.48a1,1,0,0,0-.418-1.357l-4.6-2.431Z" transform="translate(-1620.463 -1150.744)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-135" x1="-45.151" y1="7.948" x2="-45.124" y2="7.948" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-189">
+      <path id="Path_298336" data-name="Path 298336" d="M1577.7,1190.28l-4.362,11.087h12.068v-9.524a1.563,1.563,0,0,0-1.563-1.563Z" transform="translate(-1573.338 -1190.28)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-136" x1="-18.062" y1="3.15" x2="-18.051" y2="3.15" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-190">
+      <path id="Path_298337" data-name="Path 298337" d="M1686.28,1055.974c1.643,1.173,1.952,4.366,1.952,4.366l3.756-1.4a19.52,19.52,0,0,1-2.656-4.818Z" transform="translate(-1686.28 -1054.122)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-137" x1="-41.322" y1="9.411" x2="-41.297" y2="9.411" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-191">
+      <path id="Path_298338" data-name="Path 298338" d="M1616.576,1153.421l-2.148.572a.127.127,0,0,0,0,.245l5.532,1.709.632-.565-.757-.477-2.326-1.359a1.215,1.215,0,0,0-.927-.125" transform="translate(-1614.333 -1153.38)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-138" x1="-70.695" y1="8.463" x2="-70.652" y2="8.463" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-192">
+      <path id="Path_298339" data-name="Path 298339" d="M1676.6,1032.733c-.5,1.424-1.087,2.272.5,3.05a3.7,3.7,0,0,0,4.424-.865s1.843-1.873,1.839-2.861-4.261-3.156-4.261-3.156a18.4,18.4,0,0,0-2.5,3.832" transform="translate(-1676.069 -1028.901)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-139" x1="-33.292" y1="8.537" x2="-33.272" y2="8.537" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-193">
+      <path id="Path_298340" data-name="Path 298340" d="M1688.327,1021.5a.68.68,0,0,0-.178.246c-.331.968,2.775,2.413,3.4,2.909.675.537-.717,2.071-.717,2.071l.211.061.451.131a.119.119,0,0,1,.078.154l-.446,1.242a.119.119,0,0,0,.052.143,2.419,2.419,0,0,0,1.725.1c1.006-.212.771-.659.589-.871a.118.118,0,0,1,.047-.184c1.539-.656,2.131-1.825,1.7-2.467-.246-.369-.5-.4-.682-.348a.118.118,0,0,1-.149-.144c.5-1.9-1.66-3.188-3.08-3.87a3.437,3.437,0,0,0-.707-.277,1.185,1.185,0,0,0-.267-.03,3.353,3.353,0,0,0-2.026,1.136" transform="translate(-1688.124 -1020.363)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-140" x1="-28.001" y1="7.16" x2="-27.984" y2="7.16" xlink:href="#linear-gradient-5"/>
+    <clipPath id="clip-path-194">
+      <path id="Path_298341" data-name="Path 298341" d="M1702.824,1051.079l-.022.831c.654.119,2.284-1.012,1.638-1.735a.494.494,0,0,0-.377-.186c-.59,0-1.24,1.09-1.24,1.09" transform="translate(-1702.802 -1049.989)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-141" x1="-118.678" y1="29.687" x2="-118.608" y2="29.687" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clip-path-195">
+      <path id="Path_298342" data-name="Path 298342" d="M1634.338,1195.216c-1.255.591-.862,4.767-.085,9.056h3.8c-.1-2.657-.04-5.088.417-6.132l14.2-2.323-2.526-2.939s-13.118,1.071-15.809,2.338" transform="translate(-1633.529 -1192.878)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-142" x1="-15.693" y1="4.188" x2="-15.683" y2="4.188" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-197">
+      <path id="Path_298344" data-name="Path 298344" d="M1636.39,1136.431l-.079.057,2.454,7.736.64,2.748-13.217,3.379a3.5,3.5,0,0,0-2.123,1.575l-3.772,6.441h5.6a15.129,15.129,0,0,0,2.195-4.323.744.744,0,0,1,.687-.559l15.508-.707a3.6,3.6,0,0,0,3.432-3.519,6.656,6.656,0,0,0-.042-.82l-.173-3.4h-7.053a.78.78,0,0,1-.75-.566l-2.327-7.711a.635.635,0,0,0-.98-.333" transform="translate(-1620.292 -1136.311)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-143" x1="-8.599" y1="1.857" x2="-8.594" y2="1.857" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-198">
+      <path id="Path_298345" data-name="Path 298345" d="M1691.283,1085.1a46.845,46.845,0,0,1,9.813,9.163l1.726-.191c-3.774-4.055-7.371-7.6-10.432-9.574Z" transform="translate(-1691.283 -1084.496)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-144" x1="-22.126" y1="4.736" x2="-22.112" y2="4.736" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-199">
+      <path id="Path_298346" data-name="Path 298346" d="M1725.765,1133.6a.865.865,0,0,0-.786.543l-2.937,7.336.448,1.714,7.585-.388a34.322,34.322,0,0,0-1.906-9.248Z" transform="translate(-1722.041 -1133.563)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-145" x1="-25.86" y1="4.821" x2="-25.845" y2="4.821" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-200">
+      <path id="Path_298347" data-name="Path 298347" d="M1686.425,1020.013c1.484.082,4.049,3.372,6.43,5.711,3.417-3.073.5-7.58-2.928-7.579a4.471,4.471,0,0,0-3.5,1.869" transform="translate(-1686.425 -1018.144)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-146" x1="-39.977" y1="8.074" x2="-39.953" y2="8.074" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-201">
+      <path id="Path_298348" data-name="Path 298348" d="M1669.183,1025.58a3.763,3.763,0,0,1,1.764,2.16.4.4,0,0,0,.294.267l5.431,1.219a.072.072,0,0,0,.073-.112,7.977,7.977,0,0,0-4.087-3.324l-.011,0-3.394-.416h-.015a.113.113,0,0,0-.056.21" transform="translate(-1669.127 -1025.37)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-147" x1="-50.767" y1="9.546" x2="-50.737" y2="9.546" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-202">
+      <path id="Path_298349" data-name="Path 298349" d="M1582.577,990.043c.334-1.041,1.039-1.713,1.795-1.713h19.609v44.161a.679.679,0,0,1-.116.413h-35.043Zm1.795-5.49c-2.165,0-4.091,1.646-4.909,4.193l-13.892,43.29a4.013,4.013,0,0,0,.364,3.287,2.633,2.633,0,0,0,2.232,1.357h35.749c1.864,0,3.38-1.879,3.38-4.189V984.553Z" transform="translate(-1565.377 -984.553)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-148" x1="-4.263" y1="1.469" x2="-4.26" y2="1.469" xlink:href="#linear-gradient-5"/>
+  </defs>
+  <g id="Group_221141" data-name="Group 221141" clip-path="url(#clip-path)">
+    <g id="Group_220719" data-name="Group 220719" transform="translate(0 0.827)">
+      <g id="Group_220718" data-name="Group 220718" clip-path="url(#clip-path-2)">
+        <rect id="Rectangle_86045" data-name="Rectangle 86045" width="402.256" height="248.66" transform="translate(-0.949 -0.001)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_220727" data-name="Group 220727" transform="translate(0 -0.001)">
+      <g id="Group_220726" data-name="Group 220726" clip-path="url(#clip-path-3)">
+        <path id="Path_298118" data-name="Path 298118" d="M388.182,226.406S405.669,107.376,354.8,23.083a1.764,1.764,0,0,0-2.965-.1c-11.494,16.7-79.471,125.251,36.349,203.42" transform="translate(-260.972 -18.035)" fill="#bdd0fb"/>
+        <g id="Group_220722" data-name="Group 220722" transform="translate(87.908 39.214)" opacity="0.56">
+          <g id="Group_220721" data-name="Group 220721">
+            <g id="Group_220720" data-name="Group 220720" clip-path="url(#clip-path-4)">
+              <path id="Path_298119" data-name="Path 298119" d="M468.788,208.6c-.377,6.979-.474,14-.3,21q.186,10.5.992,20.974c.554,6.975,1.254,13.937,2.219,20.863.93,6.929,2.057,13.833,3.471,20.676,1.382,6.849,2.952,13.663,4.849,20.386.23.842.448,1.688.688,2.528l.752,2.509c.512,1.669.979,3.354,1.527,5.012l1.645,4.974.408,1.245.445,1.232.891,2.464c1.136,3.306,2.5,6.521,3.767,9.78.66,1.617,1.381,3.209,2.069,4.816l1.043,2.406c.356.8.75,1.578,1.115,2.372l2.232,4.748L499,361.25l1.206,2.333,1.295,2.283,2.564,4.588.007.012a.493.493,0,0,1-.844.511,196.315,196.315,0,0,1-19.261-37.611l-.956-2.47-.478-1.236-.44-1.249-1.741-5c-.576-1.669-1.072-3.364-1.612-5.046l-.795-2.527c-.254-.845-.486-1.7-.73-2.546-1.992-6.778-3.578-13.666-5.015-20.577a294.535,294.535,0,0,1-5.309-41.968q-.59-10.562-.405-21.142c.067-3.524.211-7.045.412-10.562s.47-7.026.907-10.539a.493.493,0,0,1,.982.086Z" transform="translate(-466.448 -208.069)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <path id="Path_298120" data-name="Path 298120" d="M216.736,653.215S166.625,538.8,97.917,528.574a1.913,1.913,0,0,0-2.184,2.055c1.2,14.292,12.668,89.745,121,122.586" transform="translate(-77.685 -428.939)" fill="#91b3fa"/>
+        <path id="Path_298121" data-name="Path 298121" d="M175.339,623.366c3.672,4.807,7.524,9.5,11.415,14.142,1.957,2.314,3.915,4.628,5.9,6.92,2.006,2.272,3.981,4.571,6.011,6.822s4.061,4.5,6.115,6.729L211,664.61c4.215,4.356,8.427,8.715,12.76,12.953,4.259,4.314,8.716,8.423,13.1,12.61l6.741,6.1c1.127,1.012,2.241,2.041,3.379,3.04l3.452,2.957c2.306,1.966,4.592,3.956,6.915,5.9l7.07,5.714c1.18.951,2.344,1.922,3.536,2.857l3.617,2.752L278.8,725l.011.008a.445.445,0,0,1-.533.712c-9.775-7.208-19.452-14.577-28.6-22.58l-3.47-2.952c-1.145-1-2.264-2.025-3.4-3.035l-6.778-6.09c-4.406-4.181-8.888-8.285-13.171-12.593q-12.982-12.789-25.067-26.447c-2.025-2.263-4-4.574-6-6.859-1.978-2.3-3.93-4.631-5.883-6.957-3.855-4.7-7.651-9.433-11.293-14.31a.445.445,0,0,1,.709-.537Z" transform="translate(-141.642 -505.736)" fill="#bdd0fb"/>
+        <path id="Path_298122" data-name="Path 298122" d="M1575.641.254c-18.389,10.985-122.793,79.283-76.3,188.766,0,0,80.308-27.269,79.045-187.23a1.812,1.812,0,0,0-2.744-1.536" transform="translate(-1207.177 0.005)" fill="#bdd0fb"/>
+        <g id="Group_220725" data-name="Group 220725" transform="translate(281.924 20.138)" opacity="0.56">
+          <g id="Group_220724" data-name="Group 220724">
+            <g id="Group_220723" data-name="Group 220723" clip-path="url(#clip-path-5)">
+              <path id="Path_298123" data-name="Path 298123" d="M1574.591,107.135c-4.012,5.534-7.913,11.154-11.763,16.805s-7.63,11.351-11.345,17.092-7.363,11.525-10.942,17.352-7.062,11.711-10.472,17.636c-6.8,11.862-13.256,23.927-19.037,36.312q-4.365,9.274-8.035,18.847a171.9,171.9,0,0,0-6.262,19.476v0a.417.417,0,1,1-.809-.2h0a172.611,172.611,0,0,1,6.349-19.552q3.7-9.587,8.111-18.873c5.828-12.393,12.329-24.453,19.169-36.306q5.147-8.881,10.533-17.619t11-17.33q5.6-8.6,11.4-17.067c3.869-5.643,7.785-11.252,11.819-16.781a.177.177,0,1,1,.285.208Z" transform="translate(-1495.913 -106.852)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <path id="Path_298124" data-name="Path 298124" d="M1732.205,491.186c-17.284,5.331-116.6,40.462-100.371,139.578,0,0,71.335-6.3,102.314-137.768a1.53,1.53,0,0,0-1.943-1.809" transform="translate(-1322.845 -398.558)" fill="#91b3fa"/>
+        <path id="Path_298125" data-name="Path 298125" d="M1714.637,569.658c-4.4,3.737-8.721,7.568-13.009,11.434s-8.528,7.786-12.724,11.753-8.344,7.983-12.444,12.047-8.134,8.2-12.116,12.374c-7.948,8.371-15.657,16.977-22.874,25.98q-5.433,6.734-10.356,13.852a145,145,0,0,0-9.027,14.719v0a.417.417,0,0,1-.739-.388h0a145.81,145.81,0,0,1,9.129-14.772q4.958-7.125,10.437-13.859c7.265-9,15.015-17.59,23-25.943q6-6.254,12.171-12.343T1688.58,592.5q6.318-5.932,12.772-11.716c4.3-3.854,8.641-7.67,13.058-11.4a.177.177,0,1,1,.228.27Z" transform="translate(-1315.744 -462.044)" fill="#bdd0fb"/>
+      </g>
+    </g>
+    <g id="Group_220729" data-name="Group 220729" transform="translate(87.59 1.518)">
+      <g id="Group_220728" data-name="Group 220728" clip-path="url(#clip-path-6)">
+        <rect id="Rectangle_86049" data-name="Rectangle 86049" width="352.378" height="340.861" transform="matrix(0.916, -0.401, 0.401, 0.916, -95.487, 40.544)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Group_220758" data-name="Group 220758" transform="translate(0 -0.001)">
+      <g id="Group_220757" data-name="Group 220757" clip-path="url(#clip-path-3)">
+        <g id="Group_220732" data-name="Group 220732" transform="translate(109.432 17.281)" opacity="0.17">
+          <g id="Group_220731" data-name="Group 220731">
+            <g id="Group_220730" data-name="Group 220730" clip-path="url(#clip-path-8)">
+              <path id="Path_298127" data-name="Path 298127" d="M791.4,191.235c0,54.977-47.177,99.545-105.374,99.545s-105.374-44.568-105.374-99.545S627.834,91.69,686.031,91.69,791.4,136.258,791.4,191.235" transform="translate(-580.657 -91.69)" fill="#91b3fa"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_220756" data-name="Group 220756" transform="translate(99.722 4.771)" opacity="0.68">
+          <g id="Group_220755" data-name="Group 220755">
+            <g id="Group_220754" data-name="Group 220754" clip-path="url(#clip-path-9)">
+              <g id="Group_220735" data-name="Group 220735" transform="translate(87.711 0.671)" style="mix-blend-mode: soft-light;isolation: isolate">
+                <g id="Group_220734" data-name="Group 220734">
+                  <g id="Group_220733" data-name="Group 220733" clip-path="url(#clip-path-10)">
+                    <path id="Path_298128" data-name="Path 298128" d="M1063.269,149.978a375.667,375.667,0,0,1-5.4,65.561c-.979,5.4-2.114,10.781-3.466,16.108a155.182,155.182,0,0,1-4.839,15.763,74.721,74.721,0,0,1-7.22,14.857,29.674,29.674,0,0,1-5.419,6.32,15.452,15.452,0,0,1-3.547,2.286,10.625,10.625,0,0,1-4.141.976,10.448,10.448,0,0,1-4.186-.77,14.514,14.514,0,0,1-3.63-2.161,28.171,28.171,0,0,1-5.536-6.221,72.3,72.3,0,0,1-7.325-14.806,151.694,151.694,0,0,1-4.891-15.747c-1.366-5.323-2.512-10.7-3.5-16.1-1.97-10.806-3.313-21.715-4.22-32.655s-1.351-21.918-1.407-32.9c-.027-5.488.123-10.976.318-16.46s.508-10.964.911-16.437c.812-10.944,2.024-21.865,3.827-32.7.9-5.414,1.959-10.8,3.227-16.148a155.237,155.237,0,0,1,4.583-15.825c.921-2.59,1.929-5.152,3.078-7.654a55.875,55.875,0,0,1,3.94-7.261,27.063,27.063,0,0,1,5.415-6.261,13.824,13.824,0,0,1,3.581-2.145,10.1,10.1,0,0,1,4.117-.731,10.917,10.917,0,0,1,4.068.953,15.888,15.888,0,0,1,3.536,2.206,30.177,30.177,0,0,1,5.532,6.153,74.1,74.1,0,0,1,7.587,14.632,150.115,150.115,0,0,1,5.2,15.634c1.464,5.294,2.7,10.647,3.777,16.031a344,344,0,0,1,6.035,65.493m-1.624,0q.031-16.4-1.3-32.765a315.539,315.539,0,0,0-4.275-32.5c-1.01-5.371-2.185-10.711-3.584-15.993a149.092,149.092,0,0,0-5-15.593,73.368,73.368,0,0,0-7.35-14.567,29.568,29.568,0,0,0-5.352-6.089,15.365,15.365,0,0,0-3.391-2.17,10.145,10.145,0,0,0-3.872-.944,9.507,9.507,0,0,0-3.907.735,13.293,13.293,0,0,0-3.417,2.1,26.475,26.475,0,0,0-5.222,6.178,55.167,55.167,0,0,0-3.811,7.212c-1.11,2.489-2.082,5.041-2.968,7.621a154.347,154.347,0,0,0-4.383,15.779c-1.2,5.33-2.2,10.708-3.037,16.109-1.677,10.8-2.766,21.7-3.456,32.611s-.937,21.854-.917,32.788q-.043,16.4,1.149,32.772c.819,10.9,2.074,21.775,3.951,32.542.941,5.382,2.04,10.737,3.356,16.037a150.576,150.576,0,0,0,4.732,15.662,71.3,71.3,0,0,0,7.1,14.645,27.259,27.259,0,0,0,5.3,6.054,13.621,13.621,0,0,0,3.388,2.056,9.348,9.348,0,0,0,3.832.729,9.747,9.747,0,0,0,3.794-.928,14.548,14.548,0,0,0,3.319-2.18,28.747,28.747,0,0,0,5.189-6.158,73.708,73.708,0,0,0,7-14.7,153.934,153.934,0,0,0,4.677-15.679c1.3-5.3,2.388-10.661,3.319-16.045,1.865-10.769,3.1-21.644,3.928-32.546s1.22-21.839,1.216-32.774" transform="translate(-994.535 -28.869)" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_220738" data-name="Group 220738" transform="translate(25.277)" style="mix-blend-mode: soft-light;isolation: isolate">
+                <g id="Group_220737" data-name="Group 220737">
+                  <g id="Group_220736" data-name="Group 220736" clip-path="url(#clip-path-11)">
+                    <path id="Path_298129" data-name="Path 298129" d="M849.776,147.087A159.965,159.965,0,0,1,844.1,188.98,134.88,134.88,0,0,1,826.574,227.4a110.633,110.633,0,0,1-13.387,16.394,93.9,93.9,0,0,1-16.479,13.266,79.437,79.437,0,0,1-19.228,8.792,71.914,71.914,0,0,1-41.809.018,79.474,79.474,0,0,1-19.243-8.777,94.014,94.014,0,0,1-16.5-13.256,110.725,110.725,0,0,1-13.413-16.39,135.085,135.085,0,0,1-17.573-38.43,152.152,152.152,0,0,1-4.255-20.771,156.2,156.2,0,0,1,.013-42.306,152.051,152.051,0,0,1,4.269-20.765,135.029,135.029,0,0,1,17.6-38.4A110.656,110.656,0,0,1,699.98,50.393a93.68,93.68,0,0,1,16.5-13.233A79.783,79.783,0,0,1,735.7,28.416a71.41,71.41,0,0,1,41.744.017,79.741,79.741,0,0,1,19.212,8.76,93.614,93.614,0,0,1,16.474,13.243,110.567,110.567,0,0,1,13.389,16.375,134.823,134.823,0,0,1,17.551,38.39,159.954,159.954,0,0,1,5.7,41.886m-1.862,0a158.183,158.183,0,0,0-5.447-41.44A134.286,134.286,0,0,0,825.5,67.494a109.462,109.462,0,0,0-13.084-16.345,91.442,91.442,0,0,0-16.185-13.271A78.2,78.2,0,0,0,777.245,29.1a69.64,69.64,0,0,0-41.328.017,78.15,78.15,0,0,0-18.967,8.79,91.342,91.342,0,0,0-16.163,13.28,109.378,109.378,0,0,0-13.058,16.349,134.085,134.085,0,0,0-16.924,38.139,153.225,153.225,0,0,0-4.069,20.526,159.647,159.647,0,0,0,.013,41.763,153.133,153.133,0,0,0,4.084,20.52A134.037,134.037,0,0,0,687.781,226.6a109.3,109.3,0,0,0,13.06,16.331A91.049,91.049,0,0,0,717,256.187a78.454,78.454,0,0,0,18.952,8.758,69.147,69.147,0,0,0,41.263.018,78.486,78.486,0,0,0,18.967-8.744,91.139,91.139,0,0,0,16.18-13.247,109.384,109.384,0,0,0,13.086-16.327,134.221,134.221,0,0,0,16.994-38.127,158.171,158.171,0,0,0,5.474-41.432" transform="translate(-663.254 -25.307)" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_220741" data-name="Group 220741" transform="translate(9.726 73.095)" style="mix-blend-mode: soft-light;isolation: isolate">
+                <g id="Group_220740" data-name="Group 220740">
+                  <g id="Group_220739" data-name="Group 220739" clip-path="url(#clip-path-12)">
+                    <path id="Path_298130" data-name="Path 298130" d="M580.864,413.619l27.988-.226,27.988-.128,55.976-.1,55.977.114,27.988.14,27.988.244a.082.082,0,0,1,0,.165l-27.988.244-27.988.14-55.977.114-55.976-.1-27.988-.128-27.988-.226a.122.122,0,0,1,0-.245" transform="translate(-580.743 -413.161)" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_220744" data-name="Group 220744" transform="translate(42.197 26.217)" style="mix-blend-mode: soft-light;isolation: isolate">
+                <g id="Group_220743" data-name="Group 220743">
+                  <g id="Group_220742" data-name="Group 220742" clip-path="url(#clip-path-13)">
+                    <path id="Path_298131" data-name="Path 298131" d="M753.155,164.881c6.624-.1,13.247-.15,19.871-.226l19.871-.128c6.624-.054,13.247-.049,19.871-.065l19.871-.038,39.742.114,19.871.14c6.624.083,13.247.132,19.871.244a.082.082,0,0,1,0,.164c-6.624.112-13.247.161-19.871.244l-19.871.14-39.742.114-19.871-.038c-6.624-.017-13.247-.011-19.871-.066l-19.871-.128c-6.623-.076-13.247-.121-19.871-.226a.122.122,0,0,1,0-.245" transform="translate(-753.035 -164.422)" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_220747" data-name="Group 220747" transform="translate(0 119.974)" style="mix-blend-mode: soft-light;isolation: isolate">
+                <g id="Group_220746" data-name="Group 220746">
+                  <g id="Group_220745" data-name="Group 220745" clip-path="url(#clip-path-14)">
+                    <path id="Path_298132" data-name="Path 298132" d="M529.256,662.357l30.42-.225L590.1,662l60.84-.1,60.84.114,30.42.14,30.42.244a.082.082,0,0,1,0,.165l-30.42.244-30.42.14-60.84.114-60.84-.1-30.42-.129-30.42-.225a.122.122,0,0,1,0-.245" transform="translate(-529.134 -661.899)" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_220750" data-name="Group 220750" transform="translate(9.726 166.852)" style="mix-blend-mode: soft-light;isolation: isolate">
+                <g id="Group_220749" data-name="Group 220749">
+                  <g id="Group_220748" data-name="Group 220748" clip-path="url(#clip-path-15)">
+                    <path id="Path_298133" data-name="Path 298133" d="M580.864,911.095l27.988-.226,27.988-.128,55.976-.1,55.977.114,27.988.14,27.988.244a.082.082,0,0,1,0,.164l-27.988.244-27.988.14-55.977.114-55.976-.1-27.988-.128-27.988-.226a.122.122,0,0,1,0-.245" transform="translate(-580.743 -910.637)" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_220753" data-name="Group 220753" transform="translate(45.893 213.881)" style="mix-blend-mode: soft-light;isolation: isolate">
+                <g id="Group_220752" data-name="Group 220752">
+                  <g id="Group_220751" data-name="Group 220751" clip-path="url(#clip-path-16)">
+                    <path id="Path_298134" data-name="Path 298134" d="M932.044,1161.034H773.077a.429.429,0,0,1,0-.858H932.044a.429.429,0,1,1,0,.858" transform="translate(-772.648 -1160.176)" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path id="Path_298135" data-name="Path 298135" d="M1015,723.067a.509.509,0,0,1-.09-1.009q.368-.067.729-.141a.509.509,0,0,1,.2,1q-.371.076-.751.145a.514.514,0,0,1-.092.008m3.084-.714a.509.509,0,0,1-.139-1q.359-.1.71-.211a.509.509,0,1,1,.3.971q-.363.113-.734.219a.507.507,0,0,1-.139.02m2.992-1.031a.509.509,0,0,1-.193-.979q.345-.141.68-.29a.509.509,0,1,1,.413.93q-.348.155-.706.3a.5.5,0,0,1-.193.038m2.847-1.379a.509.509,0,0,1-.251-.951q.323-.183.635-.374a.509.509,0,0,1,.53.869c-.217.132-.441.264-.664.39a.506.506,0,0,1-.25.066m2.639-1.744a.509.509,0,0,1-.31-.912c.194-.148.388-.3.576-.457a.509.509,0,1,1,.646.785c-.2.163-.4.324-.6.479a.5.5,0,0,1-.309.1m2.364-2.1a.509.509,0,0,1-.365-.863c.171-.176.34-.356.5-.536a.509.509,0,1,1,.753.683c-.171.189-.349.378-.527.562a.508.508,0,0,1-.365.154m2.034-2.423a.509.509,0,0,1-.412-.807c.143-.2.284-.4.42-.6a.509.509,0,0,1,.844.568c-.143.212-.291.424-.44.631a.508.508,0,0,1-.413.211m1.669-2.686a.509.509,0,0,1-.449-.747q.173-.326.335-.657a.509.509,0,1,1,.913.448c-.113.23-.23.46-.35.686a.508.508,0,0,1-.45.27m1.3-2.887a.509.509,0,0,1-.476-.688q.131-.346.251-.7a.509.509,0,0,1,.962.331q-.126.365-.261.724a.509.509,0,0,1-.476.33m.942-3.026a.509.509,0,0,1-.494-.632q.09-.359.171-.721a.509.509,0,0,1,.993.222q-.084.375-.177.746a.509.509,0,0,1-.493.385m.609-3.108a.524.524,0,0,1-.073-.005.509.509,0,0,1-.431-.576q.053-.367.1-.736a.509.509,0,1,1,1.01.123q-.046.38-.1.758a.509.509,0,0,1-.5.436m.308-3.152h-.027a.509.509,0,0,1-.481-.535q.019-.37.032-.743a.509.509,0,0,1,1.017.033q-.013.383-.033.763a.509.509,0,0,1-.507.482m.035-3.168a.508.508,0,0,1-.508-.494q-.011-.373-.028-.746a.509.509,0,1,1,1.016-.048q.018.383.029.764a.508.508,0,0,1-.494.523h-.015m-.212-3.163a.509.509,0,0,1-.505-.456q-.039-.372-.084-.744a.509.509,0,0,1,1.01-.122q.046.38.085.76a.508.508,0,0,1-.453.558l-.053,0m-.438-3.142a.509.509,0,0,1-.5-.421q-.064-.368-.134-.735a.509.509,0,1,1,1-.191q.072.375.137.751a.508.508,0,0,1-.414.588.482.482,0,0,1-.088.008m-.647-3.1a.508.508,0,0,1-.494-.389q-.088-.363-.182-.724a.509.509,0,0,1,.985-.255q.1.369.186.739a.509.509,0,0,1-.495.629m-.845-3.054a.509.509,0,0,1-.485-.358q-.111-.356-.227-.711a.509.509,0,1,1,.967-.317q.118.361.231.725a.509.509,0,0,1-.486.66m-1.034-2.993a.509.509,0,0,1-.475-.328q-.133-.348-.27-.694a.509.509,0,0,1,.945-.376q.14.352.276.708a.509.509,0,0,1-.475.69m-1.22-2.923a.509.509,0,0,1-.463-.3q-.155-.34-.315-.677a.509.509,0,1,1,.919-.436q.163.343.321.691a.509.509,0,0,1-.463.719m-1.407-2.839a.508.508,0,0,1-.448-.268q-.177-.329-.358-.654a.509.509,0,0,1,.888-.5q.186.332.367.668a.509.509,0,0,1-.448.75m-1.6-2.737a.508.508,0,0,1-.43-.237q-.2-.316-.4-.626a.509.509,0,1,1,.85-.559q.209.318.414.641a.509.509,0,0,1-.43.781m-1.795-2.611a.508.508,0,0,1-.408-.2q-.223-.3-.451-.591a.509.509,0,0,1,.8-.625q.234.3.463.607a.509.509,0,0,1-.407.813m-2-2.453a.508.508,0,0,1-.379-.169q-.248-.278-.5-.547a.509.509,0,0,1,.742-.7q.26.278.517.565a.509.509,0,0,1-.379.848m-2.23-2.25a.506.506,0,0,1-.341-.132q-.275-.25-.555-.489a.509.509,0,0,1,.662-.772q.289.248.576.508a.509.509,0,0,1-.342.885m-2.47-1.98a.505.505,0,0,1-.291-.092c-.2-.141-.407-.28-.61-.412a.509.509,0,1,1,.555-.853c.213.139.428.284.639.431a.509.509,0,0,1-.292.925m-2.72-1.616a.505.505,0,0,1-.223-.052c-.22-.108-.444-.211-.664-.308a.509.509,0,1,1,.409-.932c.233.1.47.212.7.326a.509.509,0,0,1-.224.966" transform="translate(-823.299 -535.164)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220760" data-name="Group 220760" transform="translate(187.272 5.834)">
+      <g id="Group_220759" data-name="Group 220759" clip-path="url(#clip-path-17)">
+        <rect id="Rectangle_86060" data-name="Rectangle 86060" width="23.338" height="23.338" transform="translate(0 0)" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <g id="Group_220762" data-name="Group 220762" transform="translate(187.25 16.878)">
+      <g id="Group_220761" data-name="Group 220761" clip-path="url(#clip-path-18)">
+        <rect id="Rectangle_86061" data-name="Rectangle 86061" width="25.193" height="25.454" transform="translate(-0.907 0)" fill="url(#linear-gradient-4)"/>
+      </g>
+    </g>
+    <g id="Group_220767" data-name="Group 220767" transform="translate(0 -0.001)">
+      <g id="Group_220766" data-name="Group 220766" clip-path="url(#clip-path-3)">
+        <g id="Group_220765" data-name="Group 220765" transform="translate(186.912 5.628)" opacity="0.8">
+          <g id="Group_220764" data-name="Group 220764">
+            <g id="Group_220763" data-name="Group 220763" clip-path="url(#clip-path-20)">
+              <path id="Path_298138" data-name="Path 298138" d="M1003.792,66.944v.066h0a2.894,2.894,0,0,1-2.474-1.428c-6.088-10.37-8.318-16.926-9.117-20.6a11.764,11.764,0,0,1-.4-2.52,5.849,5.849,0,0,1-.01-1.272l.03-.187a12.007,12.007,0,0,1,23.961.119,5.294,5.294,0,0,1,.019.643v.043a12.027,12.027,0,0,1-.481,3.374c-.827,3.666-3.071,10.158-9.055,20.353a2.826,2.826,0,0,1-2.477,1.4M992.447,41.637c0,.175,0,.425.033.8h0a11.013,11.013,0,0,0,.38,2.378l0,.014c.787,3.619,2.995,10.094,9.041,20.394a2.193,2.193,0,0,0,1.888,1.075v0a2.3,2.3,0,0,0,1.893-1.084c5.945-10.13,8.165-16.567,8.979-20.184l.006-.021a11.292,11.292,0,0,0,.389-3.194l-.068-.048v0a4.477,4.477,0,0,1,.052-.568l.032-.02a11.316,11.316,0,0,0-22.6.118l-.01.345Z" transform="translate(-991.768 -29.862)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <path id="Path_298139" data-name="Path 298139" d="M1033.518,63.66a6.738,6.738,0,1,1-6.738-6.738,6.738,6.738,0,0,1,6.738,6.738" transform="translate(-827.802 -46.193)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220769" data-name="Group 220769" transform="translate(191.864 10.351)">
+      <g id="Group_220768" data-name="Group 220768" clip-path="url(#clip-path-21)">
+        <rect id="Rectangle_86064" data-name="Rectangle 86064" width="20.101" height="20.101" transform="translate(-7.084 7.775) rotate(-47.663)" fill="url(#linear-gradient-5)"/>
+      </g>
+    </g>
+    <g id="Group_220771" data-name="Group 220771" transform="translate(192.474 7.731)">
+      <g id="Group_220770" data-name="Group 220770" clip-path="url(#clip-path-22)">
+        <rect id="Rectangle_86065" data-name="Rectangle 86065" width="7.308" height="3.749" transform="translate(-0.422 0.063) rotate(-8.746)" fill="url(#linear-gradient-6)"/>
+      </g>
+    </g>
+    <g id="Group_220773" data-name="Group 220773" transform="translate(188.866 12.63)">
+      <g id="Group_220772" data-name="Group 220772" clip-path="url(#clip-path-23)">
+        <rect id="Rectangle_86066" data-name="Rectangle 86066" width="2.631" height="5.877" transform="translate(-0.852 0.131) rotate(-8.746)" fill="url(#linear-gradient-7)"/>
+      </g>
+    </g>
+    <g id="Group_220775" data-name="Group 220775" transform="translate(0 -0.001)">
+      <g id="Group_220774" data-name="Group 220774" clip-path="url(#clip-path-3)">
+        <path id="Path_298143" data-name="Path 298143" d="M1123.015,247.126a.637.637,0,0,1-.535-.289q-.205-.315-.412-.625a.638.638,0,1,1,1.062-.706q.209.315.417.634a.638.638,0,0,1-.533.986m-1.776-2.622a.637.637,0,0,1-.522-.271q-.216-.308-.432-.61a.637.637,0,1,1,1.037-.742q.22.307.439.619a.638.638,0,0,1-.521,1m-1.868-2.557a.637.637,0,0,1-.508-.252q-.227-.3-.455-.593a.638.638,0,0,1,1.007-.782q.232.3.463.6a.638.638,0,0,1-.507,1.024m-1.97-2.479a.637.637,0,0,1-.491-.23q-.239-.288-.48-.571a.638.638,0,0,1,.972-.826q.245.289.489.582a.638.638,0,0,1-.49,1.045m-2.081-2.386a.636.636,0,0,1-.471-.207q-.253-.276-.507-.547a.638.638,0,1,1,.93-.873q.26.276.518.558a.638.638,0,0,1-.47,1.068m-2.2-2.277a.635.635,0,0,1-.447-.183q-.267-.262-.535-.518a.638.638,0,1,1,.881-.922q.274.262.548.53a.638.638,0,0,1-.447,1.093m-2.323-2.151a.636.636,0,0,1-.419-.157q-.281-.245-.564-.485a.638.638,0,1,1,.824-.973q.29.246.579.5a.638.638,0,0,1-.42,1.118m-2.449-2a.635.635,0,0,1-.388-.132q-.3-.227-.594-.448a.638.638,0,1,1,.76-1.024q.306.227.609.46a.638.638,0,0,1-.388,1.144m-2.574-1.842a.633.633,0,0,1-.353-.107q-.309-.206-.621-.407a.638.638,0,1,1,.689-1.073q.321.206.639.418a.638.638,0,0,1-.354,1.168m-2.692-1.663a.637.637,0,0,1-.316-.084q-.322-.184-.646-.362a.638.638,0,1,1,.615-1.117q.333.183.664.372a.638.638,0,0,1-.317,1.191m-2.8-1.474a.634.634,0,0,1-.277-.064q-.335-.162-.672-.318a.638.638,0,1,1,.537-1.157q.347.161.691.327a.638.638,0,0,1-.278,1.212m-2.9-1.283a.636.636,0,0,1-.239-.047q-.344-.139-.692-.273a.638.638,0,0,1,.459-1.19q.357.138.71.28a.638.638,0,0,1-.239,1.229m-2.971-1.09a.638.638,0,0,1-.2-.032q-.352-.117-.708-.229a.638.638,0,1,1,.383-1.216q.364.115.726.235a.638.638,0,0,1-.2,1.243m-3.033-.905a.64.64,0,0,1-.165-.022q-.359-.1-.721-.187a.638.638,0,1,1,.313-1.236q.37.094.738.192a.638.638,0,0,1-.164,1.254m-3.08-.733a.645.645,0,0,1-.132-.014q-.364-.076-.731-.149a.638.638,0,0,1,.247-1.251q.375.074.746.152a.638.638,0,0,1-.13,1.262m-3.113-.575a.64.64,0,0,1-.1-.008q-.367-.059-.738-.114a.638.638,0,1,1,.188-1.261q.377.057.751.116a.638.638,0,0,1-.1,1.267m-32.349-.139a.638.638,0,0,1-.058-1.273l.752-.068a.638.638,0,0,1,.113,1.27l-.749.068-.059,0m3.157-.272a.638.638,0,0,1-.05-1.273l.753-.059a.638.638,0,0,1,.1,1.271l-.75.059-.052,0m26.056-.022a.674.674,0,0,1-.075,0q-.37-.043-.743-.083a.638.638,0,1,1,.136-1.268q.379.041.755.085a.638.638,0,0,1-.073,1.271m-22.9-.211a.638.638,0,0,1-.042-1.274l.754-.049a.638.638,0,0,1,.081,1.273l-.75.049h-.043m19.745-.1-.051,0q-.372-.029-.746-.056a.638.638,0,1,1,.089-1.272q.38.027.757.056a.638.638,0,0,1-.049,1.273m-16.582-.092a.638.638,0,0,1-.032-1.274l.755-.037a.638.638,0,1,1,.06,1.274l-.75.037h-.033m13.421-.1h-.029l-.749-.032a.638.638,0,1,1,.049-1.274q.38.015.757.032a.638.638,0,0,1-.029,1.274m-10.255-.032a.638.638,0,0,1-.021-1.275l.756-.024a.638.638,0,0,1,.037,1.275l-.75.024h-.021m7.089-.067h-.011l-.75-.011a.638.638,0,0,1,.014-1.275l.757.011a.638.638,0,0,1-.011,1.275m-3.922-.007a.638.638,0,0,1-.008-1.275l.757-.008h0a.638.638,0,0,1,0,1.275l-.75.008h-.008" transform="translate(-853.901 -177.531)" fill="#fff"/>
+        <path id="Path_298144" data-name="Path 298144" d="M1042.054,446.353a.638.638,0,0,1-.011-1.275l.754-.014a.644.644,0,0,1,.649.626.638.638,0,0,1-.626.649l-.754.014h-.012m3.169-.059a.638.638,0,0,1-.012-1.275l.753-.015a.638.638,0,1,1,.026,1.275l-.754.015h-.013m3.171-.068a.638.638,0,0,1-.014-1.275l.753-.018a.638.638,0,1,1,.031,1.275l-.755.018h-.015m3.171-.082a.638.638,0,0,1-.018-1.275l.753-.022a.638.638,0,1,1,.038,1.275l-.755.022h-.019m3.17-.1a.638.638,0,0,1-.022-1.275l.752-.027a.638.638,0,1,1,.048,1.274l-.755.028h-.023m3.169-.125a.638.638,0,0,1-.027-1.275l.752-.034a.638.638,0,1,1,.059,1.274l-.755.034h-.028m3.168-.154a.638.638,0,0,1-.033-1.274l.751-.041a.638.638,0,0,1,.071,1.273l-.755.041h-.034m3.165-.186a.638.638,0,0,1-.04-1.274l.751-.049a.638.638,0,1,1,.085,1.272l-.754.05h-.042m3.163-.223a.638.638,0,0,1-.048-1.273l.75-.059a.638.638,0,0,1,.1,1.271l-.754.059-.049,0m3.16-.264a.638.638,0,0,1-.057-1.273l.749-.069a.638.638,0,0,1,.12,1.27l-.753.07-.058,0m3.162-.31a.638.638,0,0,1-.066-1.272l.749-.081a.638.638,0,1,1,.14,1.268l-.754.081a.644.644,0,0,1-.068,0m3.153-.362a.638.638,0,0,1-.077-1.27l.745-.094a.638.638,0,1,1,.162,1.265l-.751.094a.661.661,0,0,1-.079,0m3.139-.418a.638.638,0,0,1-.09-1.269l.741-.108a.638.638,0,1,1,.187,1.261l-.747.109a.629.629,0,0,1-.091.007m3.132-.482a.638.638,0,0,1-.1-1.267l.74-.124a.638.638,0,1,1,.215,1.257l-.747.125a.641.641,0,0,1-.1.009m3.122-.553a.638.638,0,0,1-.118-1.264l.737-.142a.638.638,0,0,1,.246,1.251l-.744.144a.65.65,0,0,1-.12.011m3.107-.633a.638.638,0,0,1-.135-1.261l.732-.162a.638.638,0,1,1,.281,1.244q-.369.083-.741.164a.639.639,0,0,1-.136.015m3.087-.723a.638.638,0,0,1-.155-1.256q.364-.091.725-.185a.638.638,0,0,1,.32,1.234l-.736.188a.641.641,0,0,1-.156.019m3.061-.824a.638.638,0,0,1-.176-1.25q.36-.1.718-.21a.638.638,0,0,1,.365,1.222q-.363.109-.729.214a.641.641,0,0,1-.177.025m3.028-.939a.638.638,0,0,1-.2-1.243q.355-.118.708-.24a.638.638,0,1,1,.416,1.206q-.359.124-.72.244a.635.635,0,0,1-.2.033m2.984-1.07a.638.638,0,0,1-.23-1.233q.349-.135.694-.273a.638.638,0,1,1,.474,1.184q-.352.141-.709.279a.634.634,0,0,1-.229.043m2.925-1.219a.638.638,0,0,1-.262-1.219q.341-.153.677-.311a.638.638,0,0,1,.54,1.155q-.344.161-.693.318a.634.634,0,0,1-.261.056m2.847-1.39a.638.638,0,0,1-.3-1.2q.33-.174.654-.353a.638.638,0,1,1,.615,1.117q-.333.184-.673.363a.634.634,0,0,1-.3.074m2.743-1.583a.638.638,0,0,1-.341-1.177q.314-.2.623-.4a.638.638,0,1,1,.7,1.065q-.319.21-.644.415a.634.634,0,0,1-.339.1m2.6-1.8a.638.638,0,0,1-.387-1.145q.294-.224.583-.454a.638.638,0,1,1,.8,1q-.3.239-.606.472a.635.635,0,0,1-.386.13m2.417-2.04a.638.638,0,0,1-.437-1.1q.269-.253.53-.511a.638.638,0,1,1,.9.906q-.273.27-.554.535a.636.636,0,0,1-.437.173m2.175-2.293a.638.638,0,0,1-.488-1.048q.237-.281.463-.569a.638.638,0,1,1,1,.79q-.239.3-.487.6a.636.636,0,0,1-.489.228m1.87-2.544a.638.638,0,0,1-.537-.981c.13-.2.259-.414.383-.623a.638.638,0,1,1,1.1.65c-.131.221-.268.443-.405.659a.637.637,0,0,1-.538.295m1.511-2.777a.638.638,0,0,1-.58-.9c.1-.221.2-.446.293-.67a.638.638,0,1,1,1.177.491c-.1.237-.2.475-.31.709a.638.638,0,0,1-.58.373m1.108-2.954a.638.638,0,0,1-.612-.82q.1-.349.2-.7a.638.638,0,1,1,1.233.325c-.065.248-.135.5-.208.744a.638.638,0,0,1-.611.456m.7-3.077a.638.638,0,0,1-.63-.738q.057-.36.1-.726a.638.638,0,1,1,1.265.163q-.049.385-.11.764a.638.638,0,0,1-.629.537m.307-3.141h-.026a.638.638,0,0,1-.612-.662q.014-.365.019-.736a.638.638,0,0,1,1.275.017q-.005.388-.02.769a.637.637,0,0,1-.637.612m-.046-3.165a.637.637,0,0,1-.636-.6q-.024-.366-.056-.737a.638.638,0,1,1,1.27-.112q.034.386.058.766a.638.638,0,0,1-.6.678h-.042m-.35-3.148a.638.638,0,0,1-.629-.54q-.057-.363-.121-.731a.638.638,0,1,1,1.256-.22q.067.38.125.756a.638.638,0,0,1-.532.728.65.65,0,0,1-.1.008m-.608-3.108a.638.638,0,0,1-.62-.492q-.084-.359-.176-.722a.638.638,0,1,1,1.237-.311q.094.373.18.742a.639.639,0,0,1-.621.783m-.825-3.058a.638.638,0,0,1-.61-.452q-.108-.354-.222-.711a.638.638,0,0,1,1.215-.387q.117.366.227.728a.638.638,0,0,1-.61.823m-1.006-3a.638.638,0,0,1-.6-.419q-.127-.348-.26-.7a.638.638,0,0,1,1.193-.452q.136.359.266.714a.638.638,0,0,1-.6.857" transform="translate(-845.148 -321.767)" fill="#fff"/>
+        <path id="Path_298145" data-name="Path 298145" d="M898.091,311.871a.632.632,0,0,1-.075,0l-.074-.009a.638.638,0,0,1,.158-1.265l.065.008a.638.638,0,0,1-.073,1.271m-2.416-.552a.641.641,0,0,1-.2-.034c-.245-.083-.494-.174-.739-.272a.638.638,0,1,1,.472-1.184c.224.089.45.173.674.248a.638.638,0,0,1-.2,1.242m-2.871-1.325a.634.634,0,0,1-.321-.087c-.221-.129-.444-.266-.664-.407a.638.638,0,1,1,.688-1.073c.206.132.414.26.62.38a.638.638,0,0,1-.323,1.188m-2.593-1.813a.635.635,0,0,1-.4-.143q-.3-.242-.592-.5a.638.638,0,1,1,.835-.963q.28.243.562.472a.638.638,0,0,1-.4,1.132m-2.326-2.149a.635.635,0,0,1-.459-.2q-.265-.275-.527-.561a.638.638,0,0,1,.94-.862q.251.274.505.538a.638.638,0,0,1-.459,1.08m-2.079-2.39a.636.636,0,0,1-.5-.243q-.236-.3-.469-.607a.638.638,0,1,1,1.018-.769q.224.3.452.586a.638.638,0,0,1-.5,1.033m-1.853-2.57a.637.637,0,0,1-.533-.287q-.209-.318-.415-.643a.638.638,0,1,1,1.077-.682q.2.315.4.623a.638.638,0,0,1-.532.988m-1.641-2.711a.637.637,0,0,1-.558-.328q-.185-.333-.365-.672a.638.638,0,1,1,1.125-.6q.176.329.355.653a.638.638,0,0,1-.557.947m-1.439-2.823a.638.638,0,0,1-.578-.368q-.161-.345-.317-.7a.638.638,0,1,1,1.164-.52q.152.341.309.676a.638.638,0,0,1-.577.907m-1.242-2.915a.638.638,0,0,1-.595-.407q-.138-.355-.271-.714a.638.638,0,0,1,1.2-.443q.13.35.263.7a.638.638,0,0,1-.594.868m-1.049-2.99a.638.638,0,0,1-.608-.446q-.114-.363-.224-.73a.638.638,0,0,1,1.222-.364q.106.357.218.711a.638.638,0,0,1-.608.829m-.855-3.051a.638.638,0,0,1-.618-.486q-.091-.37-.177-.743a.638.638,0,0,1,1.243-.286q.084.364.172.724a.638.638,0,0,1-.467.771.646.646,0,0,1-.153.018m-.657-3.1a.638.638,0,0,1-.627-.525q-.067-.375-.129-.753a.638.638,0,0,1,1.259-.205q.06.368.125.733a.638.638,0,0,1-.628.75m-.457-3.135a.638.638,0,0,1-.633-.566q-.043-.379-.08-.759a.638.638,0,1,1,1.269-.123q.036.371.077.74a.638.638,0,0,1-.562.705.63.63,0,0,1-.072,0m-.25-3.158a.638.638,0,0,1-.636-.608q-.017-.381-.029-.764a.638.638,0,0,1,1.275-.038q.011.372.028.743a.638.638,0,0,1-.608.666h-.03m-.037-3.167h-.014a.638.638,0,0,1-.623-.651q.008-.383.023-.766a.638.638,0,0,1,1.274.05q-.014.372-.023.744a.638.638,0,0,1-.637.624m.181-3.165-.059,0a.638.638,0,0,1-.576-.693q.035-.382.077-.764a.638.638,0,1,1,1.267.139q-.041.371-.075.741a.638.638,0,0,1-.634.579m.405-3.144a.638.638,0,0,1-.63-.742q.063-.377.132-.754a.638.638,0,0,1,1.254.231q-.067.365-.128.731a.638.638,0,0,1-.628.533m.633-3.1a.639.639,0,0,1-.62-.788q.09-.371.187-.742a.638.638,0,0,1,1.234.323q-.094.36-.182.72a.638.638,0,0,1-.619.487m.863-3.047a.638.638,0,0,1-.607-.835q.118-.363.243-.726a.638.638,0,1,1,1.205.416q-.121.351-.236.7a.638.638,0,0,1-.606.441m1.093-2.972a.638.638,0,0,1-.589-.881q.146-.353.3-.7a.638.638,0,1,1,1.17.507q-.148.341-.289.683a.638.638,0,0,1-.59.4m1.318-2.879a.638.638,0,0,1-.568-.925q.172-.341.351-.68a.638.638,0,1,1,1.127.6q-.173.329-.341.659a.637.637,0,0,1-.569.35m1.535-2.769a.638.638,0,0,1-.545-.968q.2-.327.4-.651a.638.638,0,0,1,1.079.68q-.2.315-.39.631a.637.637,0,0,1-.546.307M884.1,250.3a.638.638,0,0,1-.518-1.008q.221-.31.45-.619a.638.638,0,1,1,1.025.759q-.222.3-.436.6a.637.637,0,0,1-.52.267m1.933-2.508a.638.638,0,0,1-.49-1.045q.243-.293.493-.584a.638.638,0,0,1,.967.831q-.243.283-.479.567a.637.637,0,0,1-.491.23m2.107-2.364a.637.637,0,0,1-.461-1.078q.263-.275.533-.548a.638.638,0,0,1,.907.9q-.262.265-.518.533a.635.635,0,0,1-.461.2m2.265-2.213a.637.637,0,0,1-.43-1.108q.28-.257.567-.511a.638.638,0,0,1,.846.954q-.279.248-.553.5a.636.636,0,0,1-.43.167m2.4-2.061a.638.638,0,0,1-.4-1.135q.3-.238.6-.474a.638.638,0,0,1,.785,1.005q-.295.23-.584.462a.635.635,0,0,1-.4.141m2.526-1.91a.638.638,0,0,1-.37-1.157q.309-.22.624-.437a.638.638,0,0,1,.725,1.049q-.308.213-.61.427a.635.635,0,0,1-.369.118m2.631-1.761a.638.638,0,0,1-.341-1.177q.321-.2.647-.4a.638.638,0,1,1,.666,1.087q-.319.2-.633.394a.635.635,0,0,1-.339.1m2.722-1.618a.638.638,0,0,1-.312-1.194q.33-.185.666-.368a.638.638,0,1,1,.61,1.12q-.329.179-.653.361a.636.636,0,0,1-.311.081m2.8-1.481a.638.638,0,0,1-.285-1.208q.339-.169.682-.336a.638.638,0,1,1,.557,1.147q-.337.164-.67.33a.635.635,0,0,1-.284.067" transform="translate(-710.654 -188.903)" fill="#fff"/>
+        <path id="Path_298146" data-name="Path 298146" d="M1490.533,486.374a.608.608,0,0,1-.077,0,.637.637,0,0,1-.557-.709q.045-.376.093-.751a.638.638,0,0,1,1.265.159q-.047.372-.092.745a.637.637,0,0,1-.632.561m.413-3.14a.638.638,0,0,1-.632-.728q.053-.374.108-.747a.638.638,0,0,1,1.262.186q-.055.371-.108.742a.638.638,0,0,1-.63.548m.475-3.13a.653.653,0,0,1-.1-.008.638.638,0,0,1-.528-.731q.06-.373.122-.745a.638.638,0,1,1,1.258.207q-.061.37-.12.74a.638.638,0,0,1-.629.536m.526-3.122a.639.639,0,0,1-.629-.748l.132-.742a.638.638,0,1,1,1.255.224l-.131.739a.638.638,0,0,1-.627.527m.565-3.115a.646.646,0,0,1-.118-.011.638.638,0,0,1-.51-.744l.139-.74a.638.638,0,1,1,1.253.236l-.138.738a.638.638,0,0,1-.626.521m.591-3.11a.638.638,0,0,1-.627-.759l.143-.739a.637.637,0,1,1,1.252.243l-.143.738a.638.638,0,0,1-.625.517m.6-3.107a.638.638,0,0,1-.627-.76l.144-.738a.638.638,0,0,1,1.251.245l-.144.738a.638.638,0,0,1-.625.515m.6-3.107a.638.638,0,0,1-.627-.759l.142-.738a.637.637,0,1,1,1.252.241l-.142.739a.637.637,0,0,1-.625.517m.592-3.109a.647.647,0,0,1-.118-.011.638.638,0,0,1-.51-.744l.137-.738a.638.638,0,1,1,1.254.232l-.138.74a.638.638,0,0,1-.626.521m.565-3.114a.638.638,0,0,1-.629-.748q.065-.369.129-.738a.637.637,0,1,1,1.256.216q-.064.371-.129.743a.638.638,0,0,1-.627.527m.524-3.121a.638.638,0,0,1-.63-.738q.059-.37.116-.74a.638.638,0,0,1,1.26.195q-.057.372-.117.745a.638.638,0,0,1-.629.538m.466-3.13a.627.627,0,0,1-.088-.006.638.638,0,0,1-.545-.719q.051-.371.1-.741a.638.638,0,0,1,1.265.167q-.05.374-.1.749a.638.638,0,0,1-.631.55m.392-3.14a.652.652,0,0,1-.071,0,.638.638,0,0,1-.563-.7q.041-.372.079-.743a.638.638,0,1,1,1.268.131q-.039.376-.081.752a.638.638,0,0,1-.633.567m.3-3.15-.051,0a.637.637,0,0,1-.586-.686q.029-.372.055-.744a.638.638,0,1,1,1.272.089q-.026.377-.057.755a.637.637,0,0,1-.635.588m.189-3.159h-.026a.637.637,0,0,1-.611-.663q.015-.373.026-.745a.638.638,0,0,1,1.275.039q-.011.379-.027.758a.638.638,0,0,1-.637.612m.06-3.165a.638.638,0,0,1-.638-.635q0-.373-.007-.747a.638.638,0,0,1,1.275-.018q.006.38.007.761a.637.637,0,0,1-.635.64Zm-.088-3.165a.637.637,0,0,1-.636-.6q-.02-.372-.044-.744a.638.638,0,0,1,1.272-.083q.025.38.045.76a.637.637,0,0,1-.6.67h-.034m-.253-3.157a.638.638,0,0,1-.633-.569q-.04-.371-.085-.74a.638.638,0,1,1,1.266-.155q.046.379.087.758a.637.637,0,0,1-.565.7.675.675,0,0,1-.07,0m-.434-3.139a.638.638,0,0,1-.628-.531q-.062-.367-.13-.734a.638.638,0,0,1,1.254-.231q.069.377.133.753a.637.637,0,0,1-.522.735.65.65,0,0,1-.107.009m-.626-3.108a.637.637,0,0,1-.62-.492q-.085-.361-.176-.723a.637.637,0,1,1,1.237-.311q.093.371.18.742a.638.638,0,0,1-.621.784m-.823-3.057a.638.638,0,0,1-.61-.452q-.109-.355-.223-.71a.638.638,0,0,1,1.214-.391q.117.364.228.729a.638.638,0,0,1-.61.824m-1.024-3a.638.638,0,0,1-.6-.412q-.132-.346-.269-.693a.638.638,0,1,1,1.185-.471q.141.356.276.712a.639.639,0,0,1-.6.864m-1.219-2.922a.637.637,0,0,1-.58-.373q-.154-.337-.314-.674a.638.638,0,0,1,1.152-.547q.164.346.322.692a.638.638,0,0,1-.58.9m-1.406-2.837a.637.637,0,0,1-.562-.337q-.175-.327-.356-.653a.638.638,0,0,1,1.115-.619q.186.335.365.67a.638.638,0,0,1-.562.939m-1.58-2.743a.637.637,0,0,1-.543-.3q-.195-.315-.4-.631a.638.638,0,0,1,1.076-.685q.206.323.4.646a.638.638,0,0,1-.542.973m-1.74-2.645a.637.637,0,0,1-.523-.272q-.213-.3-.431-.608a.638.638,0,1,1,1.035-.744q.223.311.44.622a.638.638,0,0,1-.522,1m-1.884-2.545a.637.637,0,0,1-.5-.245q-.229-.292-.463-.585a.638.638,0,0,1,1-.8q.24.3.472.6a.638.638,0,0,1-.5,1.03m-2.012-2.445a.635.635,0,0,1-.482-.22q-.243-.281-.492-.562a.638.638,0,0,1,.956-.845q.253.286.5.573a.638.638,0,0,1-.482,1.055m-2.125-2.348a.635.635,0,0,1-.463-.2q-.255-.27-.516-.54a.638.638,0,0,1,.917-.886q.265.275.525.549a.638.638,0,0,1-.463,1.076m-2.224-2.254a.637.637,0,0,1-.445-.181q-.267-.26-.538-.519a.637.637,0,1,1,.88-.922q.276.264.547.527a.638.638,0,0,1-.445,1.095m-2.311-2.165a.636.636,0,0,1-.427-.164q-.276-.249-.557-.5a.638.638,0,0,1,.847-.954q.285.253.565.506a.638.638,0,0,1-.427,1.111m-2.388-2.081a.635.635,0,0,1-.41-.15q-.285-.24-.575-.48a.638.638,0,1,1,.814-.982q.293.243.582.486a.638.638,0,0,1-.411,1.126m-2.455-2a.635.635,0,0,1-.4-.137q-.293-.231-.589-.462a.638.638,0,1,1,.784-1.006q.3.234.6.468a.638.638,0,0,1-.4,1.138m-2.513-1.928a.635.635,0,0,1-.381-.126q-.3-.223-.6-.446a.638.638,0,1,1,.755-1.027l.609.451a.638.638,0,0,1-.381,1.149" transform="translate(-1192.189 -316.658)" fill="#fff"/>
+        <path id="Path_298147" data-name="Path 298147" d="M881.906,920.323a.638.638,0,0,1-.549-.961q.193-.328.389-.654a.638.638,0,0,1,1.092.659q-.193.32-.382.642a.637.637,0,0,1-.55.314m1.669-2.7a.638.638,0,0,1-.534-.986q.208-.319.419-.637a.638.638,0,0,1,1.062.706q-.208.312-.412.626a.637.637,0,0,1-.535.29m1.785-2.619a.638.638,0,0,1-.518-1.008q.22-.309.444-.616a.637.637,0,1,1,1.031.751q-.22.3-.437.606a.637.637,0,0,1-.52.267m1.892-2.54a.638.638,0,0,1-.5-1.029q.233-.3.469-.6a.638.638,0,0,1,1,.792q-.232.293-.462.588a.636.636,0,0,1-.5.246M889.244,910a.638.638,0,0,1-.487-1.048q.244-.29.492-.579a.638.638,0,0,1,.968.83q-.244.284-.484.57a.637.637,0,0,1-.488.227m2.086-2.384a.638.638,0,0,1-.472-1.066q.255-.281.513-.56a.638.638,0,1,1,.937.866q-.254.275-.506.552a.636.636,0,0,1-.472.209m2.172-2.306a.638.638,0,0,1-.456-1.083q.265-.271.532-.541a.638.638,0,1,1,.905.9q-.264.266-.525.534a.636.636,0,0,1-.456.192m2.252-2.228a.638.638,0,0,1-.441-1.1q.274-.262.55-.522a.638.638,0,0,1,.874.929q-.273.257-.543.515a.636.636,0,0,1-.44.177m2.326-2.152a.637.637,0,0,1-.425-1.112q.282-.253.567-.5a.638.638,0,0,1,.844.956q-.281.248-.56.5a.635.635,0,0,1-.425.162m2.394-2.076a.638.638,0,0,1-.411-1.126q.29-.244.583-.486a.638.638,0,1,1,.813.982q-.289.239-.576.48a.635.635,0,0,1-.409.149m2.457-2a.638.638,0,0,1-.4-1.138q.3-.235.6-.468a.638.638,0,1,1,.783,1.006q-.3.23-.589.462a.635.635,0,0,1-.395.137m2.515-1.927a.638.638,0,0,1-.381-1.149q.3-.226.61-.45a.638.638,0,1,1,.754,1.028q-.3.222-.6.445a.634.634,0,0,1-.38.126m2.569-1.855a.638.638,0,0,1-.367-1.16q.31-.217.622-.433a.638.638,0,0,1,.725,1.049q-.309.213-.615.428a.634.634,0,0,1-.365.116m2.619-1.784a.638.638,0,0,1-.352-1.17l.633-.416a.638.638,0,1,1,.7,1.068l-.627.411a.632.632,0,0,1-.351.106m2.665-1.713a.638.638,0,0,1-.338-1.178q.321-.2.644-.4a.638.638,0,0,1,.669,1.086l-.637.4a.634.634,0,0,1-.337.1m2.716-1.649a.638.638,0,0,1-.325-1.187l.657-.385a.638.638,0,0,1,.641,1.1l-.65.381a.634.634,0,0,1-.323.089m2.758-1.581a.638.638,0,0,1-.311-1.195l.665-.368a.638.638,0,0,1,.614,1.118l-.659.364a.634.634,0,0,1-.31.081m2.794-1.513a.638.638,0,0,1-.3-1.2l.673-.352a.638.638,0,1,1,.587,1.132l-.667.348a.635.635,0,0,1-.3.073m2.828-1.445a.638.638,0,0,1-.284-1.209l.681-.336a.638.638,0,0,1,.561,1.145l-.675.333a.636.636,0,0,1-.283.067m2.859-1.379a.638.638,0,0,1-.271-1.215l.688-.32a.638.638,0,0,1,.535,1.158l-.682.317a.632.632,0,0,1-.27.06m2.888-1.313a.638.638,0,0,1-.258-1.221l.694-.3a.638.638,0,0,1,.508,1.169l-.688.3a.638.638,0,0,1-.257.054m2.915-1.247a.638.638,0,0,1-.245-1.227l.7-.288a.638.638,0,1,1,.483,1.18l-.694.286a.634.634,0,0,1-.244.049M936,878.27a.638.638,0,0,1-.232-1.232l.706-.273a.638.638,0,0,1,.457,1.191l-.7.27a.635.635,0,0,1-.231.044m2.963-1.117a.638.638,0,0,1-.219-1.237l.711-.257a.638.638,0,0,1,.431,1.2l-.705.255a.637.637,0,0,1-.218.039m2.984-1.052a.638.638,0,0,1-.206-1.241l.716-.242a.638.638,0,0,1,.4,1.209l-.71.24a.637.637,0,0,1-.206.034m3-.987a.638.638,0,0,1-.192-1.246l.72-.226a.638.638,0,0,1,.379,1.218l-.714.224a.643.643,0,0,1-.193.03m3.023-.922a.638.638,0,0,1-.179-1.25l.724-.21a.638.638,0,1,1,.353,1.225l-.718.209a.638.638,0,0,1-.18.026m3.04-.855a.638.638,0,0,1-.166-1.253l.732-.2a.638.638,0,0,1,.326,1.233l-.725.194a.644.644,0,0,1-.166.022m60.027-.278a.636.636,0,0,1-.231-.043q-.346-.134-.7-.264a.638.638,0,0,1,.444-1.2q.359.133.714.271a.638.638,0,0,1-.231,1.232m-56.959-.515a.638.638,0,0,1-.152-1.257l.736-.179a.638.638,0,0,1,.3,1.24l-.729.178a.639.639,0,0,1-.153.019m53.974-.542a.635.635,0,0,1-.2-.031q-.354-.113-.711-.223a.638.638,0,1,1,.374-1.219q.366.112.727.228a.638.638,0,0,1-.195,1.245m-50.888-.182a.638.638,0,0,1-.138-1.26l.739-.163a.638.638,0,1,1,.271,1.246l-.733.162a.632.632,0,0,1-.139.015m3.1-.655a.638.638,0,0,1-.124-1.263l.743-.146a.638.638,0,0,1,.243,1.252l-.736.145a.639.639,0,0,1-.125.012m44.747-.049a.642.642,0,0,1-.163-.021q-.359-.094-.723-.185a.638.638,0,0,1,.31-1.237q.37.093.738.189a.638.638,0,0,1-.162,1.254m-41.632-.535a.638.638,0,0,1-.11-1.266l.746-.129a.638.638,0,1,1,.214,1.257l-.74.128a.631.631,0,0,1-.111.01m38.55-.195a.639.639,0,0,1-.132-.014q-.364-.077-.732-.151a.638.638,0,0,1,.251-1.25q.374.075.745.153a.638.638,0,0,1-.131,1.262m-35.422-.317a.638.638,0,0,1-.095-1.268l.749-.112a.638.638,0,1,1,.184,1.262l-.742.11a.673.673,0,0,1-.1.007m32.309-.269a.632.632,0,0,1-.1-.009q-.368-.061-.738-.119a.638.638,0,0,1,.2-1.26q.377.059.75.121a.638.638,0,0,1-.1,1.267m-29.171-.168a.638.638,0,0,1-.079-1.27l.752-.093a.638.638,0,0,1,.153,1.266l-.744.092a.671.671,0,0,1-.081.005m26.035-.285a.658.658,0,0,1-.079,0q-.37-.046-.743-.089a.638.638,0,1,1,.146-1.267q.378.044.754.09a.638.638,0,0,1-.078,1.271m-22.887-.074a.638.638,0,0,1-.063-1.272l.754-.074a.638.638,0,0,1,.121,1.27l-.746.073a.638.638,0,0,1-.065,0m19.736-.256-.056,0q-.372-.032-.746-.061a.638.638,0,0,1,.1-1.271q.38.029.757.062a.638.638,0,0,1-.054,1.273m-16.579-.023a.638.638,0,0,1-.047-1.273l.756-.054a.638.638,0,1,1,.088,1.272l-.748.054-.048,0m13.417-.193h-.033q-.373-.019-.748-.035a.638.638,0,0,1,.055-1.274q.38.016.758.036a.638.638,0,0,1-.032,1.274m-10.255,0a.638.638,0,0,1-.03-1.275l.757-.034a.638.638,0,0,1,.052,1.274l-.749.033h-.031m3.168-.107a.638.638,0,0,1-.012-1.275l.758-.012h.008a.638.638,0,0,1,.008,1.275l-.749.012h-.012m3.92,0h-.012l-.747-.011a.638.638,0,1,1,.014-1.275l.756.011a.638.638,0,0,1-.012,1.275" transform="translate(-715.182 -703.928)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220777" data-name="Group 220777" transform="translate(258.698 33.974)">
+      <g id="Group_220776" data-name="Group 220776" clip-path="url(#clip-path-25)">
+        <rect id="Rectangle_86068" data-name="Rectangle 86068" width="23.338" height="23.338" transform="translate(0 0)" fill="url(#linear-gradient-8)"/>
+      </g>
+    </g>
+    <g id="Group_220779" data-name="Group 220779" transform="translate(258.677 45.017)">
+      <g id="Group_220778" data-name="Group 220778" clip-path="url(#clip-path-26)">
+        <rect id="Rectangle_86069" data-name="Rectangle 86069" width="25.194" height="25.454" transform="translate(-0.908 0)" fill="url(#linear-gradient-9)"/>
+      </g>
+    </g>
+    <g id="Group_220784" data-name="Group 220784" transform="translate(0 -0.001)">
+      <g id="Group_220783" data-name="Group 220783" clip-path="url(#clip-path-3)">
+        <g id="Group_220782" data-name="Group 220782" transform="translate(258.338 33.768)" opacity="0.8">
+          <g id="Group_220781" data-name="Group 220781">
+            <g id="Group_220780" data-name="Group 220780" clip-path="url(#clip-path-28)">
+              <path id="Path_298150" data-name="Path 298150" d="M1382.784,216.252v.066h0a2.894,2.894,0,0,1-2.474-1.428c-6.087-10.37-8.318-16.926-9.117-20.6a11.76,11.76,0,0,1-.4-2.52,5.874,5.874,0,0,1-.01-1.272l.031-.187a12.007,12.007,0,0,1,23.961.119,5.275,5.275,0,0,1,.019.643v.043a12.027,12.027,0,0,1-.481,3.374c-.827,3.666-3.071,10.158-9.055,20.352a2.826,2.826,0,0,1-2.477,1.4m-11.345-25.308c0,.175,0,.425.033.8h0a10.994,10.994,0,0,0,.38,2.378l0,.013c.787,3.619,2.995,10.094,9.041,20.394a2.192,2.192,0,0,0,1.887,1.075v0a2.3,2.3,0,0,0,1.893-1.084c5.945-10.13,8.165-16.567,8.979-20.184l.006-.021a11.289,11.289,0,0,0,.389-3.194l-.068-.048v0a4.426,4.426,0,0,1,.052-.568l.032-.02a11.316,11.316,0,0,0-22.6.118l-.01.344Z" transform="translate(-1370.76 -179.17)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <path id="Path_298151" data-name="Path 298151" d="M1412.511,212.968a6.738,6.738,0,1,1-6.738-6.738,6.738,6.738,0,0,1,6.738,6.738" transform="translate(-1135.368 -167.362)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220786" data-name="Group 220786" transform="translate(263.29 38.49)">
+      <g id="Group_220785" data-name="Group 220785" clip-path="url(#clip-path-29)">
+        <rect id="Rectangle_86072" data-name="Rectangle 86072" width="20" height="20" transform="matrix(0.781, -0.625, 0.625, 0.781, -6.942, 5.556)" fill="url(#linear-gradient-10)"/>
+      </g>
+    </g>
+    <g id="Group_220788" data-name="Group 220788" transform="translate(0 -0.001)">
+      <g id="Group_220787" data-name="Group 220787" clip-path="url(#clip-path-3)">
+        <path id="Path_298153" data-name="Path 298153" d="M1400.385,193.049a.113.113,0,0,1-.074-.2,10.457,10.457,0,0,1,6.81-2.521.113.113,0,1,1,0,.226,10.231,10.231,0,0,0-6.662,2.466.113.113,0,0,1-.074.027" transform="translate(-1136.373 -154.459)" fill="#fff"/>
+        <path id="Path_298154" data-name="Path 298154" d="M1381.242,221.995a.113.113,0,0,1-.113-.113,10.433,10.433,0,0,1,1.564-5.5.113.113,0,0,1,.192.119,10.2,10.2,0,0,0-1.531,5.385.113.113,0,0,1-.113.113" transform="translate(-1120.837 -175.554)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220790" data-name="Group 220790" transform="translate(286.665 132.979)">
+      <g id="Group_220789" data-name="Group 220789" clip-path="url(#clip-path-31)">
+        <rect id="Rectangle_86074" data-name="Rectangle 86074" width="23.338" height="23.338" transform="translate(0 0)" fill="url(#linear-gradient-11)"/>
+      </g>
+    </g>
+    <g id="Group_220792" data-name="Group 220792" transform="translate(286.643 144.022)">
+      <g id="Group_220791" data-name="Group 220791" clip-path="url(#clip-path-32)">
+        <rect id="Rectangle_86075" data-name="Rectangle 86075" width="25.194" height="25.454" transform="translate(-0.908 0)" fill="url(#linear-gradient-12)"/>
+      </g>
+    </g>
+    <g id="Group_220797" data-name="Group 220797" transform="translate(0 -0.001)">
+      <g id="Group_220796" data-name="Group 220796" clip-path="url(#clip-path-3)">
+        <g id="Group_220795" data-name="Group 220795" transform="translate(286.304 132.773)" opacity="0.8">
+          <g id="Group_220794" data-name="Group 220794">
+            <g id="Group_220793" data-name="Group 220793" clip-path="url(#clip-path-34)">
+              <path id="Path_298157" data-name="Path 298157" d="M1531.177,741.581v.066h0a2.894,2.894,0,0,1-2.474-1.428c-6.088-10.37-8.318-16.926-9.117-20.6a11.767,11.767,0,0,1-.4-2.52,5.846,5.846,0,0,1-.01-1.272l.03-.186a12.007,12.007,0,0,1,23.961.119,5.3,5.3,0,0,1,.019.643v.043a12.022,12.022,0,0,1-.481,3.374c-.827,3.666-3.071,10.158-9.055,20.352a2.826,2.826,0,0,1-2.477,1.4m-11.345-25.308c0,.175,0,.425.033.8h0a11.01,11.01,0,0,0,.38,2.378l0,.013c.787,3.619,2.995,10.094,9.042,20.394a2.192,2.192,0,0,0,1.888,1.075v0a2.3,2.3,0,0,0,1.892-1.084c5.946-10.13,8.165-16.567,8.979-20.184l.006-.021a11.293,11.293,0,0,0,.389-3.194l-.068-.048v0a4.441,4.441,0,0,1,.052-.568l.032-.02a11.316,11.316,0,0,0-22.6.118l-.01.345Z" transform="translate(-1519.153 -704.499)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <path id="Path_298158" data-name="Path 298158" d="M1560.9,738.3a6.738,6.738,0,1,1-6.738-6.738,6.738,6.738,0,0,1,6.738,6.738" transform="translate(-1255.794 -593.686)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220799" data-name="Group 220799" transform="translate(291.257 137.496)">
+      <g id="Group_220798" data-name="Group 220798" clip-path="url(#clip-path-35)">
+        <rect id="Rectangle_86078" data-name="Rectangle 86078" width="20" height="20" transform="translate(-6.942 5.556) rotate(-38.676)" fill="url(#linear-gradient-13)"/>
+      </g>
+    </g>
+    <g id="Group_220801" data-name="Group 220801" transform="translate(0 -0.001)">
+      <g id="Group_220800" data-name="Group 220800" clip-path="url(#clip-path-3)">
+        <path id="Path_298160" data-name="Path 298160" d="M1548.778,718.378a.113.113,0,0,1-.074-.2,10.457,10.457,0,0,1,6.81-2.521.113.113,0,1,1,0,.226,10.231,10.231,0,0,0-6.662,2.466.113.113,0,0,1-.074.027" transform="translate(-1256.799 -580.782)" fill="#fff"/>
+        <path id="Path_298161" data-name="Path 298161" d="M1529.635,747.324a.113.113,0,0,1-.113-.113,10.432,10.432,0,0,1,1.564-5.5.113.113,0,0,1,.192.119,10.205,10.205,0,0,0-1.531,5.385.113.113,0,0,1-.113.113" transform="translate(-1241.263 -601.878)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220803" data-name="Group 220803" transform="translate(180.815 91.255)">
+      <g id="Group_220802" data-name="Group 220802" clip-path="url(#clip-path-37)">
+        <rect id="Rectangle_86080" data-name="Rectangle 86080" width="23.338" height="23.338" transform="translate(0 0)" fill="url(#linear-gradient-14)"/>
+      </g>
+    </g>
+    <g id="Group_220805" data-name="Group 220805" transform="translate(180.794 102.299)">
+      <g id="Group_220804" data-name="Group 220804" clip-path="url(#clip-path-38)">
+        <rect id="Rectangle_86081" data-name="Rectangle 86081" width="25.194" height="25.454" transform="translate(-0.908 0)" fill="url(#linear-gradient-15)"/>
+      </g>
+    </g>
+    <g id="Group_220810" data-name="Group 220810" transform="translate(0 -0.001)">
+      <g id="Group_220809" data-name="Group 220809" clip-path="url(#clip-path-3)">
+        <g id="Group_220808" data-name="Group 220808" transform="translate(180.455 91.05)" opacity="0.8">
+          <g id="Group_220807" data-name="Group 220807">
+            <g id="Group_220806" data-name="Group 220806" clip-path="url(#clip-path-20)">
+              <path id="Path_298164" data-name="Path 298164" d="M969.531,520.2v.066h0a2.894,2.894,0,0,1-2.474-1.428c-6.088-10.37-8.318-16.926-9.117-20.6a11.759,11.759,0,0,1-.4-2.52,5.856,5.856,0,0,1-.01-1.272l.031-.187a12.007,12.007,0,0,1,23.961.119,5.254,5.254,0,0,1,.019.643v.043a12.026,12.026,0,0,1-.481,3.374c-.827,3.666-3.071,10.158-9.055,20.352a2.827,2.827,0,0,1-2.477,1.4m-11.345-25.308c0,.175,0,.425.033.8h0a11.013,11.013,0,0,0,.38,2.378l0,.013c.787,3.619,2.995,10.094,9.041,20.394a2.193,2.193,0,0,0,1.887,1.075v0a2.3,2.3,0,0,0,1.893-1.084c5.945-10.13,8.165-16.567,8.979-20.184l.006-.021a11.3,11.3,0,0,0,.389-3.194l-.068-.048v0a4.483,4.483,0,0,1,.052-.568l.032-.02a11.316,11.316,0,0,0-22.6.118l-.01.344Z" transform="translate(-957.508 -483.113)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <path id="Path_298165" data-name="Path 298165" d="M999.258,516.911a6.738,6.738,0,1,1-6.738-6.738,6.738,6.738,0,0,1,6.738,6.738" transform="translate(-799.998 -414.023)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220812" data-name="Group 220812" transform="translate(185.407 95.772)">
+      <g id="Group_220811" data-name="Group 220811" clip-path="url(#clip-path-41)">
+        <rect id="Rectangle_86084" data-name="Rectangle 86084" width="20.1" height="20.1" transform="matrix(0.673, -0.74, 0.74, 0.673, -7.082, 7.79)" fill="url(#linear-gradient-16)"/>
+      </g>
+    </g>
+    <g id="Group_220814" data-name="Group 220814" transform="translate(0 -0.001)">
+      <g id="Group_220813" data-name="Group 220813" clip-path="url(#clip-path-3)">
+        <path id="Path_298167" data-name="Path 298167" d="M987.133,496.992a.113.113,0,0,1-.074-.2,10.457,10.457,0,0,1,6.81-2.521.113.113,0,1,1,0,.226,10.232,10.232,0,0,0-6.663,2.466.113.113,0,0,1-.073.027" transform="translate(-801.003 -401.119)" fill="#fff"/>
+        <path id="Path_298168" data-name="Path 298168" d="M967.989,525.937a.113.113,0,0,1-.113-.113,10.432,10.432,0,0,1,1.564-5.5.113.113,0,1,1,.192.119,10.2,10.2,0,0,0-1.53,5.385.113.113,0,0,1-.113.113" transform="translate(-785.467 -422.214)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220816" data-name="Group 220816" transform="translate(118.68 124.599)">
+      <g id="Group_220815" data-name="Group 220815" clip-path="url(#clip-path-43)">
+        <rect id="Rectangle_86086" data-name="Rectangle 86086" width="28.486" height="33.326" transform="translate(-1.879 2.272) rotate(-50.417)" fill="url(#linear-gradient-17)"/>
+      </g>
+    </g>
+    <g id="Group_220818" data-name="Group 220818" transform="translate(117.951 124.599)">
+      <g id="Group_220817" data-name="Group 220817" clip-path="url(#clip-path-44)">
+        <rect id="Rectangle_86088" data-name="Rectangle 86088" width="4.347" height="3.861" transform="matrix(0.637, -0.771, 0.771, 0.637, -2.326, 2.813)" fill="url(#linear-gradient-18)"/>
+      </g>
+    </g>
+    <g id="Group_220820" data-name="Group 220820" transform="translate(0 -0.001)">
+      <g id="Group_220819" data-name="Group 220819" clip-path="url(#clip-path-3)">
+        <path id="Path_298169" data-name="Path 298169" d="M661.592,543.7c0-.875-1.017-1.466-2.02-1.466H621.788a1.548,1.548,0,0,0-1.732,1.466v19.912a1.628,1.628,0,0,0,1.732,1.576h37.783c1,0,2.02-.7,2.02-1.576Z" transform="translate(-503.198 -440.043)" fill="#7d97f4"/>
+        <path id="Path_298170" data-name="Path 298170" d="M665.022,548.427c0-.8-.83-1.358-1.776-1.358H627.6c-.946,0-1.748.557-1.748,1.358v18.2a1.59,1.59,0,0,0,1.748,1.391h35.643a1.618,1.618,0,0,0,1.776-1.391Z" transform="translate(-507.904 -443.966)" fill="#91b3fa"/>
+        <path id="Path_298171" data-name="Path 298171" d="M854.263,592.763l-2.482-7.672a.468.468,0,0,0-.444-.324h-9.923v18.217H854.85Z" transform="translate(-682.838 -474.559)" fill="#91b3fa"/>
+      </g>
+    </g>
+    <g id="Group_220822" data-name="Group 220822" transform="translate(161.16 125.438)">
+      <g id="Group_220821" data-name="Group 220821" clip-path="url(#clip-path-46)">
+        <rect id="Rectangle_86091" data-name="Rectangle 86091" width="9.687" height="10.711" transform="matrix(0.637, -0.771, 0.771, 0.637, -1.674, 2.025)" fill="url(#linear-gradient-19)"/>
+      </g>
+    </g>
+    <g id="Group_220824" data-name="Group 220824" transform="translate(161.201 111.3)">
+      <g id="Group_220823" data-name="Group 220823" clip-path="url(#clip-path-47)">
+        <rect id="Rectangle_86092" data-name="Rectangle 86092" width="10.649" height="10.835" transform="matrix(0.637, -0.771, 0.771, 0.637, -3.408, 4.117)" fill="url(#linear-gradient-20)"/>
+      </g>
+    </g>
+    <g id="Group_220826" data-name="Group 220826" transform="translate(168.72 111.26)">
+      <g id="Group_220825" data-name="Group 220825" clip-path="url(#clip-path-48)">
+        <rect id="Rectangle_86093" data-name="Rectangle 86093" width="7.173" height="6.594" transform="translate(-3.484 4.192) rotate(-50.417)" fill="url(#linear-gradient-21)"/>
+      </g>
+    </g>
+    <g id="Group_220828" data-name="Group 220828" transform="translate(0 -0.001)">
+      <g id="Group_220827" data-name="Group 220827" clip-path="url(#clip-path-3)">
+        <path id="Rectangle_86094" data-name="Rectangle 86094" d="M.546,0H2.368a.546.546,0,0,1,.546.546v0a.547.547,0,0,1-.547.547H.546A.546.546,0,0,1,0,.547v0A.546.546,0,0,1,.546,0Z" transform="translate(161.308 118.406)" fill="#7d97f4"/>
+        <path id="Path_298175" data-name="Path 298175" d="M842.055,556.32a.6.6,0,0,0-.443.143.569.569,0,0,0-.2.407v4.81h6.03s-.327-4.99-5.389-5.36" transform="translate(-682.838 -451.472)" fill="#7d97f4"/>
+      </g>
+    </g>
+    <g id="Group_220830" data-name="Group 220830" transform="translate(160.031 123.948)">
+      <g id="Group_220829" data-name="Group 220829" clip-path="url(#clip-path-50)">
+        <rect id="Rectangle_86096" data-name="Rectangle 86096" width="13.313" height="13.313" transform="matrix(0.637, -0.771, 0.771, 0.637, -4.644, 5.616)" fill="url(#linear-gradient-22)"/>
+      </g>
+    </g>
+    <g id="Group_220832" data-name="Group 220832" transform="translate(0 -0.001)">
+      <g id="Group_220831" data-name="Group 220831" clip-path="url(#clip-path-3)">
+        <path id="Path_298177" data-name="Path 298177" d="M861.53,666.232a3.84,3.84,0,1,1-3.839-3.84,3.839,3.839,0,0,1,3.839,3.84" transform="translate(-692.931 -537.555)" fill="#7d97f4"/>
+        <path id="Path_298178" data-name="Path 298178" d="M869.918,668.848a.182.182,0,0,1-.168-.253,3.218,3.218,0,0,0-4.535-4.061.182.182,0,1,1-.178-.318,3.583,3.583,0,0,1,5.048,4.521.182.182,0,0,1-.168.111" transform="translate(-701.934 -538.665)" fill="#bdd0fb"/>
+      </g>
+    </g>
+    <g id="Group_220834" data-name="Group 220834" transform="translate(162.998 126.915)">
+      <g id="Group_220833" data-name="Group 220833" clip-path="url(#clip-path-52)">
+        <rect id="Rectangle_86098" data-name="Rectangle 86098" width="4.958" height="4.958" transform="translate(-1.729 2.092) rotate(-50.417)" fill="url(#linear-gradient-23)"/>
+      </g>
+    </g>
+    <g id="Group_220836" data-name="Group 220836" transform="translate(130.882 123.948)">
+      <g id="Group_220835" data-name="Group 220835" clip-path="url(#clip-path-53)">
+        <rect id="Rectangle_86099" data-name="Rectangle 86099" width="13.313" height="13.313" transform="matrix(0.637, -0.771, 0.771, 0.637, -4.644, 5.616)" fill="url(#linear-gradient-24)"/>
+      </g>
+    </g>
+    <g id="Group_220838" data-name="Group 220838" transform="translate(0 -0.001)">
+      <g id="Group_220837" data-name="Group 220837" clip-path="url(#clip-path-3)">
+        <path id="Path_298181" data-name="Path 298181" d="M706.863,666.232a3.84,3.84,0,1,1-3.84-3.84,3.839,3.839,0,0,1,3.84,3.84" transform="translate(-567.414 -537.555)" fill="#7d97f4"/>
+        <path id="Path_298182" data-name="Path 298182" d="M715.252,668.848a.182.182,0,0,1-.168-.253,3.218,3.218,0,0,0-4.535-4.061.182.182,0,0,1-.178-.318,3.583,3.583,0,0,1,5.049,4.521.183.183,0,0,1-.168.111" transform="translate(-576.417 -538.665)" fill="#bdd0fb"/>
+      </g>
+    </g>
+    <g id="Group_220840" data-name="Group 220840" transform="translate(133.849 126.915)">
+      <g id="Group_220839" data-name="Group 220839" clip-path="url(#clip-path-55)">
+        <rect id="Rectangle_86101" data-name="Rectangle 86101" width="4.958" height="4.958" transform="translate(-1.729 2.092) rotate(-50.417)" fill="url(#linear-gradient-25)"/>
+      </g>
+    </g>
+    <g id="Group_220842" data-name="Group 220842" transform="translate(120.067 123.948)">
+      <g id="Group_220841" data-name="Group 220841" clip-path="url(#clip-path-56)">
+        <rect id="Rectangle_86102" data-name="Rectangle 86102" width="13.313" height="13.313" transform="translate(-4.644 5.616) rotate(-50.417)" fill="url(#linear-gradient-26)"/>
+      </g>
+    </g>
+    <g id="Group_220844" data-name="Group 220844" transform="translate(0 -0.001)">
+      <g id="Group_220843" data-name="Group 220843" clip-path="url(#clip-path-3)">
+        <path id="Path_298185" data-name="Path 298185" d="M649.476,666.232a3.84,3.84,0,1,1-3.84-3.84,3.839,3.839,0,0,1,3.84,3.84" transform="translate(-520.842 -537.555)" fill="#7d97f4"/>
+        <path id="Path_298186" data-name="Path 298186" d="M657.864,668.848a.183.183,0,0,1-.168-.253,3.218,3.218,0,0,0-4.535-4.061.182.182,0,1,1-.178-.318,3.583,3.583,0,0,1,5.049,4.521.183.183,0,0,1-.168.111" transform="translate(-529.844 -538.665)" fill="#bdd0fb"/>
+      </g>
+    </g>
+    <g id="Group_220846" data-name="Group 220846" transform="translate(123.034 126.915)">
+      <g id="Group_220845" data-name="Group 220845" clip-path="url(#clip-path-58)">
+        <rect id="Rectangle_86104" data-name="Rectangle 86104" width="4.958" height="4.958" transform="matrix(0.637, -0.771, 0.771, 0.637, -1.729, 2.092)" fill="url(#linear-gradient-27)"/>
+      </g>
+    </g>
+    <g id="Group_220848" data-name="Group 220848" transform="translate(169.87 122.777)">
+      <g id="Group_220847" data-name="Group 220847" clip-path="url(#clip-path-59)">
+        <rect id="Rectangle_86105" data-name="Rectangle 86105" width="2.186" height="2.733" transform="translate(0)" fill="url(#linear-gradient-28)"/>
+      </g>
+    </g>
+    <g id="Group_220850" data-name="Group 220850" transform="translate(0 -0.001)">
+      <g id="Group_220849" data-name="Group 220849" clip-path="url(#clip-path-3)">
+        <path id="Path_298188" data-name="Path 298188" d="M902.073,651.464v2.368h-.119c-.257,0-.61-.244-.61-.5V651.8c0-.257.352-.332.61-.332Z" transform="translate(-731.474 -528.686)" fill="#7d97f4"/>
+        <path id="Path_298189" data-name="Path 298189" d="M844.5,600.895a.182.182,0,0,1-.182-.182v-10.93a.182.182,0,0,1,.365,0v10.93a.182.182,0,0,1-.182.182" transform="translate(-685.191 -478.481)" fill="#bdd0fb"/>
+        <path id="Path_298190" data-name="Path 298190" d="M847.717,564.589a.182.182,0,0,1-.172-.123c-1.376-3.988-4.187-3.7-4.215-3.7a.182.182,0,1,1-.043-.362c.031,0,3.131-.32,4.6,3.942a.182.182,0,0,1-.113.232.18.18,0,0,1-.059.01" transform="translate(-684.228 -454.783)" fill="#bdd0fb"/>
+        <path id="Path_298191" data-name="Path 298191" d="M1720.483,294.487h22.564V281.359a1.428,1.428,0,0,0-1.428-1.428h-19.037a2.1,2.1,0,0,0-2.1,2.1Z" transform="translate(-1396.235 -227.173)" fill="#7d97f4"/>
+        <path id="Path_298192" data-name="Path 298192" d="M1729.455,293.069h20.874V278.513h-18.774a2.1,2.1,0,0,0-2.1,2.1Z" transform="translate(-1403.516 -226.023)" fill="#91b3fa"/>
+      </g>
+    </g>
+    <g id="Group_220852" data-name="Group 220852" transform="translate(298.975 33.364)">
+      <g id="Group_220851" data-name="Group 220851" clip-path="url(#clip-path-61)">
+        <rect id="Rectangle_86108" data-name="Rectangle 86108" width="3.954" height="8.327" transform="translate(-2.881 1.113) rotate(-21.125)" fill="url(#linear-gradient-29)"/>
+      </g>
+    </g>
+    <g id="Group_220854" data-name="Group 220854" transform="translate(298.259 33.364)">
+      <g id="Group_220853" data-name="Group 220853" clip-path="url(#clip-path-62)">
+        <rect id="Rectangle_86110" data-name="Rectangle 86110" width="2.574" height="1.466" transform="translate(-0.2 0.077) rotate(-21.124)" fill="url(#linear-gradient-30)"/>
+      </g>
+    </g>
+    <g id="Group_220856" data-name="Group 220856" transform="translate(301.657 39.656)">
+      <g id="Group_220855" data-name="Group 220855" clip-path="url(#clip-path-63)">
+        <rect id="Rectangle_86111" data-name="Rectangle 86111" width="3.117" height="4.68" transform="translate(-1.473 0.569) rotate(-21.125)" fill="url(#linear-gradient-31)"/>
+      </g>
+    </g>
+    <g id="Group_220858" data-name="Group 220858" transform="translate(289.558 39.656)">
+      <g id="Group_220857" data-name="Group 220857" clip-path="url(#clip-path-63)">
+        <rect id="Rectangle_86113" data-name="Rectangle 86113" width="3.117" height="4.68" transform="matrix(0.933, -0.36, 0.36, 0.933, -1.473, 0.569)" fill="url(#linear-gradient-32)"/>
+      </g>
+    </g>
+    <g id="Group_220860" data-name="Group 220860" transform="translate(0 -0.001)">
+      <g id="Group_220859" data-name="Group 220859" clip-path="url(#clip-path-3)">
+        <rect id="Rectangle_86115" data-name="Rectangle 86115" width="21.445" height="12.221" transform="translate(286.776 53.605)" fill="#91b3fa"/>
+        <path id="Path_298194" data-name="Path 298194" d="M1531.056,232.273h16.3V220.415a.363.363,0,0,0-.363-.363h-15.942Z" transform="translate(-1242.508 -178.579)" fill="#91b3fa"/>
+        <path id="Path_298195" data-name="Path 298195" d="M1518.621,281.952H1539.7a.778.778,0,0,0,.778-.778v-.227a.778.778,0,0,0-.778-.778h-21.076a.778.778,0,0,0-.778.778v.227a.778.778,0,0,0,.778.778" transform="translate(-1231.785 -227.367)" fill="#7d97f4"/>
+        <rect id="Rectangle_86116" data-name="Rectangle 86116" width="1.856" height="3.626" transform="translate(290.383 43.295)" fill="#7d97f4"/>
+        <rect id="Rectangle_86117" data-name="Rectangle 86117" width="1.856" height="3.626" transform="translate(293.583 43.295)" fill="#7d97f4"/>
+        <rect id="Rectangle_86118" data-name="Rectangle 86118" width="1.856" height="3.626" transform="translate(297.373 43.295)" fill="#7d97f4"/>
+        <rect id="Rectangle_86119" data-name="Rectangle 86119" width="1.856" height="3.626" transform="translate(300.573 43.295)" fill="#7d97f4"/>
+        <rect id="Rectangle_86120" data-name="Rectangle 86120" width="1.856" height="3.626" transform="translate(291.475 56.598)" fill="#7d97f4"/>
+        <rect id="Rectangle_86121" data-name="Rectangle 86121" width="1.856" height="3.626" transform="translate(294.675 56.598)" fill="#7d97f4"/>
+        <rect id="Rectangle_86122" data-name="Rectangle 86122" width="1.856" height="3.626" transform="translate(298.466 56.598)" fill="#7d97f4"/>
+        <rect id="Rectangle_86123" data-name="Rectangle 86123" width="1.856" height="3.626" transform="translate(301.666 56.598)" fill="#7d97f4"/>
+        <path id="Path_298196" data-name="Path 298196" d="M1545.485,327.931c-4.086,1.965-7.852,4.079-9.005,6.993l-48.2.264-1.773-6.92a5.669,5.669,0,0,0-3.555-3.7c-5.9-2.345-10.506-4.109-10.228-7.748l31.431-.284a.5.5,0,0,1,.479.344l.457,1.39a4.764,4.764,0,0,0,4.573,2.907l27.771.519,1.061-1.884a.487.487,0,0,1,.425-.247l11.031.045a.3.3,0,0,1,.252.447Z" transform="translate(-1195.161 -256.877)" fill="#91b3fa"/>
+      </g>
+    </g>
+    <g id="Group_220862" data-name="Group 220862" transform="translate(277.564 60.612)">
+      <g id="Group_220861" data-name="Group 220861" clip-path="url(#clip-path-66)">
+        <rect id="Rectangle_86125" data-name="Rectangle 86125" width="49.838" height="77.907" transform="translate(-7.232 15.407) rotate(-64.855)" fill="url(#linear-gradient-33)"/>
+      </g>
+    </g>
+    <g id="Group_220864" data-name="Group 220864" transform="translate(0 -0.001)">
+      <g id="Group_220863" data-name="Group 220863" clip-path="url(#clip-path-3)">
+        <path id="Path_298198" data-name="Path 298198" d="M1803.056,364.052a1.573,1.573,0,1,1,1.573-1.573,1.575,1.575,0,0,1-1.573,1.573m0-2.782a1.209,1.209,0,1,0,1.209,1.209,1.21,1.21,0,0,0-1.209-1.209" transform="translate(-1461.97 -292.888)" fill="#bdd0fb"/>
+        <path id="Path_298199" data-name="Path 298199" d="M1776.464,364.052a1.573,1.573,0,1,1,1.573-1.573,1.575,1.575,0,0,1-1.573,1.573m0-2.782a1.209,1.209,0,1,0,1.209,1.209,1.21,1.21,0,0,0-1.209-1.209" transform="translate(-1440.389 -292.888)" fill="#bdd0fb"/>
+        <path id="Path_298200" data-name="Path 298200" d="M1752.6,363.415a1.573,1.573,0,1,1,1.573-1.573,1.575,1.575,0,0,1-1.573,1.573m0-2.782a1.209,1.209,0,1,0,1.209,1.209,1.21,1.21,0,0,0-1.209-1.209" transform="translate(-1421.022 -292.371)" fill="#bdd0fb"/>
+        <path id="Path_298201" data-name="Path 298201" d="M1603.735,332.549a1.573,1.573,0,1,1,1.573-1.573,1.575,1.575,0,0,1-1.573,1.573m0-2.782a1.209,1.209,0,1,0,1.209,1.209,1.21,1.21,0,0,0-1.209-1.209" transform="translate(-1300.213 -267.322)" fill="#bdd0fb"/>
+        <path id="Path_298202" data-name="Path 298202" d="M1576.908,332.549a1.573,1.573,0,1,1,1.573-1.573,1.575,1.575,0,0,1-1.573,1.573m0-2.782a1.209,1.209,0,1,0,1.208,1.209,1.21,1.21,0,0,0-1.208-1.209" transform="translate(-1278.442 -267.322)" fill="#bdd0fb"/>
+        <path id="Path_298203" data-name="Path 298203" d="M1555.92,332.549a1.573,1.573,0,1,1,1.573-1.573,1.575,1.575,0,0,1-1.573,1.573m0-2.782a1.209,1.209,0,1,0,1.209,1.209,1.21,1.21,0,0,0-1.209-1.209" transform="translate(-1261.41 -267.322)" fill="#bdd0fb"/>
+        <path id="Path_298204" data-name="Path 298204" d="M1701.341,354.664h0l-27.078-.477a.182.182,0,0,1,0-.364h0l27.078.477a.182.182,0,0,1,0,.364" transform="translate(-1358.577 -287.139)" fill="#bdd0fb"/>
+        <path id="Path_298205" data-name="Path 298205" d="M1493.465,325.115a.182.182,0,0,1,0-.364l23.44-.483a.182.182,0,1,1,.008.364l-23.44.483h0" transform="translate(-1211.854 -263.154)" fill="#bdd0fb"/>
+      </g>
+    </g>
+    <g id="Group_220866" data-name="Group 220866" transform="translate(67.671 239.733)">
+      <g id="Group_220865" data-name="Group 220865" clip-path="url(#clip-path-68)">
+        <rect id="Rectangle_86127" data-name="Rectangle 86127" width="68.976" height="154.321" transform="translate(-3.374 8.498) rotate(-68.344)" fill="url(#linear-gradient-34)"/>
+      </g>
+    </g>
+    <g id="Group_220868" data-name="Group 220868" transform="translate(229.805 237.547)">
+      <g id="Group_220867" data-name="Group 220867" clip-path="url(#clip-path-69)">
+        <rect id="Rectangle_86129" data-name="Rectangle 86129" width="13.873" height="6.519" transform="translate(-3.238 12.652) rotate(-75.645)" fill="url(#linear-gradient-35)"/>
+      </g>
+    </g>
+    <g id="Group_220870" data-name="Group 220870" transform="translate(70.404 175.79)">
+      <g id="Group_220869" data-name="Group 220869" clip-path="url(#clip-path-70)">
+        <rect id="Rectangle_86131" data-name="Rectangle 86131" width="174.902" height="126.833" transform="matrix(0.909, -0.417, 0.417, 0.909, -24.598, 11.297)" fill="url(#linear-gradient-36)"/>
+      </g>
+    </g>
+    <g id="Group_220872" data-name="Group 220872" transform="translate(74.047 178.705)">
+      <g id="Group_220871" data-name="Group 220871" clip-path="url(#clip-path-71)">
+        <rect id="Rectangle_86132" data-name="Rectangle 86132" width="165.054" height="113.886" transform="translate(-20.968 8.783) rotate(-22.727)" fill="url(#linear-gradient-37)"/>
+      </g>
+    </g>
+    <g id="Group_220874" data-name="Group 220874" transform="translate(28.778 196.557)">
+      <g id="Group_220873" data-name="Group 220873" clip-path="url(#clip-path-72)">
+        <rect id="Rectangle_86133" data-name="Rectangle 86133" width="54.808" height="42.57" transform="translate(-2.441 52.9) rotate(-87.358)" fill="url(#linear-gradient-38)"/>
+      </g>
+    </g>
+    <g id="Group_220876" data-name="Group 220876" transform="translate(27.411 241.42)">
+      <g id="Group_220875" data-name="Group 220875" clip-path="url(#clip-path-73)">
+        <rect id="Rectangle_86134" data-name="Rectangle 86134" width="33.7" height="10.936" transform="translate(-0.254 0.006) rotate(-1.442)" fill="url(#linear-gradient-39)"/>
+      </g>
+    </g>
+    <g id="Group_220878" data-name="Group 220878" transform="translate(36.213 199.654)">
+      <g id="Group_220877" data-name="Group 220877" clip-path="url(#clip-path-74)">
+        <rect id="Rectangle_86135" data-name="Rectangle 86135" width="29.813" height="31.466" transform="translate(-8.724 15.648) rotate(-61.06)" fill="url(#linear-gradient-40)"/>
+      </g>
+    </g>
+    <g id="Group_220880" data-name="Group 220880" transform="translate(30.518 199.438)">
+      <g id="Group_220879" data-name="Group 220879" clip-path="url(#clip-path-75)">
+        <rect id="Rectangle_86136" data-name="Rectangle 86136" width="22.186" height="17.165" transform="translate(-8.849 16.003) rotate(-61.06)" fill="url(#linear-gradient-41)"/>
+      </g>
+    </g>
+    <g id="Group_220882" data-name="Group 220882" transform="translate(52.551 221.333)">
+      <g id="Group_220881" data-name="Group 220881" clip-path="url(#clip-path-76)">
+        <rect id="Rectangle_86137" data-name="Rectangle 86137" width="6.105" height="8.376" transform="matrix(0.459, -0.889, 0.889, 0.459, -1.114, 2.158)" fill="url(#linear-gradient-42)"/>
+      </g>
+    </g>
+    <g id="Group_220884" data-name="Group 220884" transform="translate(50.708 180.561)">
+      <g id="Group_220883" data-name="Group 220883" clip-path="url(#clip-path-77)">
+        <rect id="Rectangle_86139" data-name="Rectangle 86139" width="22.579" height="23.544" transform="translate(-6.519 12.631) rotate(-62.7)" fill="url(#linear-gradient-43)"/>
+      </g>
+    </g>
+    <g id="Group_220886" data-name="Group 220886" transform="translate(36.254 237.009)">
+      <g id="Group_220885" data-name="Group 220885" clip-path="url(#clip-path-78)">
+        <rect id="Rectangle_86140" data-name="Rectangle 86140" width="27.999" height="27.999" fill="url(#linear-gradient-44)"/>
+      </g>
+    </g>
+    <g id="Group_220888" data-name="Group 220888" transform="translate(38.884 239.639)">
+      <g id="Group_220887" data-name="Group 220887" clip-path="url(#clip-path-79)">
+        <rect id="Rectangle_86141" data-name="Rectangle 86141" width="32.142" height="32.142" transform="matrix(0.685, -0.728, 0.728, 0.685, -11.348, 12.057)" fill="url(#linear-gradient-45)"/>
+      </g>
+    </g>
+    <g id="Group_220890" data-name="Group 220890" transform="translate(0 -0.001)">
+      <g id="Group_220889" data-name="Group 220889" clip-path="url(#clip-path-3)">
+        <path id="Path_298215" data-name="Path 298215" d="M211.785,1291.84a.182.182,0,0,1-.168-.111,10.252,10.252,0,0,1,14.446-12.935.182.182,0,1,1-.178.318,9.888,9.888,0,0,0-13.932,12.476.182.182,0,0,1-.168.253" transform="translate(-171.082 -1036.731)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220892" data-name="Group 220892" transform="translate(45.039 245.795)">
+      <g id="Group_220891" data-name="Group 220891" clip-path="url(#clip-path-81)">
+        <rect id="Rectangle_86143" data-name="Rectangle 86143" width="14.366" height="14.365" transform="translate(-4.681 2.918) rotate(-31.938)" fill="url(#linear-gradient-46)"/>
+      </g>
+    </g>
+    <g id="Group_220894" data-name="Group 220894" transform="translate(169.431 237.4)">
+      <g id="Group_220893" data-name="Group 220893" clip-path="url(#clip-path-82)">
+        <rect id="Rectangle_86144" data-name="Rectangle 86144" width="37.475" height="37.475" transform="translate(-11.08 22.556) rotate(-63.838)" fill="url(#linear-gradient-47)"/>
+      </g>
+    </g>
+    <g id="Group_220896" data-name="Group 220896" transform="translate(172.062 240.03)">
+      <g id="Group_220895" data-name="Group 220895" clip-path="url(#clip-path-83)">
+        <rect id="Rectangle_86145" data-name="Rectangle 86145" width="32.142" height="32.142" transform="matrix(0.685, -0.728, 0.728, 0.685, -11.348, 12.057)" fill="url(#linear-gradient-48)"/>
+      </g>
+    </g>
+    <g id="Group_220898" data-name="Group 220898" transform="translate(0 -0.001)">
+      <g id="Group_220897" data-name="Group 220897" clip-path="url(#clip-path-3)">
+        <path id="Path_298219" data-name="Path 298219" d="M918.435,1293.913a.183.183,0,0,1-.168-.111,10.252,10.252,0,0,1,14.445-12.935.182.182,0,1,1-.178.318A9.888,9.888,0,0,0,918.6,1293.66a.182.182,0,0,1-.168.253" transform="translate(-744.554 -1038.413)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220900" data-name="Group 220900" transform="translate(178.217 246.185)">
+      <g id="Group_220899" data-name="Group 220899" clip-path="url(#clip-path-85)">
+        <rect id="Rectangle_86147" data-name="Rectangle 86147" width="14.365" height="14.365" transform="translate(-4.681 2.918) rotate(-31.938)" fill="url(#linear-gradient-49)"/>
+      </g>
+    </g>
+    <g id="Group_220902" data-name="Group 220902" transform="translate(90.54 237.4)">
+      <g id="Group_220901" data-name="Group 220901" clip-path="url(#clip-path-86)">
+        <rect id="Rectangle_86148" data-name="Rectangle 86148" width="27.999" height="27.999" transform="translate(0)" fill="url(#linear-gradient-50)"/>
+      </g>
+    </g>
+    <g id="Group_220904" data-name="Group 220904" transform="translate(93.171 240.03)">
+      <g id="Group_220903" data-name="Group 220903" clip-path="url(#clip-path-87)">
+        <rect id="Rectangle_86149" data-name="Rectangle 86149" width="32.142" height="32.142" transform="translate(-11.348 12.057) rotate(-46.736)" fill="url(#linear-gradient-51)"/>
+      </g>
+    </g>
+    <g id="Group_220906" data-name="Group 220906" transform="translate(0 -0.001)">
+      <g id="Group_220905" data-name="Group 220905" clip-path="url(#clip-path-3)">
+        <path id="Path_298223" data-name="Path 298223" d="M499.833,1293.913a.182.182,0,0,1-.168-.111,10.252,10.252,0,0,1,14.445-12.935.182.182,0,1,1-.178.318A9.888,9.888,0,0,0,500,1293.66a.182.182,0,0,1-.1.239.186.186,0,0,1-.071.014" transform="translate(-404.843 -1038.413)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220908" data-name="Group 220908" transform="translate(99.326 246.185)">
+      <g id="Group_220907" data-name="Group 220907" clip-path="url(#clip-path-89)">
+        <rect id="Rectangle_86151" data-name="Rectangle 86151" width="14.366" height="14.366" transform="translate(-4.681 2.918) rotate(-31.938)" fill="url(#linear-gradient-52)"/>
+      </g>
+    </g>
+    <g id="Group_220910" data-name="Group 220910" transform="translate(201.457 237.4)">
+      <g id="Group_220909" data-name="Group 220909" clip-path="url(#clip-path-90)">
+        <rect id="Rectangle_86152" data-name="Rectangle 86152" width="27.999" height="27.999" fill="url(#linear-gradient-53)"/>
+      </g>
+    </g>
+    <g id="Group_220912" data-name="Group 220912" transform="translate(204.087 240.03)">
+      <g id="Group_220911" data-name="Group 220911" clip-path="url(#clip-path-91)">
+        <rect id="Rectangle_86153" data-name="Rectangle 86153" width="32.142" height="32.142" transform="translate(-11.348 12.057) rotate(-46.736)" fill="url(#linear-gradient-54)"/>
+      </g>
+    </g>
+    <g id="Group_220914" data-name="Group 220914" transform="translate(0 -0.001)">
+      <g id="Group_220913" data-name="Group 220913" clip-path="url(#clip-path-3)">
+        <path id="Path_298227" data-name="Path 298227" d="M1088.364,1293.913a.182.182,0,0,1-.168-.111,10.252,10.252,0,0,1,14.446-12.935.182.182,0,0,1-.178.318,9.888,9.888,0,0,0-13.932,12.475.183.183,0,0,1-.1.239.186.186,0,0,1-.071.014" transform="translate(-882.458 -1038.413)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220916" data-name="Group 220916" transform="translate(210.242 246.185)">
+      <g id="Group_220915" data-name="Group 220915" clip-path="url(#clip-path-93)">
+        <rect id="Rectangle_86155" data-name="Rectangle 86155" width="13.19" height="13.19" transform="translate(-3.128 9.385) rotate(-71.565)" fill="url(#linear-gradient-55)"/>
+      </g>
+    </g>
+    <g id="Group_220918" data-name="Group 220918" transform="translate(28.322 232.628)">
+      <g id="Group_220917" data-name="Group 220917" clip-path="url(#clip-path-94)">
+        <rect id="Rectangle_86156" data-name="Rectangle 86156" width="8.722" height="8.917" transform="matrix(0.923, -0.386, 0.386, 0.923, -2.465, 1.031)" fill="url(#linear-gradient-56)"/>
+      </g>
+    </g>
+    <g id="Group_220929" data-name="Group 220929" transform="translate(0 -0.001)">
+      <g id="Group_220928" data-name="Group 220928" clip-path="url(#clip-path-3)">
+        <g id="Group_220921" data-name="Group 220921" transform="translate(32.329 232.629)" opacity="0.54">
+          <g id="Group_220920" data-name="Group 220920">
+            <g id="Group_220919" data-name="Group 220919" clip-path="url(#clip-path-96)">
+              <path id="Path_298229" data-name="Path 298229" d="M171.542,1234.34v8.016h.984c.762,0,2.113-.811,2.113-1.574v-4.546c0-.762-1.351-1.9-2.113-1.9Z" transform="translate(-171.542 -1234.34)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_220924" data-name="Group 220924" transform="translate(66.578 199.473)" opacity="0.67">
+          <g id="Group_220923" data-name="Group 220923">
+            <g id="Group_220922" data-name="Group 220922" clip-path="url(#clip-path-97)">
+              <path id="Path_298230" data-name="Path 298230" d="M353.449,1091.023a.182.182,0,0,1-.182-.182V1058.6a.182.182,0,1,1,.364,0v32.245a.182.182,0,0,1-.182.182" transform="translate(-353.267 -1058.414)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_220927" data-name="Group 220927" transform="translate(53.832 183.073)" opacity="0.66">
+          <g id="Group_220926" data-name="Group 220926">
+            <g id="Group_220925" data-name="Group 220925" clip-path="url(#clip-path-98)">
+              <path id="Path_298231" data-name="Path 298231" d="M285.819,983.092a.182.182,0,0,1-.172-.242c1.227-3.556,3.65-8.247,8.221-10.4a10.015,10.015,0,0,1,5.027-1.038.182.182,0,0,1-.043.362A9.855,9.855,0,0,0,294,972.794c-4.444,2.1-6.809,6.693-8.011,10.176a.182.182,0,0,1-.172.123" transform="translate(-285.637 -971.391)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_220931" data-name="Group 220931" transform="translate(192.304 187.2)">
+      <g id="Group_220930" data-name="Group 220930" clip-path="url(#clip-path-99)">
+        <rect id="Rectangle_86162" data-name="Rectangle 86162" width="46.242" height="37.799" transform="matrix(0.37, -0.929, 0.929, 0.37, -14.25, 34.429)" fill="url(#linear-gradient-57)"/>
+      </g>
+    </g>
+    <g id="Group_220933" data-name="Group 220933" transform="translate(216.927 186.567)">
+      <g id="Group_220932" data-name="Group 220932" clip-path="url(#clip-path-100)">
+        <rect id="Rectangle_86163" data-name="Rectangle 86163" width="25.791" height="23.72" transform="translate(-5.804 19.769) rotate(-73.637)" fill="url(#linear-gradient-58)"/>
+      </g>
+    </g>
+    <g id="Group_220935" data-name="Group 220935" transform="translate(191.023 268.559)">
+      <g id="Group_220934" data-name="Group 220934" clip-path="url(#clip-path-101)">
+        <rect id="Rectangle_86164" data-name="Rectangle 86164" width="4.824" height="3.967" transform="translate(-0.11 0)" fill="url(#linear-gradient-59)"/>
+      </g>
+    </g>
+    <g id="Group_220937" data-name="Group 220937" transform="translate(209.966 243.841)">
+      <g id="Group_220936" data-name="Group 220936" clip-path="url(#clip-path-102)">
+        <rect id="Rectangle_86165" data-name="Rectangle 86165" width="8.922" height="28.584" transform="matrix(0.996, -0.085, 0.085, 0.996, -2.449, 0.204)" fill="url(#linear-gradient-60)"/>
+      </g>
+    </g>
+    <g id="Group_220939" data-name="Group 220939" transform="translate(209.813 266.795)">
+      <g id="Group_220938" data-name="Group 220938" clip-path="url(#clip-path-103)">
+        <rect id="Rectangle_86166" data-name="Rectangle 86166" width="7.858" height="5.735" transform="translate(-0.116 0)" fill="url(#linear-gradient-61)"/>
+      </g>
+    </g>
+    <g id="Group_220941" data-name="Group 220941" transform="translate(191.87 243.984)">
+      <g id="Group_220940" data-name="Group 220940" clip-path="url(#clip-path-104)">
+        <rect id="Rectangle_86167" data-name="Rectangle 86167" width="16.787" height="28.286" transform="matrix(0.996, -0.085, 0.085, 0.996, -2.345, 0.197)" fill="url(#linear-gradient-62)"/>
+      </g>
+    </g>
+    <g id="Group_220943" data-name="Group 220943" transform="translate(208.249 201.751)">
+      <g id="Group_220942" data-name="Group 220942" clip-path="url(#clip-path-105)">
+        <rect id="Rectangle_86168" data-name="Rectangle 86168" width="25.534" height="24.203" transform="matrix(0.577, -0.817, 0.817, 0.577, -9.717, 13.753)" fill="url(#linear-gradient-63)"/>
+      </g>
+    </g>
+    <g id="Group_220945" data-name="Group 220945" transform="translate(201.979 220.077)">
+      <g id="Group_220944" data-name="Group 220944" clip-path="url(#clip-path-106)">
+        <rect id="Rectangle_86169" data-name="Rectangle 86169" width="32.269" height="28.875" transform="translate(-11.985 20.043) rotate(-59.123)" fill="url(#linear-gradient-64)"/>
+      </g>
+    </g>
+    <g id="Group_220947" data-name="Group 220947" transform="translate(212.111 195.243)">
+      <g id="Group_220946" data-name="Group 220946" clip-path="url(#clip-path-107)">
+        <rect id="Rectangle_86170" data-name="Rectangle 86170" width="6.3" height="9.546" transform="matrix(0.991, -0.135, 0.135, 0.991, -1.333, 0.164)" fill="url(#linear-gradient-65)"/>
+      </g>
+    </g>
+    <g id="Group_220949" data-name="Group 220949" transform="translate(212.653 188.813)">
+      <g id="Group_220948" data-name="Group 220948" clip-path="url(#clip-path-108)">
+        <rect id="Rectangle_86171" data-name="Rectangle 86171" width="9.866" height="9.805" transform="translate(-2.166 8.589) rotate(-82.093)" fill="url(#linear-gradient-66)"/>
+      </g>
+    </g>
+    <g id="Group_220951" data-name="Group 220951" transform="translate(210.49 186.172)">
+      <g id="Group_220950" data-name="Group 220950" clip-path="url(#clip-path-109)">
+        <rect id="Rectangle_86172" data-name="Rectangle 86172" width="14.626" height="14.51" transform="matrix(0.544, -0.839, 0.839, 0.544, -5.464, 7.557)" fill="url(#linear-gradient-67)"/>
+      </g>
+    </g>
+    <g id="Group_220953" data-name="Group 220953" transform="translate(233.509 181.743)">
+      <g id="Group_220952" data-name="Group 220952" clip-path="url(#clip-path-110)">
+        <rect id="Rectangle_86173" data-name="Rectangle 86173" width="9.491" height="8.611" transform="translate(-2.147 7.311) rotate(-73.637)" fill="url(#linear-gradient-68)"/>
+      </g>
+    </g>
+    <g id="Group_220955" data-name="Group 220955" transform="translate(234.61 184.666)">
+      <g id="Group_220954" data-name="Group 220954" clip-path="url(#clip-path-111)">
+        <rect id="Rectangle_86174" data-name="Rectangle 86174" width="2.726" height="3.679" transform="translate(0 0)" fill="url(#linear-gradient-69)"/>
+      </g>
+    </g>
+    <g id="Group_220957" data-name="Group 220957" transform="translate(189.677 206.213)">
+      <g id="Group_220956" data-name="Group 220956" clip-path="url(#clip-path-112)">
+        <rect id="Rectangle_86175" data-name="Rectangle 86175" width="25.099" height="27.13" transform="translate(-2.644 0.253) rotate(-5.782)" fill="url(#linear-gradient-70)"/>
+      </g>
+    </g>
+    <g id="Group_220959" data-name="Group 220959" transform="translate(0 -0.001)">
+      <g id="Group_220958" data-name="Group 220958" clip-path="url(#clip-path-3)">
+        <path id="Path_298246" data-name="Path 298246" d="M1053.576,994.311a6.791,6.791,0,0,0-2.13,1.253,9.07,9.07,0,0,0-2.773,4.035,8.988,8.988,0,0,0-.311,1.2,11.67,11.67,0,0,1-.269,1.235,2.726,2.726,0,0,1-.632,1.131,4.078,4.078,0,0,1-1.046.749c-.373.2-.752.373-1.109.574a4.535,4.535,0,0,0-2.191,2.794c-.113.395-.2.807-.349,1.213a2.477,2.477,0,0,1-.728,1.089,3.142,3.142,0,0,1-1.165.58,11.744,11.744,0,0,1-1.24.258,10.238,10.238,0,0,0-2.375.665,7.051,7.051,0,0,0-3.625,3.169,4.1,4.1,0,0,0-.436,2.362,3.534,3.534,0,0,0,1.065,2.137,2.643,2.643,0,0,0,1.042.6,2.772,2.772,0,0,0,1.21.057,2.4,2.4,0,0,0,1.874-1.413l.064.024a2.49,2.49,0,0,1-1.917,1.509,2.906,2.906,0,0,1-1.271-.034,2.8,2.8,0,0,1-1.12-.614,3.7,3.7,0,0,1-1.152-2.239,4.323,4.323,0,0,1,.428-2.494,6.168,6.168,0,0,1,1.571-1.99,8.46,8.46,0,0,1,2.161-1.322,10.531,10.531,0,0,1,2.432-.692,11.535,11.535,0,0,0,1.208-.256,2.864,2.864,0,0,0,1.059-.529,2.234,2.234,0,0,0,.646-.968c.142-.378.229-.784.347-1.19a4.807,4.807,0,0,1,2.33-2.948c.371-.207.753-.379,1.116-.572a3.832,3.832,0,0,0,.984-.7,2.488,2.488,0,0,0,.588-1.027,11.4,11.4,0,0,0,.278-1.206,9.181,9.181,0,0,1,.333-1.221,8.934,8.934,0,0,1,2.892-4.063,6.881,6.881,0,0,1,2.188-1.222Z" transform="translate(-838.281 -806.866)" fill="#91b3fa"/>
+        <path id="Path_298247" data-name="Path 298247" d="M1055.369,1024.9a11.985,11.985,0,0,1-.156,1.613,4.5,4.5,0,0,1-.543,1.547,3.1,3.1,0,0,1-.526.65,5.478,5.478,0,0,1-.65.51,12.764,12.764,0,0,0-1.287.943,4.736,4.736,0,0,0-1.673,2.558,17.831,17.831,0,0,1-.624,3.193,3.44,3.44,0,0,1-1.054,1.322,5.417,5.417,0,0,1-1.465.791,25.9,25.9,0,0,1-3.158.743,5.419,5.419,0,0,0-2.778,1.381,2.107,2.107,0,0,0-.668,1.352,3.417,3.417,0,0,0,.47,1.494l-.06.032a3.336,3.336,0,0,1-.566-1.526,1.754,1.754,0,0,1,.189-.818,3.17,3.17,0,0,1,.465-.691,5.665,5.665,0,0,1,2.871-1.539,31.758,31.758,0,0,0,3.106-.776,3.824,3.824,0,0,0,2.283-1.927,18.248,18.248,0,0,0,.63-3.116,4.306,4.306,0,0,1,.684-1.523,5.854,5.854,0,0,1,1.141-1.2c.829-.723,1.921-1.084,2.475-1.979a4.3,4.3,0,0,0,.584-1.455,14.61,14.61,0,0,0,.24-1.587Z" transform="translate(-844.51 -831.741)" fill="#91b3fa"/>
+        <rect id="Rectangle_86176" data-name="Rectangle 86176" width="33.282" height="3.054" transform="translate(317.921 161.357)" fill="#7d97f4"/>
+        <rect id="Rectangle_86177" data-name="Rectangle 86177" width="28.244" height="3.054" transform="translate(321.601 153.765)" fill="#7d97f4"/>
+        <path id="Path_298248" data-name="Path 298248" d="M1671.064,819.028h-4.5l9.493-16.442,2.713,1.566Z" transform="translate(-1352.478 -651.327)" fill="#7d97f4"/>
+        <path id="Path_298249" data-name="Path 298249" d="M1838.148,819.028h4.5l-9.493-16.442-2.713,1.566Z" transform="translate(-1485.471 -651.327)" fill="#7d97f4"/>
+      </g>
+    </g>
+    <g id="Group_220961" data-name="Group 220961" transform="translate(319.177 152.016)">
+      <g id="Group_220960" data-name="Group 220960" clip-path="url(#clip-path-114)">
+        <rect id="Rectangle_86179" data-name="Rectangle 86179" width="15.731" height="30.847" transform="translate(-1.258 2.964) rotate(-67.003)" fill="url(#linear-gradient-71)"/>
+      </g>
+    </g>
+    <g id="Group_220963" data-name="Group 220963" transform="translate(317.358 116.031)">
+      <g id="Group_220962" data-name="Group 220962" clip-path="url(#clip-path-115)">
+        <rect id="Rectangle_86181" data-name="Rectangle 86181" width="45.749" height="45.256" transform="translate(-10.825 32.982) rotate(-71.956)" fill="url(#linear-gradient-72)"/>
+      </g>
+    </g>
+    <g id="Group_220965" data-name="Group 220965" transform="translate(335.13 116.031)">
+      <g id="Group_220964" data-name="Group 220964" clip-path="url(#clip-path-116)">
+        <rect id="Rectangle_86182" data-name="Rectangle 86182" width="39.946" height="36.066" transform="matrix(0.595, -0.804, 0.804, 0.595, -17.449, 23.556)" fill="url(#linear-gradient-73)"/>
+      </g>
+    </g>
+    <g id="Group_220967" data-name="Group 220967" transform="translate(0 -0.001)">
+      <g id="Group_220966" data-name="Group 220966" clip-path="url(#clip-path-3)">
+        <path id="Path_298252" data-name="Path 298252" d="M1723.2,714.946h-33.073l.192-2.192h32.667Z" transform="translate(-1371.597 -578.425)" fill="#7d97f4"/>
+        <path id="Path_298253" data-name="Path 298253" d="M1721.362,747.079h-34.228l.225-2.192h33.789Z" transform="translate(-1369.171 -604.502)" fill="#7d97f4"/>
+        <path id="Path_298254" data-name="Path 298254" d="M1767.223,608.473h-4.116a1.048,1.048,0,0,1-1.048-1.048v-1.253a1.048,1.048,0,0,1,1.048-1.048h4.116a1.048,1.048,0,0,1,1.048,1.048v1.253a1.048,1.048,0,0,1-1.048,1.048" transform="translate(-1429.975 -491.079)" fill="#91b3fa"/>
+        <path id="Path_298255" data-name="Path 298255" d="M1768.489,609.2h-2.956a1.048,1.048,0,0,1-1.048-1.048v-.628a1.048,1.048,0,0,1,1.048-1.048h2.956a1.048,1.048,0,0,1,1.048,1.048v.628a1.048,1.048,0,0,1-1.048,1.048" transform="translate(-1431.944 -492.179)" fill="#7d97f4"/>
+        <path id="Path_298256" data-name="Path 298256" d="M1715.8,777.8a2.691,2.691,0,1,1-2.662-2.3,2.5,2.5,0,0,1,2.662,2.3" transform="translate(-1388.116 -629.346)" fill="#91b3fa"/>
+        <path id="Path_298257" data-name="Path 298257" d="M1716.9,779.037a2.354,2.354,0,1,1-2.329-2.01,2.187,2.187,0,0,1,2.329,2.01" transform="translate(-1389.551 -630.585)" fill="#7d97f4"/>
+        <path id="Path_298258" data-name="Path 298258" d="M1815.634,777.8a2.691,2.691,0,1,1-2.662-2.3,2.5,2.5,0,0,1,2.662,2.3" transform="translate(-1469.133 -629.346)" fill="#91b3fa"/>
+        <path id="Path_298259" data-name="Path 298259" d="M1816.736,779.037a2.354,2.354,0,1,1-2.328-2.01,2.187,2.187,0,0,1,2.328,2.01" transform="translate(-1470.569 -630.585)" fill="#7d97f4"/>
+        <path id="Path_298260" data-name="Path 298260" d="M1795.077,642.853h-8.164a2.1,2.1,0,0,1-2.1-2.1V629.147a1,1,0,0,1,.995-.995h8.333a1.522,1.522,0,0,1,1.453,1.472l.883,11.722a1.4,1.4,0,0,1-1.4,1.507" transform="translate(-1448.44 -509.767)" fill="#7d97f4"/>
+        <path id="Path_298261" data-name="Path 298261" d="M1709.811,642.853h7.743a2.345,2.345,0,0,0,2.345-2.345v-11.14a1.216,1.216,0,0,0-1.216-1.216h-8.112a1.522,1.522,0,0,0-1.452,1.472l-.87,11.545a1.567,1.567,0,0,0,1.562,1.685" transform="translate(-1386.303 -509.767)" fill="#7d97f4"/>
+      </g>
+    </g>
+    <g id="Group_220969" data-name="Group 220969" transform="translate(358.087 191.714)">
+      <g id="Group_220968" data-name="Group 220968" clip-path="url(#clip-path-118)">
+        <rect id="Rectangle_86184" data-name="Rectangle 86184" width="20.667" height="32.736" transform="translate(-3.948 13.915) rotate(-77.767)" fill="url(#linear-gradient-74)"/>
+      </g>
+    </g>
+    <g id="Group_220971" data-name="Group 220971" transform="translate(351.834 193.293)">
+      <g id="Group_220970" data-name="Group 220970" clip-path="url(#clip-path-119)">
+        <rect id="Rectangle_86185" data-name="Rectangle 86185" width="7.859" height="10.046" transform="matrix(0.212, -0.977, 0.977, 0.212, -1.263, 5.825)" fill="url(#linear-gradient-75)"/>
+      </g>
+    </g>
+    <g id="Group_220973" data-name="Group 220973" transform="translate(377.975 257.845)">
+      <g id="Group_220972" data-name="Group 220972" clip-path="url(#clip-path-120)">
+        <rect id="Rectangle_86186" data-name="Rectangle 86186" width="11.881" height="7.365" transform="matrix(0.98, -0.201, 0.201, 0.98, -1.108, 0.213)" fill="url(#linear-gradient-76)"/>
+      </g>
+    </g>
+    <g id="Group_220975" data-name="Group 220975" transform="translate(385.926 256.443)">
+      <g id="Group_220974" data-name="Group 220974" clip-path="url(#clip-path-121)">
+        <rect id="Rectangle_86187" data-name="Rectangle 86187" width="2.75" height="3.196" transform="translate(0 0)" fill="url(#linear-gradient-77)"/>
+      </g>
+    </g>
+    <g id="Group_220977" data-name="Group 220977" transform="translate(385.655 214.525)">
+      <g id="Group_220976" data-name="Group 220976" clip-path="url(#clip-path-122)">
+        <rect id="Rectangle_86188" data-name="Rectangle 86188" width="47.785" height="32.344" transform="translate(-20.784 33.549) rotate(-61.216)" fill="url(#linear-gradient-78)"/>
+      </g>
+    </g>
+    <g id="Group_220979" data-name="Group 220979" transform="translate(394.748 258.792)">
+      <g id="Group_220978" data-name="Group 220978" clip-path="url(#clip-path-123)">
+        <rect id="Rectangle_86189" data-name="Rectangle 86189" width="4.476" height="4.576" transform="translate(-0.09 4.433) rotate(-89.459)" fill="url(#linear-gradient-79)"/>
+      </g>
+    </g>
+    <g id="Group_220981" data-name="Group 220981" transform="translate(396.214 255.871)">
+      <g id="Group_220980" data-name="Group 220980" clip-path="url(#clip-path-124)">
+        <rect id="Rectangle_86190" data-name="Rectangle 86190" width="2.374" height="3.854" transform="translate(0 0)" fill="url(#linear-gradient-80)"/>
+      </g>
+    </g>
+    <g id="Group_220983" data-name="Group 220983" transform="translate(389.172 214.223)">
+      <g id="Group_220982" data-name="Group 220982" clip-path="url(#clip-path-125)">
+        <rect id="Rectangle_86191" data-name="Rectangle 86191" width="46.236" height="33.532" transform="translate(-19.182 34.915) rotate(-61.216)" fill="url(#linear-gradient-81)"/>
+      </g>
+    </g>
+    <g id="Group_220985" data-name="Group 220985" transform="translate(376.722 191.2)">
+      <g id="Group_220984" data-name="Group 220984" clip-path="url(#clip-path-126)">
+        <rect id="Rectangle_86192" data-name="Rectangle 86192" width="35.323" height="35.756" transform="translate(-12.61 8.421) rotate(-34.389)" fill="url(#linear-gradient-82)"/>
+      </g>
+    </g>
+    <g id="Group_220987" data-name="Group 220987" transform="translate(388.479 186.017)">
+      <g id="Group_220986" data-name="Group 220986" clip-path="url(#clip-path-127)">
+        <rect id="Rectangle_86193" data-name="Rectangle 86193" width="9.455" height="9.6" transform="translate(-3.602 2.996) rotate(-39.756)" fill="url(#linear-gradient-83)"/>
+      </g>
+    </g>
+    <g id="Group_220989" data-name="Group 220989" transform="translate(386.222 180.573)">
+      <g id="Group_220988" data-name="Group 220988" clip-path="url(#clip-path-128)">
+        <rect id="Rectangle_86194" data-name="Rectangle 86194" width="8.582" height="8.452" transform="translate(-1.335 7.442) rotate(-81.787)" fill="url(#linear-gradient-84)"/>
+      </g>
+    </g>
+    <g id="Group_220991" data-name="Group 220991" transform="translate(388.186 178.729)">
+      <g id="Group_220990" data-name="Group 220990" clip-path="url(#clip-path-129)">
+        <rect id="Rectangle_86195" data-name="Rectangle 86195" width="9.045" height="9.585" transform="translate(-2.225 0.393) rotate(-12.68)" fill="url(#linear-gradient-85)"/>
+      </g>
+    </g>
+    <g id="Group_220993" data-name="Group 220993" transform="translate(390.863 184.163)">
+      <g id="Group_220992" data-name="Group 220992" clip-path="url(#clip-path-130)">
+        <rect id="Rectangle_86196" data-name="Rectangle 86196" width="2.011" height="2.533" transform="translate(-0.24 1.663) rotate(-81.787)" fill="url(#linear-gradient-86)"/>
+      </g>
+    </g>
+    <g id="Group_220995" data-name="Group 220995" transform="translate(387.38 176.84)">
+      <g id="Group_220994" data-name="Group 220994" clip-path="url(#clip-path-131)">
+        <rect id="Rectangle_86197" data-name="Rectangle 86197" width="9.982" height="12.123" transform="translate(-1.979 6.747) rotate(-73.657)" fill="url(#linear-gradient-87)"/>
+      </g>
+    </g>
+    <g id="Group_220997" data-name="Group 220997" transform="translate(383.93 179.398)">
+      <g id="Group_220996" data-name="Group 220996" clip-path="url(#clip-path-132)">
+        <rect id="Rectangle_86198" data-name="Rectangle 86198" width="5.091" height="9.115" transform="translate(-0.787 2.538) rotate(-73.657)" fill="url(#linear-gradient-88)"/>
+      </g>
+    </g>
+    <g id="Group_220999" data-name="Group 220999" transform="translate(396.4 192.924)">
+      <g id="Group_220998" data-name="Group 220998" clip-path="url(#clip-path-133)">
+        <rect id="Rectangle_86199" data-name="Rectangle 86199" width="16.699" height="16.614" transform="matrix(0.825, -0.565, 0.565, 0.825, -6.582, 3.771)" fill="url(#linear-gradient-89)"/>
+      </g>
+    </g>
+    <g id="Group_221001" data-name="Group 221001" transform="translate(386.594 191.039)">
+      <g id="Group_221000" data-name="Group 221000" clip-path="url(#clip-path-134)">
+        <rect id="Rectangle_86200" data-name="Rectangle 86200" width="9.262" height="9.515" transform="matrix(0.724, -0.69, 0.69, 0.724, -5.166, 4.923)" fill="url(#linear-gradient-90)"/>
+      </g>
+    </g>
+    <g id="Group_221003" data-name="Group 221003" transform="translate(396.183 192.162)">
+      <g id="Group_221002" data-name="Group 221002" clip-path="url(#clip-path-135)">
+        <rect id="Rectangle_86201" data-name="Rectangle 86201" width="8.874" height="9.126" transform="translate(-5.022 4.785) rotate(-43.616)" fill="url(#linear-gradient-91)"/>
+      </g>
+    </g>
+    <g id="Group_221005" data-name="Group 221005" transform="translate(387.578 200.598)">
+      <g id="Group_221004" data-name="Group 221004" clip-path="url(#clip-path-136)">
+        <rect id="Rectangle_86202" data-name="Rectangle 86202" width="20.129" height="20.281" transform="translate(-8.314 7.858) rotate(-43.616)" fill="url(#linear-gradient-92)"/>
+      </g>
+    </g>
+    <g id="Group_221007" data-name="Group 221007" transform="translate(388.933 215.301)">
+      <g id="Group_221006" data-name="Group 221006" clip-path="url(#clip-path-137)">
+        <rect id="Rectangle_86203" data-name="Rectangle 86203" width="7.333" height="11.679" transform="translate(-1.124 2.623) rotate(-66.811)" fill="url(#linear-gradient-93)"/>
+      </g>
+    </g>
+    <g id="Group_221009" data-name="Group 221009" transform="translate(390.095 203.186)">
+      <g id="Group_221008" data-name="Group 221008" clip-path="url(#clip-path-138)">
+        <rect id="Rectangle_86204" data-name="Rectangle 86204" width="17.71" height="13.574" fill="url(#linear-gradient-94)"/>
+      </g>
+    </g>
+    <g id="Group_221011" data-name="Group 221011" transform="translate(0 -0.001)">
+      <g id="Group_221010" data-name="Group 221010" clip-path="url(#clip-path-3)">
+        <path id="Path_298283" data-name="Path 298283" d="M1999.135,1056.572l-4.1-14.316a.418.418,0,0,0-.353-.3c-.743-.087-2.9-.33-5.38-.54a61.1,61.1,0,0,0-8.546-.284.419.419,0,0,0-.342.6c1.181,2.39,6.04,12.11,8.473,15.294a.42.42,0,0,0,.338.166l9.511-.089a.419.419,0,0,0,.4-.534" transform="translate(-1607.144 -844.863)" fill="#91b3fa"/>
+      </g>
+    </g>
+    <g id="Group_221013" data-name="Group 221013" transform="translate(378.514 194.812)">
+      <g id="Group_221012" data-name="Group 221012" clip-path="url(#clip-path-140)">
+        <rect id="Rectangle_86206" data-name="Rectangle 86206" width="3.949" height="3.557" transform="matrix(0.801, -0.598, 0.598, 0.801, -0.859, 0.615)" fill="url(#linear-gradient-95)"/>
+      </g>
+    </g>
+    <g id="Group_221015" data-name="Group 221015" transform="translate(377.127 195.703)">
+      <g id="Group_221014" data-name="Group 221014" clip-path="url(#clip-path-141)">
+        <rect id="Rectangle_86207" data-name="Rectangle 86207" width="7.019" height="6.12" transform="translate(-1.227 0.888) rotate(-36.728)" fill="url(#linear-gradient-96)"/>
+      </g>
+    </g>
+    <g id="Group_221017" data-name="Group 221017" transform="translate(385.935 203.369)">
+      <g id="Group_221016" data-name="Group 221016" clip-path="url(#clip-path-142)">
+        <rect id="Rectangle_86208" data-name="Rectangle 86208" width="5.637" height="5.017" transform="translate(0 0)" fill="url(#linear-gradient-97)"/>
+      </g>
+    </g>
+    <g id="Group_221019" data-name="Group 221019" transform="translate(247.088 222.161)">
+      <g id="Group_221018" data-name="Group 221018" clip-path="url(#clip-path-143)">
+        <rect id="Rectangle_86209" data-name="Rectangle 86209" width="49.725" height="46.478" transform="translate(-12.769 9.43) rotate(-36.619)" fill="url(#linear-gradient-98)"/>
+      </g>
+    </g>
+    <g id="Group_221024" data-name="Group 221024" transform="translate(0 -0.001)">
+      <g id="Group_221023" data-name="Group 221023" clip-path="url(#clip-path-3)">
+        <path id="Path_298288" data-name="Path 298288" d="M1475.567,1206.427c.03,1.536-.015,3.972-.053,5.546a1.39,1.39,0,0,1-1.552,1.348l-5.856-.687a1.391,1.391,0,0,1-1.213-1.587l.719-4.8a1.391,1.391,0,0,1,1.375-1.184h5.19a1.389,1.389,0,0,1,1.39,1.359" transform="translate(-1190.424 -977.956)" fill="#fff"/>
+        <g id="Group_221022" data-name="Group 221022" transform="translate(263.734 222.233)" opacity="0.37">
+          <g id="Group_221021" data-name="Group 221021">
+            <g id="Group_221020" data-name="Group 221020" clip-path="url(#clip-path-145)">
+              <path id="Path_298289" data-name="Path 298289" d="M1405.493,1194.507l-4.885.527a1.1,1.1,0,0,1-1.216-1.176l1.068-14.532c2.048-.065,4.068-.112,6.017-.145v14.231a1.1,1.1,0,0,1-.983,1.1" transform="translate(-1399.389 -1179.18)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <path id="Path_298290" data-name="Path 298290" d="M1416.928,1192.18a.491.491,0,0,1-.49.463h-.029a.491.491,0,0,1-.462-.519l.737-12.683.986-.023Z" transform="translate(-1149.093 -957.139)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_221026" data-name="Group 221026" transform="translate(282.27 228.726)">
+      <g id="Group_221025" data-name="Group 221025" clip-path="url(#clip-path-146)">
+        <rect id="Rectangle_86212" data-name="Rectangle 86212" width="2.938" height="3.896" transform="translate(-2.024 1.389) rotate(-34.535)" fill="url(#linear-gradient-99)"/>
+      </g>
+    </g>
+    <g id="Group_221028" data-name="Group 221028" transform="translate(281.749 228.649)">
+      <g id="Group_221027" data-name="Group 221027" clip-path="url(#clip-path-147)">
+        <rect id="Rectangle_86213" data-name="Rectangle 86213" width="2.878" height="3.888" transform="matrix(0.824, -0.567, 0.567, 0.824, -2.057, 1.414)" fill="url(#linear-gradient-100)"/>
+      </g>
+    </g>
+    <g id="Group_221030" data-name="Group 221030" transform="translate(281.05 228.649)">
+      <g id="Group_221029" data-name="Group 221029" clip-path="url(#clip-path-148)">
+        <rect id="Rectangle_86214" data-name="Rectangle 86214" width="2.924" height="3.92" transform="matrix(0.824, -0.567, 0.567, 0.824, -2.058, 1.414)" fill="url(#linear-gradient-101)"/>
+      </g>
+    </g>
+    <g id="Group_221032" data-name="Group 221032" transform="translate(279.794 228.562)">
+      <g id="Group_221031" data-name="Group 221031" clip-path="url(#clip-path-149)">
+        <rect id="Rectangle_86215" data-name="Rectangle 86215" width="3.295" height="4.284" transform="translate(-2.178 1.494) rotate(-34.535)" fill="url(#linear-gradient-102)"/>
+      </g>
+    </g>
+    <g id="Group_221034" data-name="Group 221034" transform="translate(279.248 228.726)">
+      <g id="Group_221033" data-name="Group 221033" clip-path="url(#clip-path-150)">
+        <rect id="Rectangle_86216" data-name="Rectangle 86216" width="2.72" height="3.746" transform="translate(-2.019 1.389) rotate(-34.535)" fill="url(#linear-gradient-103)"/>
+      </g>
+    </g>
+    <g id="Group_221036" data-name="Group 221036" transform="translate(278.675 228.716)">
+      <g id="Group_221035" data-name="Group 221035" clip-path="url(#clip-path-151)">
+        <rect id="Rectangle_86217" data-name="Rectangle 86217" width="2.891" height="3.868" transform="translate(-2.025 1.392) rotate(-34.535)" fill="url(#linear-gradient-104)"/>
+      </g>
+    </g>
+    <g id="Group_221038" data-name="Group 221038" transform="translate(282.988 228.562)">
+      <g id="Group_221037" data-name="Group 221037" clip-path="url(#clip-path-152)">
+        <rect id="Rectangle_86218" data-name="Rectangle 86218" width="3.484" height="4.501" transform="translate(-2.274 1.559) rotate(-34.535)" fill="url(#linear-gradient-105)"/>
+      </g>
+    </g>
+    <g id="Group_221040" data-name="Group 221040" transform="translate(254.932 204.113)">
+      <g id="Group_221039" data-name="Group 221039" clip-path="url(#clip-path-153)">
+        <rect id="Rectangle_86219" data-name="Rectangle 86219" width="34.859" height="29.877" transform="translate(-7.476 3.688) rotate(-26.434)" fill="url(#linear-gradient-106)"/>
+      </g>
+    </g>
+    <g id="Group_221045" data-name="Group 221045" transform="translate(0 -0.001)">
+      <g id="Group_221044" data-name="Group 221044" clip-path="url(#clip-path-3)">
+        <path id="Path_298299" data-name="Path 298299" d="M1468.213,1102.44c.021,1.079-.011,2.79-.037,3.9a.976.976,0,0,1-1.09.946l-4.113-.482a.977.977,0,0,1-.852-1.115l.5-3.368a.977.977,0,0,1,.966-.832h3.645a.975.975,0,0,1,.976.954" transform="translate(-1186.556 -893.895)" fill="#fff"/>
+        <g id="Group_221043" data-name="Group 221043" transform="translate(266.621 204.164)" opacity="0.37">
+          <g id="Group_221042" data-name="Group 221042">
+            <g id="Group_221041" data-name="Group 221041" clip-path="url(#clip-path-155)">
+              <path id="Path_298300" data-name="Path 298300" d="M1419,1094.069l-3.431.37a.773.773,0,0,1-.854-.826l.75-10.206c1.438-.046,2.857-.079,4.226-.1v9.994a.773.773,0,0,1-.691.769" transform="translate(-1414.713 -1083.305)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <path id="Path_298301" data-name="Path 298301" d="M1427.032,1092.435a.345.345,0,0,1-.344.325h-.02a.344.344,0,0,1-.324-.365l.517-8.907.692-.016Z" transform="translate(-1157.53 -879.276)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_221047" data-name="Group 221047" transform="translate(279.64 208.724)">
+      <g id="Group_221046" data-name="Group 221046" clip-path="url(#clip-path-156)">
+        <rect id="Rectangle_86222" data-name="Rectangle 86222" width="2.063" height="2.736" transform="matrix(0.824, -0.567, 0.567, 0.824, -1.421, 0.976)" fill="url(#linear-gradient-107)"/>
+      </g>
+    </g>
+    <g id="Group_221049" data-name="Group 221049" transform="translate(279.274 208.67)">
+      <g id="Group_221048" data-name="Group 221048" clip-path="url(#clip-path-157)">
+        <rect id="Rectangle_86223" data-name="Rectangle 86223" width="2.021" height="2.731" transform="translate(-1.445 0.993) rotate(-34.535)" fill="url(#linear-gradient-108)"/>
+      </g>
+    </g>
+    <g id="Group_221051" data-name="Group 221051" transform="translate(278.783 208.67)">
+      <g id="Group_221050" data-name="Group 221050" clip-path="url(#clip-path-158)">
+        <rect id="Rectangle_86224" data-name="Rectangle 86224" width="2.054" height="2.753" transform="matrix(0.824, -0.567, 0.567, 0.824, -1.446, 0.993)" fill="url(#linear-gradient-109)"/>
+      </g>
+    </g>
+    <g id="Group_221053" data-name="Group 221053" transform="translate(277.901 208.609)">
+      <g id="Group_221052" data-name="Group 221052" clip-path="url(#clip-path-159)">
+        <rect id="Rectangle_86225" data-name="Rectangle 86225" width="2.314" height="3.008" transform="matrix(0.824, -0.567, 0.567, 0.824, -1.53, 1.05)" fill="url(#linear-gradient-110)"/>
+      </g>
+    </g>
+    <g id="Group_221055" data-name="Group 221055" transform="translate(277.517 208.724)">
+      <g id="Group_221054" data-name="Group 221054" clip-path="url(#clip-path-160)">
+        <rect id="Rectangle_86226" data-name="Rectangle 86226" width="1.91" height="2.631" transform="translate(-1.418 0.976) rotate(-34.535)" fill="url(#linear-gradient-111)"/>
+      </g>
+    </g>
+    <g id="Group_221057" data-name="Group 221057" transform="translate(277.115 208.717)">
+      <g id="Group_221056" data-name="Group 221056" clip-path="url(#clip-path-161)">
+        <rect id="Rectangle_86227" data-name="Rectangle 86227" width="2.03" height="2.716" transform="translate(-1.422 0.978) rotate(-34.535)" fill="url(#linear-gradient-112)"/>
+      </g>
+    </g>
+    <g id="Group_221059" data-name="Group 221059" transform="translate(280.143 208.608)">
+      <g id="Group_221058" data-name="Group 221058" clip-path="url(#clip-path-162)">
+        <rect id="Rectangle_86228" data-name="Rectangle 86228" width="2.447" height="3.161" transform="matrix(0.824, -0.567, 0.567, 0.824, -1.597, 1.095)" fill="url(#linear-gradient-113)"/>
+      </g>
+    </g>
+    <g id="Group_221061" data-name="Group 221061" transform="translate(257.536 189.397)">
+      <g id="Group_221060" data-name="Group 221060" clip-path="url(#clip-path-163)">
+        <rect id="Rectangle_86229" data-name="Rectangle 86229" width="30.523" height="29.3" transform="translate(-8.105 6.736) rotate(-39.903)" fill="url(#linear-gradient-114)"/>
+      </g>
+    </g>
+    <g id="Group_221066" data-name="Group 221066" transform="translate(0 -0.001)">
+      <g id="Group_221065" data-name="Group 221065" clip-path="url(#clip-path-3)">
+        <path id="Path_298310" data-name="Path 298310" d="M1468.106,1022.019c.019.948-.01,2.453-.032,3.426a.859.859,0,0,1-.959.832l-3.617-.424a.859.859,0,0,1-.75-.98l.444-2.962a.859.859,0,0,1,.849-.732h3.206a.858.858,0,0,1,.859.84" transform="translate(-1187.066 -828.723)" fill="#fff"/>
+        <g id="Group_221064" data-name="Group 221064" transform="translate(267.816 189.442)" opacity="0.37">
+          <g id="Group_221063" data-name="Group 221063">
+            <g id="Group_221062" data-name="Group 221062" clip-path="url(#clip-path-165)">
+              <path id="Path_298311" data-name="Path 298311" d="M1424.826,1014.655l-3.017.326a.68.68,0,0,1-.751-.726l.66-8.976c1.265-.04,2.512-.069,3.716-.09v8.79a.68.68,0,0,1-.607.676" transform="translate(-1421.054 -1005.189)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <path id="Path_298312" data-name="Path 298312" d="M1431.889,1013.219a.3.3,0,0,1-.3.286h-.018a.3.3,0,0,1-.285-.321l.455-7.833.609-.014Z" transform="translate(-1161.538 -815.866)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_221068" data-name="Group 221068" transform="translate(279.266 193.452)">
+      <g id="Group_221067" data-name="Group 221067" clip-path="url(#clip-path-166)">
+        <rect id="Rectangle_86232" data-name="Rectangle 86232" width="1.815" height="2.406" transform="matrix(0.824, -0.567, 0.567, 0.824, -1.25, 0.858)" fill="url(#linear-gradient-115)"/>
+      </g>
+    </g>
+    <g id="Group_221070" data-name="Group 221070" transform="translate(278.944 193.405)">
+      <g id="Group_221069" data-name="Group 221069" clip-path="url(#clip-path-167)">
+        <rect id="Rectangle_86233" data-name="Rectangle 86233" width="1.777" height="2.401" transform="translate(-1.271 0.873) rotate(-34.534)" fill="url(#linear-gradient-116)"/>
+      </g>
+    </g>
+    <g id="Group_221072" data-name="Group 221072" transform="translate(278.512 193.405)">
+      <g id="Group_221071" data-name="Group 221071" clip-path="url(#clip-path-168)">
+        <rect id="Rectangle_86234" data-name="Rectangle 86234" width="1.806" height="2.421" transform="translate(-1.271 0.873) rotate(-34.534)" fill="url(#linear-gradient-117)"/>
+      </g>
+    </g>
+    <g id="Group_221074" data-name="Group 221074" transform="translate(277.736 193.351)">
+      <g id="Group_221073" data-name="Group 221073" clip-path="url(#clip-path-169)">
+        <rect id="Rectangle_86235" data-name="Rectangle 86235" width="2.035" height="2.646" transform="matrix(0.824, -0.567, 0.567, 0.824, -1.345, 0.923)" fill="url(#linear-gradient-118)"/>
+      </g>
+    </g>
+    <g id="Group_221076" data-name="Group 221076" transform="translate(277.399 193.452)">
+      <g id="Group_221075" data-name="Group 221075" clip-path="url(#clip-path-170)">
+        <rect id="Rectangle_86236" data-name="Rectangle 86236" width="1.68" height="2.314" transform="matrix(0.824, -0.567, 0.567, 0.824, -1.247, 0.858)" fill="url(#linear-gradient-119)"/>
+      </g>
+    </g>
+    <g id="Group_221078" data-name="Group 221078" transform="translate(277.045 193.446)">
+      <g id="Group_221077" data-name="Group 221077" clip-path="url(#clip-path-171)">
+        <rect id="Rectangle_86237" data-name="Rectangle 86237" width="1.786" height="2.389" transform="translate(-1.251 0.86) rotate(-34.535)" fill="url(#linear-gradient-120)"/>
+      </g>
+    </g>
+    <g id="Group_221080" data-name="Group 221080" transform="translate(279.709 193.351)">
+      <g id="Group_221079" data-name="Group 221079" clip-path="url(#clip-path-172)">
+        <rect id="Rectangle_86238" data-name="Rectangle 86238" width="2.152" height="2.78" transform="matrix(0.824, -0.567, 0.567, 0.824, -1.405, 0.963)" fill="url(#linear-gradient-121)"/>
+      </g>
+    </g>
+    <g id="Group_221082" data-name="Group 221082" transform="translate(289.311 215.461)">
+      <g id="Group_221081" data-name="Group 221081" clip-path="url(#clip-path-173)">
+        <rect id="Rectangle_86239" data-name="Rectangle 86239" width="70.954" height="90.512" transform="translate(-15.547 35.297) rotate(-66.228)" fill="url(#linear-gradient-122)"/>
+      </g>
+    </g>
+    <g id="Group_221084" data-name="Group 221084" transform="translate(337.266 243.408)">
+      <g id="Group_221083" data-name="Group 221083" clip-path="url(#clip-path-174)">
+        <rect id="Rectangle_86240" data-name="Rectangle 86240" width="29.233" height="19.617" transform="matrix(0.978, -0.21, 0.21, 0.978, -2.938, 0.632)" fill="url(#linear-gradient-123)"/>
+      </g>
+    </g>
+    <g id="Group_221086" data-name="Group 221086" transform="translate(290.476 243.719)">
+      <g id="Group_221085" data-name="Group 221085" clip-path="url(#clip-path-175)">
+        <rect id="Rectangle_86241" data-name="Rectangle 86241" width="29.233" height="19.617" transform="matrix(0.978, -0.21, 0.21, 0.978, -2.938, 0.632)" fill="url(#linear-gradient-124)"/>
+      </g>
+    </g>
+    <g id="Group_221088" data-name="Group 221088" transform="translate(340.95 246.941)">
+      <g id="Group_221087" data-name="Group 221087" clip-path="url(#clip-path-176)">
+        <rect id="Rectangle_86242" data-name="Rectangle 86242" width="26.355" height="26.355" transform="translate(-8.127 4.383) rotate(-28.339)" fill="url(#linear-gradient-125)"/>
+      </g>
+    </g>
+    <g id="Group_221090" data-name="Group 221090" transform="translate(0 -0.001)">
+      <g id="Group_221089" data-name="Group 221089" clip-path="url(#clip-path-3)">
+        <path id="Path_298324" data-name="Path 298324" d="M1818.8,1327.881a7.9,7.9,0,1,0,7.9-7.9,7.9,7.9,0,0,0-7.9,7.9" transform="translate(-1476.023 -1071.213)" fill="#7d97f4"/>
+        <path id="Path_298325" data-name="Path 298325" d="M1821.951,1333.588a.277.277,0,0,1-.254-.169,7.272,7.272,0,0,1,10.247-9.176.276.276,0,1,1-.27.482,6.721,6.721,0,0,0-9.468,8.478.277.277,0,0,1-.255.384" transform="translate(-1477.91 -1073.922)" fill="#91b3fa"/>
+      </g>
+    </g>
+    <g id="Group_221092" data-name="Group 221092" transform="translate(347.053 253.044)">
+      <g id="Group_221091" data-name="Group 221091" clip-path="url(#clip-path-178)">
+        <rect id="Rectangle_86244" data-name="Rectangle 86244" width="9.958" height="9.958" transform="translate(-3.222 1.966) rotate(-31.397)" fill="url(#linear-gradient-126)"/>
+      </g>
+    </g>
+    <g id="Group_221094" data-name="Group 221094" transform="translate(294.163 247.813)">
+      <g id="Group_221093" data-name="Group 221093" clip-path="url(#clip-path-179)">
+        <rect id="Rectangle_86245" data-name="Rectangle 86245" width="27.508" height="27.508" transform="matrix(0.715, -0.699, 0.699, 0.715, -9.724, 9.517)" fill="url(#linear-gradient-127)"/>
+      </g>
+    </g>
+    <g id="Group_221096" data-name="Group 221096" transform="translate(0 -0.001)">
+      <g id="Group_221095" data-name="Group 221095" clip-path="url(#clip-path-3)">
+        <path id="Path_298328" data-name="Path 298328" d="M1570.548,1332.51a7.9,7.9,0,1,0,7.9-7.9,7.9,7.9,0,0,0-7.9,7.9" transform="translate(-1274.557 -1074.97)" fill="#7d97f4"/>
+        <path id="Path_298329" data-name="Path 298329" d="M1573.7,1338.217a.276.276,0,0,1-.255-.169,7.272,7.272,0,0,1,10.247-9.176.276.276,0,1,1-.27.482,6.72,6.72,0,0,0-9.468,8.478.276.276,0,0,1-.254.384" transform="translate(-1276.444 -1077.678)" fill="#91b3fa"/>
+      </g>
+    </g>
+    <g id="Group_221098" data-name="Group 221098" transform="translate(300.267 253.917)">
+      <g id="Group_221097" data-name="Group 221097" clip-path="url(#clip-path-181)">
+        <rect id="Rectangle_86247" data-name="Rectangle 86247" width="9.958" height="9.958" transform="matrix(0.854, -0.521, 0.521, 0.854, -3.222, 1.966)" fill="url(#linear-gradient-128)"/>
+      </g>
+    </g>
+    <g id="Group_221100" data-name="Group 221100" transform="translate(335.279 213.688)">
+      <g id="Group_221099" data-name="Group 221099" clip-path="url(#clip-path-182)">
+        <rect id="Rectangle_86248" data-name="Rectangle 86248" width="22.494" height="33.44" transform="translate(-1.797 2.958) rotate(-58.728)" fill="url(#linear-gradient-129)"/>
+      </g>
+    </g>
+    <g id="Group_221102" data-name="Group 221102" transform="translate(289.311 202.502)">
+      <g id="Group_221101" data-name="Group 221101" clip-path="url(#clip-path-183)">
+        <rect id="Rectangle_86249" data-name="Rectangle 86249" width="22.191" height="33.093" transform="translate(-13.841 7.309) rotate(-27.838)" fill="url(#linear-gradient-130)"/>
+      </g>
+    </g>
+    <g id="Group_221104" data-name="Group 221104" transform="translate(287.538 217.086)">
+      <g id="Group_221103" data-name="Group 221103" clip-path="url(#clip-path-184)">
+        <rect id="Rectangle_86250" data-name="Rectangle 86250" width="16.816" height="30.16" transform="matrix(0.887, -0.461, 0.461, 0.887, -13.526, 7.026)" fill="url(#linear-gradient-131)"/>
+      </g>
+    </g>
+    <g id="Group_221106" data-name="Group 221106" transform="translate(268.563 247.813)">
+      <g id="Group_221105" data-name="Group 221105" clip-path="url(#clip-path-185)">
+        <rect id="Rectangle_86252" data-name="Rectangle 86252" width="19.657" height="11.959" transform="translate(-1.104 0.573) rotate(-27.449)" fill="url(#linear-gradient-132)"/>
+      </g>
+    </g>
+    <g id="Group_221108" data-name="Group 221108" transform="translate(313.615 226.505)">
+      <g id="Group_221107" data-name="Group 221107" clip-path="url(#clip-path-186)">
+        <rect id="Rectangle_86253" data-name="Rectangle 86253" width="23.342" height="18.291" transform="matrix(0.887, -0.461, 0.461, 0.887, -3.893, 2.022)" fill="url(#linear-gradient-133)"/>
+      </g>
+    </g>
+    <g id="Group_221110" data-name="Group 221110" transform="translate(305.415 218.694)">
+      <g id="Group_221109" data-name="Group 221109" transform="translate(0 0)" clip-path="url(#clip-path-187)">
+        <path id="Path_298334" data-name="Path 298334" d="M1613.27,1155.962l-4.377,5.968-5.764-3.463,4.377-5.968Z" transform="translate(-1606.413 -1153.989)" fill="url(#linear-gradient-134)"/>
+      </g>
+    </g>
+    <g id="Group_221112" data-name="Group 221112" transform="translate(305.398 216.873)">
+      <g id="Group_221111" data-name="Group 221111" clip-path="url(#clip-path-188)">
+        <rect id="Rectangle_86256" data-name="Rectangle 86256" width="6.75" height="7.186" transform="matrix(0.55, -0.835, 0.835, 0.55, -2.098, 2.978)" fill="url(#linear-gradient-135)"/>
+      </g>
+    </g>
+    <g id="Group_221114" data-name="Group 221114" transform="translate(296.517 224.324)">
+      <g id="Group_221113" data-name="Group 221113" clip-path="url(#clip-path-189)">
+        <rect id="Rectangle_86257" data-name="Rectangle 86257" width="16.299" height="16.096" transform="matrix(0.803, -0.596, 0.596, 0.803, -5.307, 3.941)" fill="url(#linear-gradient-136)"/>
+      </g>
+    </g>
+    <g id="Group_221116" data-name="Group 221116" transform="translate(317.802 198.663)">
+      <g id="Group_221115" data-name="Group 221115" clip-path="url(#clip-path-190)">
+        <rect id="Rectangle_86258" data-name="Rectangle 86258" width="7.667" height="7.941" transform="translate(-2.215 0.927) rotate(-22.714)" fill="url(#linear-gradient-137)"/>
+      </g>
+    </g>
+    <g id="Group_221118" data-name="Group 221118" transform="translate(304.243 217.37)">
+      <g id="Group_221117" data-name="Group 221117" clip-path="url(#clip-path-191)">
+        <rect id="Rectangle_86259" data-name="Rectangle 86259" width="4.317" height="6.765" transform="matrix(0.297, -0.955, 0.955, 0.297, -0.76, 2.341)" fill="url(#linear-gradient-138)"/>
+      </g>
+    </g>
+    <g id="Group_221120" data-name="Group 221120" transform="translate(315.878 193.91)">
+      <g id="Group_221119" data-name="Group 221119" clip-path="url(#clip-path-192)">
+        <rect id="Rectangle_86260" data-name="Rectangle 86260" width="9.448" height="9.305" transform="matrix(0.971, -0.237, 0.237, 0.971, -2.318, 0.431)" fill="url(#linear-gradient-139)"/>
+      </g>
+    </g>
+    <g id="Group_221122" data-name="Group 221122" transform="translate(318.15 192.301)">
+      <g id="Group_221121" data-name="Group 221121" clip-path="url(#clip-path-193)">
+        <rect id="Rectangle_86261" data-name="Rectangle 86261" width="11.29" height="11.414" transform="translate(-4.302 2.897) rotate(-35.945)" fill="url(#linear-gradient-140)"/>
+      </g>
+    </g>
+    <g id="Group_221124" data-name="Group 221124" transform="translate(320.916 197.884)">
+      <g id="Group_221123" data-name="Group 221123" clip-path="url(#clip-path-194)">
+        <rect id="Rectangle_86262" data-name="Rectangle 86262" width="2.702" height="2.523" transform="translate(-0.47 0.115) rotate(-13.713)" fill="url(#linear-gradient-141)"/>
+      </g>
+    </g>
+    <g id="Group_221126" data-name="Group 221126" transform="translate(307.86 224.814)">
+      <g id="Group_221125" data-name="Group 221125" clip-path="url(#clip-path-195)">
+        <rect id="Rectangle_86263" data-name="Rectangle 86263" width="19.59" height="11.394" transform="translate(-0.446)" fill="url(#linear-gradient-142)"/>
+      </g>
+    </g>
+    <g id="Group_221128" data-name="Group 221128" transform="translate(0 -0.001)">
+      <g id="Group_221127" data-name="Group 221127" clip-path="url(#clip-path-3)">
+        <path id="Path_298343" data-name="Path 298343" d="M1664.962,1098.655s-4.3,1.49-8.1-.124c0,0-1.994-9.4-3.822-11.747,0,0-3.2,8.278-11.106,6.95a.157.157,0,0,1-.121-.208l.306-.844a.512.512,0,0,1,.508-.336c2.672.134,6.386-4.87,7.188-11.676.165-1.4,1.146-2,3.01-2.855,1.16-.533,1.863-.911,2.229-1.121a.548.548,0,0,1,.627.054c1.627,1.369,9.195,8.453,9.276,21.906" transform="translate(-1332.388 -873.717)" fill="#7d97f4"/>
+      </g>
+    </g>
+    <g id="Group_221130" data-name="Group 221130" transform="translate(305.366 214.153)">
+      <g id="Group_221129" data-name="Group 221129" clip-path="url(#clip-path-197)">
+        <rect id="Rectangle_86265" data-name="Rectangle 86265" width="35.067" height="34.894" transform="translate(-11.016 10.524) rotate(-43.693)" fill="url(#linear-gradient-143)"/>
+      </g>
+    </g>
+    <g id="Group_221132" data-name="Group 221132" transform="translate(318.745 204.388)">
+      <g id="Group_221131" data-name="Group 221131" clip-path="url(#clip-path-198)">
+        <rect id="Rectangle_86266" data-name="Rectangle 86266" width="14.343" height="14.935" transform="matrix(0.52, -0.854, 0.854, 0.52, -4.339, 7.122)" fill="url(#linear-gradient-144)"/>
+      </g>
+    </g>
+    <g id="Group_221134" data-name="Group 221134" transform="translate(324.542 213.635)">
+      <g id="Group_221133" data-name="Group 221133" clip-path="url(#clip-path-199)">
+        <rect id="Rectangle_86267" data-name="Rectangle 86267" width="12.464" height="12.516" transform="translate(-4.813 4.598) rotate(-43.693)" fill="url(#linear-gradient-145)"/>
+      </g>
+    </g>
+    <g id="Group_221136" data-name="Group 221136" transform="translate(317.829 191.883)">
+      <g id="Group_221135" data-name="Group 221135" clip-path="url(#clip-path-200)">
+        <rect id="Rectangle_86268" data-name="Rectangle 86268" width="7.974" height="10.147" transform="translate(-0.308 7.567) rotate(-87.67)" fill="url(#linear-gradient-146)"/>
+      </g>
+    </g>
+    <g id="Group_221138" data-name="Group 221138" transform="translate(314.569 193.245)">
+      <g id="Group_221137" data-name="Group 221137" clip-path="url(#clip-path-201)">
+        <rect id="Rectangle_86269" data-name="Rectangle 86269" width="6.21" height="8.55" transform="matrix(0.333, -0.943, 0.943, 0.333, -1.259, 3.441)" fill="url(#linear-gradient-147)"/>
+      </g>
+    </g>
+    <g id="Group_221140" data-name="Group 221140" transform="translate(295.016 185.552)">
+      <g id="Group_221139" data-name="Group 221139" clip-path="url(#clip-path-202)">
+        <rect id="Rectangle_86270" data-name="Rectangle 86270" width="66.32" height="62.831" transform="translate(-23.08 38.473) rotate(-59.216)" fill="url(#linear-gradient-148)"/>
+      </g>
+    </g>
+  </g>
+</svg>

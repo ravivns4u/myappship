@@ -1,0 +1,216 @@
+.shipment-tabs {
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	list-style: none;
+	margin-bottom: 20px;
+}
+.shipment-tabs::before {
+	position: absolute;
+	left:0;
+	bottom: 0px;
+	content: "";
+	width:100%;
+	border-bottom: 2px solid #4E1E7E;
+}
+
+.shipment-tabs li {
+	font-size: 14px;
+	line-height: 18px;
+	color: #4E1E7E;
+	cursor: pointer;
+	font-weight: 500;
+	padding: 10px 27px;
+	min-width: 108px;
+	text-align: center;
+}
+.shipment-tabs li:first-child{border-radius: 4px 0px 0px 4px;}
+.shipment-tabs li:last-child{border-radius: 0 4px 4px 0px;}
+.shipment-tabs li:hover, .shipment-tabs li.active{background: #4E1E7E; color:#fff;}
+.logo-fix {
+	position: absolute;
+	left: 15px;
+	top: 4px;
+	padding: 0;
+	width: 100%;
+	height: auto;
+	max-width: 106px;
+}
+
+.data-container{margin-bottom:25px;}
+/*
+.card-row {
+	margin-bottom:20px;
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+	border: 1px solid #4E1E7E33;
+	border-radius: 8px;
+	background: var(--clr-white-background);
+	overflow: hidden;
+  padding: 50px 15px 15px 15px;
+	position: relative;
+}*/
+.booking-row {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 10px;
+}
+.center {
+	text-align: center;
+}
+.booking-row .c_two {
+	width:41%;
+}
+.booking-row .c_five {
+	padding-right: 20px;
+}
+.booking-row h5 {
+	font-size: 14px;
+	line-height: 20px;
+	color: #363636;
+	font-weight: 500;
+	margin-bottom: 5px;
+}
+.booking-row span {
+	font-size: 12px;
+	line-height: 16px;
+	color: #363636;
+	font-weight: 400;
+	display: block;
+}
+
+.common-btns {
+	min-width: 163px;
+	min-height: 40px;
+	background: #903BDE;
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: 600;
+	color: #fff;
+	border: 0;
+	border-radius: 6px;
+	cursor: pointer;
+	-webkit-transition: all 0.3s ease-in;
+	-ms-transition: all 0.3s ease-in;
+	transition: all 0.3s ease-in;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.days {
+	width: 100%;
+	display: flex;
+	margin: 20px 0 10px 0;
+}
+.days ul {
+	list-style: none;
+	padding: 10px;
+	background: #F9F5FF;
+	display: flex;
+	margin-right: 20px;
+}
+.days ul li {
+	font-size: 12px;
+	line-height: 14px;
+	color: #363636;
+	font-weight: 400;
+	margin-right: 15px;
+}
+.days ul li span img {
+	margin-right: 5px;
+}
+
+.green-border {
+	min-width: 414px;
+	border-radius: 4px;
+	background: #25AD49;
+	height: 4px;
+	display: block;
+	margin: 0 auto 7px;
+	width: 100%;
+}
+.orange-border {
+	min-width: 414px;
+	border-radius: 4px;
+	background:#E27900;
+	height: 4px;
+	display: block;
+	margin: 0 auto 7px;
+	width: 100%;
+}
+
+.tag-completed {
+	position: absolute;
+	top: 0;
+	left: 160px;
+	background: #D3FFDF;
+	color: #25AD49;
+	font-size: 16px;
+	font-weight: 500;
+	min-width: 160px;
+	height: 36px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.tag-ongoing {
+	position: absolute;
+	top: 0;
+	left: 160px;
+	background:#FDE8D0;
+	color:#E27900;
+	font-size: 16px;
+	font-weight: 500;
+	min-width:160px;
+	height: 36px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.booking-row h5.rate {
+	font-size:18px !important;
+	line-height:24px !important;
+	color: #363636;
+	font-weight: 500;
+	margin-bottom: 5px;
+}
+
+/*******************************Responsive css***********************/
+@media only screen and (min-width:768px) and (max-width:1250px){
+  .days ul {
+    margin: 0; 
+  }
+  .days{gap: 10px;}
+}
+
+
+@media only screen and (max-width:767px){
+
+  .tag-completed{font-size: 14px;}
+  .card-row .booking-row {
+    gap: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .booking-row span{text-align: center;}
+  .card-row .booking-row div {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0 !important;
+  }
+  .days ul{margin: 0; padding:0 10px;}
+  .days ul li {
+    padding: 10px 0;
+    border-bottom: 1px solid #4E1E7E33;
+    margin: 0;
+  }
+  .days ul li:first-child {
+    border-bottom: 1px solid #4E1E7E33;
+  }
+  .shipment-tabs li{padding: 10px; min-width:70px;}
+  .green-border, .orange-border{min-width:100% !important }
+
+}

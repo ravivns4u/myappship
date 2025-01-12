@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="356" viewBox="0 0 495 356">
+  <g id="Group_122610" data-name="Group 122610" transform="translate(-10863 -1430)">
+    <g id="Ellipse_180" data-name="Ellipse 180" transform="translate(10886 1483)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="64" cy="64" r="64" stroke="none"/>
+      <circle cx="64" cy="64" r="63.5" fill="none"/>
+    </g>
+    <g id="Ellipse_182" data-name="Ellipse 182" transform="translate(11082 1658)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="64" cy="64" r="64" stroke="none"/>
+      <circle cx="64" cy="64" r="63.5" fill="none"/>
+    </g>
+    <g id="Ellipse_188" data-name="Ellipse 188" transform="translate(11143 1439)" fill="#fff" stroke="#8540d6" stroke-linecap="round" stroke-width="2" stroke-dasharray="10 6.5">
+      <circle cx="64" cy="64" r="64" stroke="none"/>
+      <circle cx="64" cy="64" r="63" fill="none"/>
+    </g>
+    <circle id="Ellipse_189" data-name="Ellipse 189" cx="64" cy="64" r="64" transform="translate(11154 1430)" fill="#fcfaff"/>
+    <circle id="Ellipse_181" data-name="Ellipse 181" cx="22" cy="22" r="22" transform="translate(10863 1498)" fill="#43717e"/>
+    <circle id="Ellipse_183" data-name="Ellipse 183" cx="22" cy="22" r="22" transform="translate(11058 1698)" fill="#f6c644"/>
+    <circle id="Ellipse_184" data-name="Ellipse 184" cx="22" cy="22" r="22" transform="translate(11080 1567)" fill="#2963f6"/>
+    <circle id="Ellipse_185" data-name="Ellipse 185" cx="12" cy="12" r="12" transform="translate(11037 1529)" fill="#ebecf0"/>
+    <circle id="Ellipse_186" data-name="Ellipse 186" cx="12" cy="12" r="12" transform="translate(11255 1753)" fill="#ebecf0"/>
+    <circle id="Ellipse_187" data-name="Ellipse 187" cx="12" cy="12" r="12" transform="translate(11334 1459)" fill="#ebecf0"/>
+  </g>
+</svg>

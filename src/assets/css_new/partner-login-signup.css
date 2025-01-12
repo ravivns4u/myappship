@@ -1,0 +1,322 @@
+
+
+/********************************Login-signup*********************************/
+.login-signup-container.partner-almost{max-width:950px;}
+.login-signup-container {
+  max-width:770px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border: 1px solid #4E1E7E33;
+  border-radius: 8px;
+  -webkit-transition: all 0.8s ease;
+  -ms-transition: all 0.48s ease;
+  transition: all 0.8s ease;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top:-100%;
+  left: 50%; z-index: 999;
+}
+
+.login-signup-container .left {
+  max-width: 315px;
+  width: 100%;
+  background: transparent linear-gradient(90deg, #7B58EB 0%, #7043FF 100%) 0% 0% no-repeat;
+  border-radius: 8px;
+  padding:20px 30px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.login-signup-container .left h3{font-size:24px; line-height:35px; color:#fff; font-weight:700; margin-bottom: 15px; font-family: "Poppins", sans-serif;}
+.login-signup-container .left p{font-size:16px; line-height:26px; color:#fff; font-weight:400; margin-bottom:35px; font-family: "Poppins", sans-serif;}
+.login-signup-container .right {
+  max-width: 100% !important;
+  width: 100%;
+  background: #fff;
+  border-radius: 0 8px 8px 0;
+  position: relative;
+  padding:20px 40px;
+  left: -6px;
+  z-index: -1;
+}
+.login-signup-container .close-icon{position: absolute; top: 20px; right: 20px;}
+
+.login-signup-container .right form h5{font-size:20px; line-height: 26px; color: #363636; font-weight: 600; margin-bottom: 15px;}
+.login-signup-container .right form h5 small{font-size:16px; line-height: 26px; color: #363636; font-weight:400;}
+
+
+.login-signup-container .right form p {
+  font-size: 12px;
+  line-height: 16px;
+  color: #3C3C3C;
+  font-weight: 400;
+  margin-bottom:25px;
+  display: flex;
+  justify-content: space-between;
+}
+.login-signup-container .right form p .edit-number{color: #1A82F6; font-size: 14px; font-weight: 600;}
+.login-signup-container .right form input[type="text"], .login-signup-container .right form input[type="email"], .login-signup-container .right form input[type="password"]{background:#fff; border-radius:8px; border:1px solid #979797; color: #454F63; font-weight: 400; padding:15px 10px; width: 100%; margin-bottom:30px; font-family: "Roboto", sans-serif; font-size: 14px;}
+
+.login-signup-container .right form select{border-radius:8px; border:1px solid #979797; color: #454F63; font-weight: 400; padding:15px 10px; width: 100%; margin-bottom:30px; background: url(../images_new/black-arrow.svg) no-repeat right 11px #fff !important; cursor: pointer; appearance: none; -webkit-appearance: none; font-size: 14px;}
+
+.login-signup-container .right form .tab-btn {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin-bottom: 25px;
+}
+.login-signup-container .right form .tab-btn button {
+  font-size: 16px;
+  line-height: 20px;
+  color: #363636;
+  background: #fff;
+  border: 1px solid #363636;
+  padding: 7px 10px;
+  min-width: 116px;
+  font-weight: 500; cursor: pointer;
+  font-family: "Roboto", sans-serif;
+}
+.login-signup-container .right form .tab-btn li:first-child button{border-radius: 4px 0px 0px 4px;}
+.login-signup-container .right form .tab-btn li:last-child button{border-radius: 0px 4px 4px 0px}
+.login-signup-container .right form .tab-btn li.active button{background: #363636; color: #fff;}
+.form-btn {
+  font-size: 14px;
+  line-height: 21px;
+  color: #fff;
+  font-weight: 600;
+  background: #903BDE;
+  border: 0;
+  width: 100%;
+  padding:10px;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+    -ms-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in; 
+    font-family: "Roboto", sans-serif; margin-bottom:20px;
+}
+
+.form-btn:hover {
+  background: var(--clr-darkblue-background);
+  color: var(--clr-white);
+}
+
+.bottom-line{margin-top:0; display: flex; justify-content: center; align-items: center; font-size:10px; line-height:16px; color:#AFAFAF; font-weight:400; font-family: "Poppins", sans-serif;}
+.bottom-line img{margin:0 5px 0 0; max-width:20px;}
+.otp-box {
+  width: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+.otp-box li input[type="text"]{border:1px solid #C4C4C4; border-radius:8px; width:44px !important; height:47px; text-align: center; box-shadow: 0px 3px 8px #00000029}
+
+.otp-timer {
+  list-style: none;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between; margin-bottom: 30px;
+}
+.otp-timer li{font-size:12px; line-height:16px; color: #3C3C3C; font-weight: 400;}
+.otp-timer li small{font-size:12px; line-height:16px; color: #3C3C3C; font-weight: 600;}
+.otp-timer li a{font-size:14px; line-height:19px; color: #C1C1C1; font-weight: 600;}
+
+.terms-condition {
+  font-size: 10px;
+  line-height: 16px;
+  color: #AFAFAF;
+  font-weight: 400;
+  position: relative;
+  top: -15px;
+}
+.terms-condition a{color:#5326E2;}
+.terms-condition a:hover{text-decoration: underline;}
+.login-signup-container .right form .form-group{position: relative;}
+.login-signup-container .right form .form-group .outer-box{position:relative;}
+.login-signup-container .right form .form-group .outer-box .label {
+  position: absolute;
+  top: -10px;
+  left: 10px;
+  color: rgba(69, 79, 99, 0.5);
+  font-size: 14px;
+  background: #fff;
+  padding: 3px 5px;
+}
+.login-signup-container .right form .form-group .not-register {
+  font-size: 10px;
+  line-height: 15px;
+  color: #AFAFAF;
+  margin: 15px 0;
+  display: block;
+  text-align: center; font-family: "Poppins", sans-serif;
+}
+.login-signup-container .right form .form-group .not-register a{color: #3D00FF;}
+.login-signup-container .right form .form-group .not-register a:hover{color:#903BDE;}
+.login-signup-container .right form .form-group > small {
+  position: absolute;
+  top: -11px;
+  left: 7px;
+  background: #fff;
+  font-size: 12px;
+  line-height: 16px;
+  color: #9ba0ab;
+  padding: 4px;
+}
+.login-signup-container .right form .form-group .get-code {
+  position: absolute;
+  top: 1px;
+  right: 0px;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 500;
+  color: #fff;
+  background: #363636;
+  min-width: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0 6px 6px 0;
+  border: 0;
+  height: 47px; cursor: pointer; font-family: "Poppins", sans-serif;
+}
+.login-signup-container .right form .form-group .get-code:hover{background: #4E1E7E;}
+
+.code-btn-fix{padding-right: 80px !important;}
+.otp-verified {
+  background: #E2FFEB 0% 0% no-repeat;
+  border: 1px solid #8FD3A4;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  color: #02C33E;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  max-width: 250px;
+  gap: 7px;
+  position: fixed;
+  top: -300px;
+  left: 50%;
+  transform: translateX(-50%); 
+  -webkit-transform: translateX(-50%); 
+}
+.login-signup-container .right .form-row {
+	display: flex;
+	justify-content: space-between;
+	gap: 30px;
+}
+.login-signup-container .right .form-row .form-group{width: 100%;}
+.half {
+	width: 100% !important;
+	max-width: 253px;
+}
+.pull-right{float: right;}
+
+
+
+/* Style for the dropdown container */
+.partner-almost .dropdown {
+	display: inline-block;
+	width: 100%;
+	border-radius: 8px;
+	border: 1px solid #979797;
+  background: url(../images_new/black-arrow.svg) no-repeat right 12px #fff;
+  padding: 15px 10px; margin-bottom: 20px;
+}
+.dropdown-button span{color: #5326E2; font-weight: 500;}
+/* Style for the dropdown button */
+.partner-almost .dropdown-button {
+	cursor: pointer;
+	width: 100%;
+	text-align: left;
+	font-size: 14px;
+	color: #454F63;
+}
+
+/* Style for the dropdown content */
+.partner-almost .dropdown-content {
+	position: absolute;
+	background: #FFFFFF;
+	box-shadow: 0px 3px 6px #00000029;
+	border-radius: 0px 0px 8px 8px;
+	z-index: 1;
+	width: 100%;
+	height: 160px;
+	overflow-y: scroll;
+	background: #fff;
+	scrollbar-width: thin;
+  left:0;
+  top: 44px;
+  display: none;
+}
+
+/* Show the dropdown content when the dropdown is hovered or clicked */
+.dropdown:hover .dropdown-content,
+.dropdown:focus-within .dropdown-content {
+  display: block;
+}
+.login-signup-container.partner-almost .dropdown-content .chk_box{padding: 8px 12px 8px 32px;}
+.partner-almost .dropdown-content .chk_box:hover{background:#F8F5FF;}
+.partner-almost .dropdown-content .chk_box:hover input ~ .checkmark{background:#7B58EB; border-color: #7B58EB;}
+.partner-almost .checkmark {
+	position: absolute;
+	top:9px;
+	left:12px;
+	height:16px;
+	width:16px;
+	border: 2px solid #000;
+}
+.partner-almost .chk_box input:checked ~ .checkmark {
+	background-color: #7B58EB;
+	border-color: #7B58EB;
+}
+
+.partner-almost .chk_box .checkmark::after {
+	left: 3px;
+	top: 1px;
+	width: 3px;
+	height: 7px;
+	border: solid white;
+	border-width: 0 3px 3px 0;
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+.partner-almost ul.tab-buttons {
+	border: 1px solid #707070;
+	border-radius: 8px;
+	list-style: none;
+	width: 100%;
+	display: flex;
+	justify-content: space-between; margin-bottom: 30px; overflow: hidden;
+}
+.partner-almost ul.tab-buttons li{border-left: 1px solid #707070; width: 100%;}
+.partner-almost ul.tab-buttons li:first-child{border-left: 0;}
+.partner-almost ul.tab-buttons li span{font-size:14px; line-height: 18px; font-weight: 500;}
+.partner-almost ul.tab-buttons li small{font-size:10px; line-height: 14px; font-weight: 400;}
+.partner-almost ul.tab-buttons li a{display: flex; flex-direction: column; align-items: center; justify-content: center; color: #363636; padding:9px 5px;}
+.partner-almost ul.tab-buttons li a:hover{background:#363636; color: #fff;}
+.partner-almost ul.tab-buttons li.active a{background:#363636; color: #fff;}
+
+/*********************************Login-signup end**************************************/
+
+
+@media only screen and (max-width:767px){
+.login-signup-container.partner-almost{padding: 50px 0;}
+.login-signup-container.partner-almost .otp-verified{top: 0 !important;}
+}
+
+@media only screen and (max-width:560px){
+  .login-signup-container.partner-almost .form-row{flex-direction: column; gap:0;}
+  .login-signup-container.partner-almost .form-row input[type="text"], .login-signup-container.partner-almost .form-row input[type="email"], .login-signup-container.partner-almost .form-row select{margin-bottom:20px;}
+}

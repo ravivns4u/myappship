@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.069" x2="0.991" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#aa6aff"/>
+      <stop offset="0.493" stop-color="#9c55fd"/>
+      <stop offset="1" stop-color="#8f3bff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_220103" data-name="Group 220103" transform="translate(-131 -952)">
+    <circle id="Ellipse_74" data-name="Ellipse 74" cx="30" cy="30" r="30" transform="translate(131 952)" fill="url(#linear-gradient)"/>
+    <text id="_" data-name="₹" transform="translate(153 994)" fill="#fff" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">₹</tspan></text>
+  </g>
+</svg>

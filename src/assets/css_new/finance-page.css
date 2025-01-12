@@ -1,0 +1,423 @@
+.finance-container {
+	background: #FFFFFF;
+	width: 98%;
+	margin: 15px auto;
+  padding: 20px; position: relative;
+}
+.profile-area > h5 {
+	color: #3A3A3A;
+	font-size: 16px;
+	line-height: 20px;
+	font-weight:700;
+	margin-bottom: 20px;
+  font-family: "Poppins", sans-serif;
+
+}
+.profile-area {
+	width: 100%;
+	border-bottom: 1px solid #CFD2E2;
+	padding-bottom: 20px;
+}
+.head-links {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 20px 0 30px 0;
+}
+.profile-row{display:flex; width: 100%;}
+.profile-row .name h5{color: #3A3A3A;
+	font-size: 16px;
+	line-height: 20px;
+	font-weight:700;
+	margin-bottom:5px; font-family: "Poppins", sans-serif;}
+
+  .profile-row .name span{color: #3A3A3A;
+    font-size:12px;
+    line-height:16px;
+    font-weight:500; font-family: "Poppins", sans-serif;
+   }
+   .profile-row figure {
+    border: 2px solid #EFEFF4;
+    border-radius: 4px;
+    width:50px;
+    height:50px;
+    padding: 3px; margin:0 12px 0 0;
+  }
+  .profile-row figure .inner {
+    background: #F7EFFF;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px; position: relative;
+  }
+  .profile-row figure .inner img {
+    max-width: 27px;
+  }
+  .profile-row figure .inner .edit {
+    position: absolute;
+    right: 0;
+    bottom: -3px;
+  }
+
+  .details-container{width: 100%;}
+  .detail-links {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 15px;
+  
+  }
+  .detail-links li a {
+    font-size: 12px;
+    line-height: 16px;
+    color: #363636;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    border: 0.5px solid #CFD2E2;
+    border-radius: 4px;
+    min-width: 192px;
+    height: 40px;
+    position: relative;
+    padding: 0 40px 0 10px; font-family: "Poppins", sans-serif;
+  }
+  .detail-links li a > svg{margin-right:10px; max-width:20px;}
+  .detail-links li a .green-icon{margin:0 0 0 10px; position: absolute; right: 10px;}
+  .detail-links li.active a {background: #F7EFFF; color: #903BDE;}
+  .detail-links li.active a svg #Path_297774,  .detail-links li.active a svg #Path_297776, .detail-links li.active a svg #Path_297778{fill: #903BDE;}
+  .detail-links li a svg #Path_297774,  .detail-links li a svg #Path_297776, .detail-links li a svg #Path_297778{fill: #363636;}
+  
+ 
+  .head-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px; padding-left: 20px;
+  }
+  .head-row h4{font-size: 18px; line-height:20px; font-weight:600;}
+
+/*********************Dashboard****************/
+.dashboard{width: 100%; margin-bottom:30px;}
+.dashboard .card-row{display: flex; gap:30px; margin-bottom: 20px;}
+.dashboard .card-row .card {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height:280px;
+	border-radius: 8px;
+	background: #fff;
+	padding: 27px 15px 36px 15px;
+	width: 33.33%;
+	flex-direction: column; border: 0;
+}
+.Outstanding{background: #F5F2FF !important;}
+.paid{background:#EFFEF0 !important;}
+.total{background: #FEF7E6 !important;}
+
+.Outstanding strong{color: #5329E2;}
+.paid strong{color: #01AC14;}
+.total strong{color:#E2A126;}
+
+.dashboard .card-row .card h5{text-align: center; font-size: 19px; line-height: 25px; font-weight: 500; color: #1B2F5B; margin-bottom: 15px; font-family: "Poppins", sans-serif;}
+.dashboard .card-row .card strong{text-align: center; font-size:35px; line-height:45px; font-weight:600; margin-bottom:35px; font-family: "Poppins", sans-serif;}
+.dashboard .card-row .card .card-btn {
+	width: 100%;
+	max-width: 245px;
+	height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 25px;
+	line-height: 33px;
+	font-weight: 400;
+	border: 0;
+	color: #fff;
+	border-radius: 50px; cursor: pointer;
+  -webkit-transition: all 0.3s linear;
+  -ms-transition: all 0.3s linear;
+  transition: all 0.3s linear; position: relative; font-family: "Roboto", sans-serif;
+}
+.dashboard .card-row .card .card-btn:hover{background: #363636;}
+.text-blur-color{color:#5329E2;}
+.text-green-color{color:#01AC14;}
+.text-yellow-color{color:#E2A126;}
+
+.bg-blur-color{background:#5329E2;}
+.bg-green-color{background:#01AC14;}
+.bg-yellow-color{background:#E2A126;}
+
+.tables-container{width:100%;}
+.table-group{display:flex; gap: 50px; }
+.table-outer {
+	border: 1px solid #CCCCCC;
+	border-radius: 8px;
+	width: 100%;
+	overflow: hidden;
+}
+
+.table-outer h5 {
+	font-size: 18px;
+	line-height: 20px;
+	color: #fff;
+	font-weight: 500;
+	padding: 0 15px;
+	text-align: left;
+	background: transparent linear-gradient(94deg, #875EC0 0%, #5446BA 100%) 0% 0% no-repeat;
+	height: 47px;
+	display: flex;
+	align-items: center;
+	border-radius:6px 6px 0 0; margin: 0;
+}
+.paynow {
+	background: #903BDE;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: 600;
+	color: #fff;
+	border: 0;
+	border-radius: 6px;
+	cursor: pointer;
+	-webkit-transition: all 0.3s ease-in;
+	-ms-transition: all 0.3s ease-in;
+	transition: all 0.3s ease-in;
+	padding: 5px 10px;
+}
+.paynow:hover {
+	background: #4E1E7E;
+}
+
+table{width:100%; border-collapse: collapse; border: 0;}
+table tr th{font-size:12px; line-height:16px; color:#3A3A3A; font-weight:600; padding:0 15px; text-align: left; height: 36px; border-bottom: 1px solid #CCCCCC; border-top: 1px solid #CCCCCC; font-family: "Poppins", sans-serif;}
+table tr td{font-size:12px; line-height:16px; color:#3A3A3A; font-weight:400; padding:0 15px; text-align: left; height: 36px; border-bottom: 1px solid #CCCCCC; border-top: 1px solid #CCCCCC; font-family: "Poppins", sans-serif;}
+.table-outer table tr:last-child td, .table-outer table tr:last-child th{border-bottom: 0;}
+.table-outer table tr:first-child td, .table-outer table tr:first-child th{border-top: 0;}
+.table-outer table tr.heading td{padding: 0;}
+table tr td b{font-size:12px; line-height:16px; color:#363636; font-weight:500; font-family: "Roboto", sans-serif;}
+.dashboard table tr:nth-child(even) td, .dashboard table tr:nth-child(even) th{background:#F7EFFF;}
+.invoices table tr:nth-child(odd) td, .invoices table tr:nth-child(odd) th{background:#F7EFFF;}
+.Transactions table tr:nth-child(odd) td, .Transactions table tr:nth-child(odd) th{background:#F7EFFF;}
+table tr.head-active th, table tr.head-active td{background:#F4F4F4 !important;}
+table tr td b.invoice-no{color:#0779FF;}
+
+
+form .form-row {
+    display: flex;
+    list-style: none;
+    margin-bottom: 25px;
+  }
+  form .form-row ul{list-style:none; display: flex; gap: 15px;}
+  form .form-row ul:first-child{margin-right:30px;}
+  form .form-row ul li .outer {
+    position: relative;
+    background: #fff;
+    border-radius: 4px;
+    border: 1.5px solid #363636;
+    padding: 9px;
+    min-width: 220px;
+    height: 37px;
+  }
+  form .form-row ul li .outer .date-icon{position:absolute; right:15px;}
+  form .form-row ul li .outer label {
+    position: absolute;
+    top: -10px;
+    left: 10px;
+    color: #7E7E7E;
+    font-size: 12px;
+    background: #fff;
+    padding: 3px 5px;
+    font-weight: 400;
+    border-radius: 5px; font-family: "Poppins", sans-serif;
+  }
+
+  form .form-row ul li .outer input[type="text"], form .form-row ul li .outer input[type="email"], form .form-row ul li .outer input[type="password"], form .form-row ul li .outer select {
+    width: 100%;
+    border: 0;
+    padding: 0 5px;
+    width: 100%;
+    font-size: 14px;
+    line-height: 16px;
+    color: #3A3A3A;
+    font-weight: 400;
+    position: relative;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  form .form-row ul li .outer input[type="text"]::placeholder, form .form-row ul li .outer input[type="email"]::placeholder, form .form-row ul li .outer input[type="password"]::placeholder{color:#3A3A3A; opacity: 1;}
+  form .form-row ul li .outer select{appearance: none; -moz-appearance: none; background: url(../images/arrow-down-s-line.svg) no-repeat right -1px; cursor: pointer;}
+  form .form-row ul li .outer label sup{color: #D9232D;}
+
+  .border-btn.mini svg {max-width: 20px; margin-right: 5px;}
+  .border-btn:hover svg path#Path_71111{fill: #fff;}
+  .reset-btn {
+    font-size: 10px;
+    line-height: 12px;
+    color: #3C3C3C;
+    opacity: 0.3;
+    font-weight: 600;
+    cursor: pointer;
+    border: 0;
+    padding: 5px 10px;
+  min-height: 37px;
+  background: none; border-radius: 6px; border: 1px solid transparent; font-family: "Poppins", sans-serif;
+  }
+  .reset-btn:hover{border: 1px solid #3c3c3c;}
+.pagination-row{display:flex; margin-bottom: 15px;}
+.pagination-row select {
+	appearance: none;
+	-moz-appearance: none;
+	background: url(../images/arrow-down-s-line.svg) no-repeat right 2px;
+	cursor: pointer;
+	font-size: 12px;
+	line-height: 20px;
+	color: #000000;
+	border: 0.5px solid #CFD2E2;
+	border-radius: 4px;
+	min-width: 90px;
+	height: 24px;
+	padding: 0 5px; margin-right:20px; font-family: "Poppins", sans-serif;
+}
+.pagination {
+	display: flex;
+	list-style: none; gap: 2px;
+}
+.pagination li {
+	font-size: 12px;
+	line-height: 18px;
+	color: #363636;
+	font-weight: 500;
+	display: flex;
+	justify-content: center;
+	align-items: center; font-family: "Poppins", sans-serif;
+}
+.pagination li a {
+	color: #363636;
+	width: 20px;
+	height: 20px;
+	border-radius: 4px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.pagination li a:hover{background: #363636; color: #fff;}
+.pagination li.active a{background: #363636; color: #fff;}
+
+.invoices, .Transactions {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.details-container .allRates form{padding: 0;}
+
+/*******************************Responsive css***********************/
+@media only screen and (min-width:768px) and (max-width:1250px){
+  .dashboard .card-row .card h5{font-size:16px; margin-bottom: 10px;}
+  .dashboard .card-row .card strong {
+    font-size: 25px;
+    line-height:35px;
+    margin-bottom: 20px;
+  }
+  .dashboard .card-row .card .card-btn{font-size:20px;}
+  .dashboard .card-row .card {
+    min-height: 230px;
+    height: auto;
+  }
+  .table-outer {
+    width: 100%;
+    overflow-x: auto;
+  }
+  table tr th, table tr td{white-space: nowrap;}
+  form .form-row ul:first-child {
+    margin-right: 15px;
+  }
+  form .form-row ul li .outer{min-width: 130px;}
+}
+
+
+@media only screen and (max-width:767px){
+  .detail-links li a {
+    font-size: 12px;
+    line-height: 16px;
+    align-items: center;
+    min-width: 100%;
+    height: 30px;
+    position: relative;
+    padding: 5px;
+  } 
+  .detail-links li a .green-icon {
+    display: none;
+  }
+  .detail-links li a > svg {
+    margin-right: 4px;
+    max-width: 15px;
+  }
+  .finance-container{padding:15px;}
+  .detail-links {
+    gap: 5px;
+  }
+  .dashboard .card-row {
+    gap:20px;
+    flex-direction: column;
+  }
+  .dashboard .card-row .card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:auto;
+    border-radius: 8px;
+    background: #fff;
+    padding: 27px 15px 36px 15px;
+    width: 100%;
+
+  }
+  .dashboard .card-row .card strong {
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 25px;
+  }
+  .dashboard .card-row .card .card-btn {
+    height: 50px;
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .table-group {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+  }
+  .table-outer {
+    width: 100%;
+    overflow-x: auto;
+  }
+  .table-outer-full{width: 100%; overflow-x: auto;}
+  table tr th, table tr td{white-space: nowrap;}
+  .table-outer h5{width:100%;}
+  .invoices form{width:100%}
+  form .form-row {
+    gap: 15px;
+    margin-bottom: 25px;
+    flex-direction: column;
+  }
+  form .form-row li.mobile-btn{width:33.33%;}
+  form .form-row > ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    margin: 0 !important;
+    flex-direction: column;
+  }
+  form .form-row > ul:last-child {
+    display: flex;
+    flex-direction: row;
+
+  }
+
+
+form .form-row > ul:last-child li{width: auto;}
+
+}
+
+
+@media only screen and (max-width:479px){
+  
+}
